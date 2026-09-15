@@ -337,11 +337,11 @@
       "palette": "teal",
       "items": [
         {
-          "emoji": "🌿",
-          "title": "حياة القرية",
-          "subtitle": "من القناتين المعتمدتين • 40 دقيقة فأكثر",
-          "query": "@country_life_vlog @clvoldepisodes Country Life Vlog",
-          "minDurationMs": 2400000
+          "icon": "🌿",
+          "name": "حياة القرية",
+          "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
+          "query": "nibras:village",
+          "minDurationMinutes": 40
         }
       ]
     },
