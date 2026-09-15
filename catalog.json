@@ -271,6 +271,20 @@
           "subtitle": "ابتكار وكيف تعمل الأشياء",
           "query": "اختراعات وتجارب للأطفال عربي",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "عجائب الأرض",
+          "subtitle": "رحلات مدهشة في أسرار كوكبنا",
+          "query": "nibras:al3alam",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🎥",
+          "title": "وثائقيات وعدسة",
+          "subtitle": "اكتشافات وحكايات من حول العالم",
+          "query": "nibras:adasa",
+          "minDurationMs": 0
         }
       ]
     },
@@ -337,11 +351,11 @@
       "palette": "teal",
       "items": [
         {
-          "icon": "🌿",
-          "name": "حياة القرية",
+          "emoji": "🌿",
+          "title": "حياة القرية",
           "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
           "query": "nibras:village",
-          "minDurationMinutes": 40
+          "minDurationMs": 2400000
         }
       ]
     },
