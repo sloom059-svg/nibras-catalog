@@ -285,6 +285,13 @@
           "subtitle": "اكتشافات وحكايات من حول العالم",
           "query": "nibras:adasa",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "💡",
+          "title": "اختراعات مدهشة",
+          "subtitle": "أفكار واختراعات تفتح أبواب الفضول والاكتشاف",
+          "query": "UCAH4NOIbnHpN3cW0Kgg2oOw",
+          "minDurationMs": 0
         }
       ]
     },
@@ -355,6 +362,20 @@
           "title": "حياة القرية",
           "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
           "query": "nibras:village",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "قرى العالم",
+          "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
+          "query": "@travillage22",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌿",
+          "title": "حياة ريفية",
+          "subtitle": "يوميات هادئة وجميلة من قلب القرية",
+          "query": "@sweetvillagechannel",
           "minDurationMs": 0
         }
       ]
@@ -458,6 +479,13 @@
           "title": "هيا نرسم",
           "subtitle": "رسم للصغار",
           "query": "هيا نرسم براعم",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✂️",
+          "title": "حرف وأفكار مبتكرة",
+          "subtitle": "أفكار فنية وتجارب ممتعة نصنعها بأيدينا",
+          "query": "@5mcarabic",
           "minDurationMs": 0
         }
       ]
