@@ -355,7 +355,7 @@
           "title": "حياة القرية",
           "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
           "query": "nibras:village",
-          "minDurationMs": 2400000
+          "minDurationMs": 0
         }
       ]
     },
