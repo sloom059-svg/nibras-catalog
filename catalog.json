@@ -1,0 +1,555 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "series",
+      "emoji": "📺",
+      "title": "المسلسلات",
+      "description": "حلقات ومسلسلات مختارة",
+      "palette": "purple",
+      "items": [
+        {
+          "emoji": "🧢",
+          "title": "منصور",
+          "subtitle": "الحلقات العربية",
+          "query": "مغامرات منصور الحلقة كاملة عربي Mansour",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👦",
+          "title": "كايو",
+          "subtitle": "الحلقات العربية",
+          "query": "كايو بالعربي الحلقة كاملة Caillou Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🤖",
+          "title": "دورايمون",
+          "subtitle": "مدبلج بالعربية",
+          "query": "دورايمون الحلقة كاملة مدبلج عربي Doraemon",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🎈",
+          "title": "تيلا وتولا",
+          "subtitle": "من برامج براعم",
+          "query": "تيلا وتولا براعم الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💙",
+          "title": "السنافر الجديد 3D",
+          "subtitle": "إصدار 2021 فقط",
+          "query": "السنافر الجديد 3D 2021 عربي الحلقة كاملة The Smurfs 2021 Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌸",
+          "title": "فافا",
+          "subtitle": "من برامج براعم",
+          "query": "فافا براعم الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌼",
+          "title": "نان وليلي",
+          "subtitle": "من برامج براعم",
+          "query": "نان وليلي براعم الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧰",
+          "title": "العم مصلح",
+          "subtitle": "من برامج براعم",
+          "query": "العم مصلح براعم الحلقة كاملة",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "movies",
+      "emoji": "🎬",
+      "title": "أفلام وكرتون",
+      "description": "كرتون وحلقات ممتعة",
+      "palette": "rose",
+      "items": [
+        {
+          "emoji": "🐭",
+          "title": "توم وجيري",
+          "subtitle": "توم وجيري فقط",
+          "query": "توم وجيري عربي الحلقة كاملة Tom and Jerry Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐥",
+          "title": "سلفستر وتويتي",
+          "subtitle": "الحلقات المدبلجة",
+          "query": "سلفستر وتويتي عربي الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚓",
+          "title": "باباي",
+          "subtitle": "الحلقات العربية",
+          "query": "باباي البحار عربي الحلقة كاملة Popeye Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🍿",
+          "title": "أفلام كرتون",
+          "subtitle": "أفلام مناسبة للصغار",
+          "query": "فيلم كرتون عربي مدبلج كامل للأطفال",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "classics",
+      "emoji": "⭐",
+      "title": "كرتون زمان",
+      "description": "كلاسيكيات ومغامرات جميلة",
+      "palette": "amber",
+      "items": [
+        {
+          "emoji": "🐻",
+          "title": "مغامرات بسيط",
+          "subtitle": "كرتون زمان",
+          "query": "مغامرات بسيط الحلقة كاملة عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚓",
+          "title": "باباي",
+          "subtitle": "الحلقات الكلاسيكية",
+          "query": "باباي البحار عربي الحلقة كاملة Popeye Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐭",
+          "title": "توم وجيري",
+          "subtitle": "كلاسيكيات مختارة",
+          "query": "توم وجيري عربي الحلقة كاملة Tom and Jerry Arabic",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "adventure",
+      "emoji": "🚀",
+      "title": "المغامرات",
+      "description": "أبطال ورحلات مشوقة",
+      "palette": "purple",
+      "items": [
+        {
+          "emoji": "🚀",
+          "title": "عدنان ولينا",
+          "subtitle": "الحلقات المرتبة",
+          "query": "عدنان ولينا الحلقة كاملة رقم",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "كابتن ماجد",
+          "subtitle": "الحلقات العربية",
+          "query": "كابتن ماجد الحلقة كاملة رقم",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "الكابتن رابح",
+          "subtitle": "الحلقات العربية",
+          "query": "الكابتن رابح الحلقة كاملة رقم",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🪐",
+          "title": "مغامرات سبيستون",
+          "subtitle": "مغامرات مدبلجة",
+          "query": "سبيستون مغامرات حلقات كاملة عربي",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "comedy",
+      "emoji": "😄",
+      "title": "ضحك ومرح",
+      "description": "حلقات خفيفة ومضحكة",
+      "palette": "rose",
+      "items": [
+        {
+          "emoji": "🐭",
+          "title": "توم وجيري",
+          "subtitle": "كوميديا كلاسيكية",
+          "query": "توم وجيري عربي الحلقة كاملة Tom and Jerry Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐥",
+          "title": "سلفستر وتويتي",
+          "subtitle": "الحلقات المدبلجة",
+          "query": "سلفستر وتويتي عربي الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚓",
+          "title": "باباي",
+          "subtitle": "مغامرات مرحة",
+          "query": "باباي البحار عربي الحلقة كاملة Popeye Arabic",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "spacetoon",
+      "emoji": "🪐",
+      "title": "عالم سبيستون",
+      "description": "مختارات سبيستون",
+      "palette": "amber",
+      "items": [
+        {
+          "emoji": "🪐",
+          "title": "عالم سبيستون",
+          "subtitle": "حلقات عربية مختارة",
+          "query": "سبيستون حلقات كاملة عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🚀",
+          "title": "كوكب أكشن",
+          "subtitle": "مغامرات وأبطال",
+          "query": "سبيستون أكشن حلقات كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "😄",
+          "title": "كوكب كوميديا",
+          "subtitle": "حلقات مرحة",
+          "query": "سبيستون كوميديا حلقات كاملة",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "learning",
+      "emoji": "🔬",
+      "title": "اكتشف وتعلم",
+      "description": "علوم وتجارب وابتكارات",
+      "palette": "cyan",
+      "items": [
+        {
+          "emoji": "🧪",
+          "title": "عجائب العلوم",
+          "subtitle": "تجارب واكتشاف",
+          "query": "عجائب العلوم للأطفال الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌌",
+          "title": "الفضاء والكون",
+          "subtitle": "كواكب ونجوم",
+          "query": "الفضاء والكواكب للأطفال عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💡",
+          "title": "الاختراعات",
+          "subtitle": "ابتكار وكيف تعمل الأشياء",
+          "query": "اختراعات وتجارب للأطفال عربي",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "animals",
+      "emoji": "🦁",
+      "title": "الحيوانات والطبيعة",
+      "description": "حياة برية وطيور وزواحف وحشرات",
+      "palette": "green",
+      "items": [
+        {
+          "emoji": "🦁",
+          "title": "عالم البرية",
+          "subtitle": "من Quest Arabiya",
+          "query": "Quest Arabiya عالم البرية حيوانات براري -shorts",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "حيوانات صديقة",
+          "subtitle": "على غير العادة",
+          "query": "ناشيونال جيوغرافيك أبوظبي حيوانات صديقة على غير العادة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐦",
+          "title": "عالم الطيور",
+          "subtitle": "طيور وحياة برية",
+          "query": "Quest Arabiya عالم الطيور -shorts",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦎",
+          "title": "الزواحف",
+          "subtitle": "زواحف وبرمائيات",
+          "query": "Quest Arabiya زواحف افاعي سحالي تماسيح -shorts",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐜",
+          "title": "الحشرات",
+          "subtitle": "عالم الحشرات",
+          "query": "Homemade Ecosystems insects ecosystem",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦈",
+          "title": "البحار والمحيطات",
+          "subtitle": "مخلوقات البحر",
+          "query": "Quest Arabiya عالم البحار المحيطات حيوانات بحرية -shorts",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "village",
+      "emoji": "🌿",
+      "title": "حياة القرية",
+      "description": "حياة ريفية من القنوات المعتمدة",
+      "palette": "teal",
+      "items": [
+        {
+          "emoji": "🌿",
+          "title": "حياة القرية",
+          "subtitle": "من القناتين المعتمدتين • 40 دقيقة فأكثر",
+          "query": "@country_life_vlog @clvoldepisodes Country Life Vlog",
+          "minDurationMs": 2400000
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "world",
+      "emoji": "🌍",
+      "title": "اكتشف العالم",
+      "description": "بلدان وطبيعة ومعرفة",
+      "palette": "sky",
+      "items": [
+        {
+          "emoji": "🗺",
+          "title": "دول العالم",
+          "subtitle": "بلدان وأعلام",
+          "query": "دول العالم للأطفال عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🏛",
+          "title": "حضارات ومعالم",
+          "subtitle": "تاريخ مبسط",
+          "query": "حضارات ومعالم للأطفال عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌋",
+          "title": "كوكب الأرض",
+          "subtitle": "طقس وبراكين وطبيعة",
+          "query": "كوكب الأرض للأطفال عربي براكين طقس",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "stories",
+      "emoji": "📖",
+      "title": "حكايات وقصص",
+      "description": "قصص عربية ممتعة",
+      "palette": "cyan",
+      "items": [
+        {
+          "emoji": "📖",
+          "title": "قصص عربية",
+          "subtitle": "حكايات مصورة",
+          "query": "قصص أطفال عربية كرتون",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌙",
+          "title": "قصص قبل النوم",
+          "subtitle": "هادئة ومفيدة",
+          "query": "قصص قبل النوم للأطفال عربي كرتون",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧭",
+          "title": "قصص مغامرات",
+          "subtitle": "حكايات ممتعة",
+          "query": "قصص مغامرات للأطفال عربي كرتون",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "الإبداع والقيم",
+      "id": "make",
+      "emoji": "🎨",
+      "title": "ارسم واصنع",
+      "description": "فن وأعمال يدوية",
+      "palette": "teal",
+      "items": [
+        {
+          "emoji": "🎨",
+          "title": "السيد بارع",
+          "subtitle": "رسم وصناعة وابتكار",
+          "query": "السيد بارع براعم عربي Mister Maker Arabic",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✂",
+          "title": "نادي الحرفيين الصغار",
+          "subtitle": "أعمال يدوية",
+          "query": "نادي الحرفيين الصغار براعم",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧱",
+          "title": "فرافيرو",
+          "subtitle": "ألوان وصلصال",
+          "query": "فرافيرو براعم عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🖍",
+          "title": "هيا نرسم",
+          "subtitle": "رسم للصغار",
+          "query": "هيا نرسم براعم",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "الإبداع والقيم",
+      "id": "islamic",
+      "emoji": "☪",
+      "title": "القيم والإسلام",
+      "description": "قصص وأخلاق وتعليم",
+      "palette": "emerald",
+      "items": [
+        {
+          "emoji": "🌙",
+          "title": "سعود وسارة",
+          "subtitle": "قيم وقصص للأطفال",
+          "query": "سعود وسارة كرتون الحلقة كاملة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📖",
+          "title": "سراج",
+          "subtitle": "حروف وقيم وتعليم",
+          "query": "سراج راشد ونورة الحلقة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "كرتون أنا مسلم",
+          "subtitle": "تعليم إسلامي",
+          "query": "كرتون أنا مسلم الحلقة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌟",
+          "title": "عمر وهنا",
+          "subtitle": "قصص وقيم إسلامية",
+          "query": "عمر وهنا كرتون عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌿",
+          "title": "ونيس",
+          "subtitle": "كرتون إسلامي",
+          "query": "Wanees cartoon ونيس كرتون إسلامي",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "الإبداع والقيم",
+      "id": "brain",
+      "emoji": "🧠",
+      "title": "تحد عقلك",
+      "description": "ألغاز وتحديات ممتعة",
+      "palette": "indigo",
+      "items": [
+        {
+          "emoji": "🧠",
+          "title": "ألغاز وذكاء",
+          "subtitle": "تحديات مناسبة للأطفال",
+          "query": "ألغاز ذكاء للأطفال عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔎",
+          "title": "اكتشف الاختلاف",
+          "subtitle": "تحديات بصرية",
+          "query": "اكتشف الاختلاف للأطفال عربي",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "❓",
+          "title": "خمن واعرف",
+          "subtitle": "معلومات عامة",
+          "query": "خمن للأطفال عربي معلومات عامة",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "الإبداع والقيم",
+      "id": "haramain",
+      "emoji": "🕋",
+      "title": "الحرمين",
+      "description": "القنوات الرسمية للحرمين",
+      "palette": "teal",
+      "items": [
+        {
+          "emoji": "🕋",
+          "title": "المسجد الحرام",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "قناة القرآن الكريم المسجد الحرام الرسمية",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "المسجد النبوي",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "قناة السنة النبوية المسجد النبوي الرسمية",
+          "minDurationMs": 0
+        }
+      ]
+    }
+  ]
+}
