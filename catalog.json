@@ -179,38 +179,6 @@
       ]
     },
     {
-      "group": "entertainment",
-      "groupTitle": "عالم الترفيه والمرح",
-      "id": "comedy",
-      "emoji": "😄",
-      "title": "ضحك ومرح",
-      "description": "حلقات خفيفة ومضحكة",
-      "palette": "rose",
-      "items": [
-        {
-          "emoji": "🐭",
-          "title": "توم وجيري",
-          "subtitle": "كوميديا كلاسيكية",
-          "query": "توم وجيري عربي الحلقة كاملة Tom and Jerry Arabic",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐥",
-          "title": "سلفستر وتويتي",
-          "subtitle": "الحلقات المدبلجة",
-          "query": "سلفستر وتويتي عربي الحلقة كاملة",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⚓",
-          "title": "باباي",
-          "subtitle": "مغامرات مرحة",
-          "query": "باباي البحار عربي الحلقة كاملة Popeye Arabic",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
       "id": "learning",
@@ -354,7 +322,7 @@
       "id": "world",
       "emoji": "🌍",
       "title": "اكتشف العالم",
-      "description": "بلدان وطبيعة ومعرفة",
+      "description": "بلدان وحضارات ومعالم",
       "palette": "sky",
       "items": [
         {
@@ -384,9 +352,9 @@
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
       "id": "stories",
-      "emoji": "📖",
+      "emoji": "📚",
       "title": "حكايات وقصص",
-      "description": "قصص عربية ممتعة",
+      "description": "قصص عربية ومغامرات جميلة",
       "palette": "cyan",
       "items": [
         {
@@ -418,7 +386,7 @@
       "id": "make",
       "emoji": "🎨",
       "title": "ارسم واصنع",
-      "description": "فن وأعمال يدوية",
+      "description": "رسم وأعمال يدوية وإبداع",
       "palette": "teal",
       "items": [
         {
@@ -462,9 +430,9 @@
       "group": "creativity",
       "groupTitle": "الإبداع والقيم",
       "id": "islamic",
-      "emoji": "☪",
+      "emoji": "🌙",
       "title": "القيم والإسلام",
-      "description": "قصص وأخلاق وتعليم",
+      "description": "قصص وقيم وتعليم",
       "palette": "emerald",
       "items": [
         {
@@ -542,7 +510,7 @@
       "id": "haramain",
       "emoji": "🕋",
       "title": "الحرمين",
-      "description": "القنوات الرسمية للحرمين",
+      "description": "مقاطع وبث رسمي",
       "palette": "teal",
       "items": [
         {
