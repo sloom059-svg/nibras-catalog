@@ -211,38 +211,6 @@
       ]
     },
     {
-      "group": "entertainment",
-      "groupTitle": "عالم الترفيه والمرح",
-      "id": "spacetoon",
-      "emoji": "🪐",
-      "title": "عالم سبيستون",
-      "description": "مختارات سبيستون",
-      "palette": "amber",
-      "items": [
-        {
-          "emoji": "🪐",
-          "title": "عالم سبيستون",
-          "subtitle": "حلقات عربية مختارة",
-          "query": "سبيستون حلقات كاملة عربي",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🚀",
-          "title": "كوكب أكشن",
-          "subtitle": "مغامرات وأبطال",
-          "query": "سبيستون أكشن حلقات كاملة",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "😄",
-          "title": "كوكب كوميديا",
-          "subtitle": "حلقات مرحة",
-          "query": "سبيستون كوميديا حلقات كاملة",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
       "id": "learning",
