@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "sections": [
     {
       "group": "entertainment",
@@ -706,7 +706,7 @@
       "title": "الحيوانات والطبيعة",
       "description": "حياة برية وطيور وزواحف وحشرات",
       "palette": "green",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
       "items": [
         {
           "emoji": "🐜",
@@ -793,7 +793,7 @@
       "title": "تحديات ممتعة",
       "description": "ألغاز وتحديات ممتعة",
       "palette": "indigo",
-      "image": "https://plus.unsplash.com/premium_photo-1743686212220-e38fd85ce392?q=82&w=2200&auto=format&fit=crop",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/305137.jpg.webp",
       "items": [
         {
           "emoji": "🔎",
