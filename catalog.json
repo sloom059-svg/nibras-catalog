@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "sections": [
     {
       "group": "entertainment",
@@ -752,8 +752,8 @@
       "emoji": "🌍",
       "title": "اكتشف العالم",
       "description": "رحلات واكتشافات حول العالم",
-      "palette": "cyan",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/world.jpg",
+      "palette": "sky",
+      "image": "https://plus.unsplash.com/premium_photo-1663088923485-58685ba14d5f?q=82&w=2200&auto=format&fit=crop",
       "items": [
         {
           "emoji": "🌍",
