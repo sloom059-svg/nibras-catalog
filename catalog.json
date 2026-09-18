@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "sections": [
     {
       "group": "entertainment",
@@ -232,13 +232,6 @@
           "minDurationMs": 0
         },
         {
-          "emoji": "⛵",
-          "title": "مغامرات توم سوير",
-          "subtitle": "كرتون زمان",
-          "query": "PLMZjhCc1QBkxsGfTFVYyeKV8p03dATY2o",
-          "minDurationMs": 0
-        },
-        {
           "emoji": "🐺",
           "title": "ماوكلي",
           "subtitle": "كرتون زمان",
@@ -271,6 +264,13 @@
           "title": "وداعاً ماركو",
           "subtitle": "كرتون زمان",
           "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⛵",
+          "title": "توم سوير",
+          "subtitle": "كرتون زمان",
+          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
           "minDurationMs": 0
         }
       ],
