@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "sections": [
     {
       "group": "entertainment",
@@ -706,7 +706,7 @@
       "title": "الحيوانات والطبيعة",
       "description": "حياة برية وطيور وزواحف وحشرات",
       "palette": "green",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/refs/heads/main/tiergestuetzte-paedagogik-mit-pferden.jpg",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
       "items": [
         {
           "emoji": "🐜",
