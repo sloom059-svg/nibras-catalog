@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "sections": [
     {
       "group": "entertainment",
@@ -817,7 +817,7 @@
       "groupTitle": "الإبداع والقيم",
       "id": "brain",
       "emoji": "🧠",
-      "title": "تحد عقلك",
+      "title": "تحديات ممتعة",
       "description": "ألغاز وتحديات ممتعة",
       "palette": "indigo",
       "image": "https://plus.unsplash.com/premium_photo-1743686212220-e38fd85ce392?q=82&w=2200&auto=format&fit=crop",
