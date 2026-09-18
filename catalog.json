@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "sections": [
     {
       "group": "entertainment",
@@ -862,6 +862,13 @@
           "subtitle": "تحرك والعب",
           "query": "UUUDPSOnSgbxJsYywWepgfdg",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🏃",
+          "title": "تمارين للأطفال",
+          "subtitle": "تمارين وحركة للأطفال",
+          "query": "nibras:playlists:PLD-MFRMx69cuyp2P5KPBjo4gog6ORe-Vi,PLD-MFRMx69ctlWvw9MGhuie1z2_kvkohH",
+          "minDurationMs": 240000
         }
       ]
     },
