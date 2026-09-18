@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "sections": [
     {
       "group": "entertainment",
@@ -264,13 +264,6 @@
           "title": "وداعاً ماركو",
           "subtitle": "كرتون زمان",
           "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "👧",
-          "title": "سالي",
-          "subtitle": "كرتون زمان",
-          "query": "PLMZjhCc1QBkzLW0y_x9LDj9BFN_fF4WTq",
           "minDurationMs": 0
         }
       ],
