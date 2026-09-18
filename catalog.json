@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "sections": [
     {
       "group": "entertainment",
@@ -122,6 +122,13 @@
           "query": "PLpDqvBO1RYul9t3vMTW8cDqDBTDmALAi0",
           "minDurationMs": 1200000,
           "maxItems": 50
+        },
+        {
+          "emoji": "⛵",
+          "title": "توم سوير",
+          "subtitle": "مسلسل مدبلج",
+          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
+          "minDurationMs": 0
         }
       ],
       "image": "https://images2.alphacoders.com/135/thumb-1920-1356807.jpeg"
@@ -334,301 +341,19 @@
           "subtitle": "نينجاغو أبطال السبينجيتسو",
           "query": "PLRNbTEZ7dhL0v_zrhOux-WrzEosLWa5sJ",
           "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "learning",
-      "emoji": "🔬",
-      "title": "اكتشف وتعلم",
-      "description": "علوم وتجارب وابتكارات",
-      "palette": "cyan",
-      "items": [
-        {
-          "emoji": "🌌",
-          "title": "الفضاء والكون",
-          "subtitle": "كواكب ونجوم",
-          "query": "PL_M-Hi6YRvjMLCiPHz3pMaL_VfuKvQZAV",
-          "minDurationMs": 0
         },
         {
-          "emoji": "💡",
-          "title": "اختراعات مدهشة",
-          "subtitle": "أفكار واختراعات تفتح أبواب الفضول والاكتشاف",
-          "query": "UUAH4NOIbnHpN3cW0Kgg2oOw",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🗣️",
-          "title": "تعلم اللغة للأطفال",
-          "subtitle": "تعلم بطريقة مبسطة",
-          "query": "UU2518TJyxsPNbrpAwr0Gf7w",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔤",
-          "title": "تعلم اللغة مع أنامل الاكتشاف",
-          "subtitle": "تعلم الإنجليزية للأطفال",
-          "query": "PL3HTTXjR0lM2CIQdMB13agWKGUq8xh0Wp",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔡",
-          "title": "تعلم مع نور - حروف الهجاء",
-          "subtitle": "تعلم الحروف العربية",
-          "query": "PLOMi1w7HEoaRpQrPoAkmqr9gLoCs0xAJu",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔬",
-          "title": "سلسلة العلوم",
-          "subtitle": "علوم مبسطة للأطفال",
-          "query": "PLOMi1w7HEoaR57zcKjrNqUUhHcTouFGib",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔤",
-          "title": "تعلم حروف الهجاء",
-          "subtitle": "تعلم الحروف العربية",
-          "query": "PLlXdF6lZgTi4Ai-QiQhVdJ7QcKhpv6fYx",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔠",
-          "title": "تعلم الحروف الإنجليزية",
-          "subtitle": "English alphabet للأطفال",
-          "query": "PLlXdF6lZgTi6d1ktF3WO3vQESN4b6GAGI",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🗣️",
-          "title": "تعلم المحادثة الإنجليزية",
-          "subtitle": "محادثة إنجليزية للصغار",
-          "query": "PLzWJGJh_FHpj35OFt0kwn60IQZQOLuY2d",
-          "minDurationMs": 0
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/learning.jpg"
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "world",
-      "emoji": "🌍",
-      "title": "اكتشف العالم",
-      "description": "رحلات واكتشافات حول العالم",
-      "palette": "cyan",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "🌍",
-          "title": "اكتشف العالم",
-          "subtitle": "رحلات واكتشافات",
-          "query": "PLqzoLPTpnM1vdUkyv2U_FXHZGPpWNkzWo",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌎",
-          "title": "عجائب الأرض",
-          "subtitle": "عجائب وكوكب الأرض",
-          "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌍",
-          "title": "Our Planet / كوكبنا الجميل",
-          "subtitle": "عالم الطبيعة والحياة البرية",
-          "query": "PLv1HH8TloApjZnIg-ipXWCMZQvhDppve2",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌿",
-          "title": "عجائب الطبيعة",
-          "subtitle": "مشاهد وعجائب من الطبيعة",
-          "query": "PLzvo82A6fuxqQq2VyP1CJLbnCIizHb5E6",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "animals",
-      "emoji": "🦁",
-      "title": "الحيوانات والطبيعة",
-      "description": "حياة برية وطيور وزواحف وحشرات",
-      "palette": "green",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/refs/heads/main/tiergestuetzte-paedagogik-mit-pferden.jpg",
-      "items": [
-        {
-          "emoji": "🐜",
-          "title": "الحشرات",
-          "subtitle": "عالم الحشرات",
-          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ,PLzvo82A6fuxoD12UgkDrZL5w1u_Iz9r_q",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐾",
-          "title": "الحيوانات للصغار",
-          "subtitle": "تعرف على الحيوانات للصغار",
-          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌊",
-          "title": "البحار والمحيطات",
-          "subtitle": "عالم البحار والمحيطات",
-          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🦎",
-          "title": "الزواحف",
-          "subtitle": "عالم الزواحف",
-          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🦁",
-          "title": "عالم البرية",
-          "subtitle": "الحياة البرية",
-          "query": "PLzvo82A6fuxrvEmWvpQ2UEQ4UlMD8nCEK",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "stories",
-      "emoji": "📚",
-      "title": "حكايات وقصص",
-      "description": "قصص عربية ومغامرات جميلة",
-      "palette": "cyan",
-      "image": "https://plus.unsplash.com/premium_photo-1720188265409-3fac5e431f70?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "items": [
-        {
-          "emoji": "🌙",
-          "title": "قصص قبل النوم",
-          "subtitle": "هادئة ومفيدة",
-          "query": "PL3d7SOBbyqW-47fObU_VI3JkCXPkXa-IW",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⚖️",
-          "title": "القاضي العادل",
-          "subtitle": "قصص وحكايات",
-          "query": "PLKvSfuIVM6und4bZCsPoAKOIJEmN4EHNK",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📚",
-          "title": "قصص وحكايات",
-          "subtitle": "حكايات عربية ممتعة",
-          "query": "PLKvSfuIVM6um6J9LrWRVmXEEd2t4TPwKA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✨",
-          "title": "زاد الحكايا",
-          "subtitle": "قصص مختارة",
-          "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📚",
-          "title": "قصص الأطفال",
-          "subtitle": "قصص ممتعة للأطفال",
-          "query": "PLLalPxEfMtbvIafX23ySspcfw30g4lEZy",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌱",
-          "title": "قصص تربوية للأطفال",
-          "subtitle": "قصص هادفة وتربوية",
-          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "village",
-      "emoji": "🌿",
-      "title": "حياة القرية",
-      "description": "حياة ريفية من القنوات المعتمدة",
-      "palette": "teal",
-      "image": "https://images.unsplash.com/photo-1604601638406-edc29b54dcf7?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "🌿",
-          "title": "حياة القرية",
-          "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
-          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌍",
-          "title": "قرى العالم",
-          "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
-          "query": "UUqFOG13EfQbZSKChyuzJTEg",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌿",
-          "title": "حياة ريفية",
-          "subtitle": "يوميات هادئة وجميلة من قلب القرية",
-          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
+          "emoji": "🔥",
+          "title": "كرم المحترف الصغير",
+          "subtitle": "مغامرات مدبلجة",
+          "query": "PLbwI0LE0f2MFAZkj0Mw9EAVc1Dy71kByw",
           "minDurationMs": 0
         }
       ]
     },
     {
       "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
-      "id": "make",
-      "emoji": "🎨",
-      "title": "ارسم واصنع",
-      "description": "رسم وأعمال يدوية وإبداع",
-      "palette": "teal",
-      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "✂",
-          "title": "أعمال فنية للأطفال",
-          "subtitle": "أعمال يدوية وإبداع",
-          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🖍",
-          "title": "هيا نرسم",
-          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
-          "query": "PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✂️",
-          "title": "حرف وأفكار مبتكرة",
-          "subtitle": "أفكار فنية وتجارب ممتعة نصنعها بأيدينا",
-          "query": "UUy7QvWo7uV_AcoLJL5RIwkQ",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✂️",
-          "title": "أنشطة يدوية للأطفال",
-          "subtitle": "أعمال يدوية وأنشطة إبداعية",
-          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
+      "groupTitle": "القيم والإبداع",
       "id": "islamic",
       "emoji": "🌙",
       "title": "القيم والإسلام",
@@ -712,23 +437,11 @@
           "subtitle": "القناة الكاملة بدون شورت ولا لايف",
           "query": "@wanees.cartoon",
           "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
-      "id": "islamic_stories",
-      "emoji": "📚",
-      "title": "قصص إسلامية",
-      "description": "قصص إسلامية هادفة",
-      "palette": "emerald",
-      "image": "https://plus.unsplash.com/premium_photo-1678553511288-4383515bffb2?q=82&w=2200&auto=format&fit=crop",
-      "items": [
+        },
         {
           "emoji": "📖",
-          "title": "من قصص التابعين",
-          "subtitle": "قصص إسلامية",
+          "title": "قصص إسلامية - من قصص التابعين",
+          "subtitle": "قصص إسلامية هادفة",
           "query": "PL1GARIOTjfQeER7IQSf5DLsZLOyUFCkKQ",
           "minDurationMs": 0
         }
@@ -736,97 +449,97 @@
     },
     {
       "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
-      "id": "brain",
-      "emoji": "🧠",
-      "title": "تحديات ممتعة",
-      "description": "ألغاز وتحديات ممتعة",
-      "palette": "indigo",
-      "image": "https://plus.unsplash.com/premium_photo-1743686212220-e38fd85ce392?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "🔎",
-          "title": "اكتشف الاختلاف",
-          "subtitle": "تحديات بصرية",
-          "query": "PLzml_oYCyd9yHcy4aD-THA4wRbO62XNm0",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🧩",
-          "title": "ألغاز أنامل الاكتشاف",
-          "subtitle": "ألغاز وتحديات",
-          "query": "PL3HTTXjR0lM0bRs-Hz_B6rxQ5f5dpFSln",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔤",
-          "title": "الكلمات المتناغمة",
-          "subtitle": "لعبة كلمات للأطفال",
-          "query": "PL3AbfN3XjccAYDum7xZ3DyWxgg-nVMGzj",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🕵️",
-          "title": "من أنا؟",
-          "subtitle": "لعبة تخمين للأطفال",
-          "query": "PL3AbfN3XjccCwfxa4DuXjLFgcrNyt2XRs",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "☪️",
-          "title": "تحدي الأسئلة الدينية",
-          "subtitle": "أسئلة وتحديات دينية",
-          "query": "PLN7KKPu5yb3FDRJOpXzYJBUWviQ5xJuVl",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔤",
-          "title": "تحدي الكلمات للصغار",
-          "subtitle": "تحديات كلمات ممتعة",
-          "query": "PLEaGEZnOHpUO97avTMbp_9ZtWUpu_xhL6",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🧠",
-          "title": "تحدي الذاكرة للصغار",
-          "subtitle": "تحديات لتنشيط الذاكرة",
-          "query": "PLEaGEZnOHpUMEPO9nD5LuNfZ7NxNdhtQR",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
-      "id": "haramain",
-      "emoji": "🕋",
-      "title": "الحرمين",
-      "description": "مقاطع وبث رسمي",
+      "groupTitle": "القيم والإبداع",
+      "id": "make",
+      "emoji": "🎨",
+      "title": "ارسم واصنع",
+      "description": "رسم وأعمال يدوية وإبداع",
       "palette": "teal",
-      "image": "https://images.unsplash.com/photo-1704104501136-8f35402af395?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
       "items": [
         {
-          "emoji": "🕋",
-          "title": "المسجد الحرام",
-          "subtitle": "البث والمقاطع الرسمية",
-          "query": "UCos52azQNBgW63_9uDJoPDA",
+          "emoji": "✂",
+          "title": "أعمال فنية للأطفال",
+          "subtitle": "أعمال يدوية وإبداع",
+          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
           "minDurationMs": 0
         },
         {
-          "emoji": "🕌",
-          "title": "المسجد النبوي",
-          "subtitle": "البث والمقاطع الرسمية",
-          "query": "UCROKYPep-UuODNwyipe6JMw",
+          "emoji": "🖍",
+          "title": "هيا نرسم",
+          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
+          "query": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📄",
+          "title": "أعمال فنية بالورق",
+          "subtitle": "أعمال ورقية وأفكار فنية",
+          "query": "nibras:playlists:PLpmr9_6AkSDrV2WSWmnQtdaOmHm2y37fF,PLt8AYTPM-S8it_kpxdA_jeQMK8wARjWNA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✂️",
+          "title": "أنشطة يدوية للأطفال",
+          "subtitle": "أعمال يدوية وأنشطة إبداعية",
+          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
           "minDurationMs": 0
         }
       ]
     },
     {
       "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
+      "groupTitle": "القيم والإبداع",
+      "id": "stories",
+      "emoji": "📚",
+      "title": "حكايات وقصص",
+      "description": "قصص عربية ومغامرات جميلة",
+      "palette": "cyan",
+      "image": "https://plus.unsplash.com/premium_photo-1720188265409-3fac5e431f70?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🌙",
+          "title": "قصص قبل النوم",
+          "subtitle": "هادئة ومفيدة",
+          "query": "PL3d7SOBbyqW-47fObU_VI3JkCXPkXa-IW",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚖️",
+          "title": "القاضي العادل",
+          "subtitle": "قصص وحكايات",
+          "query": "PLKvSfuIVM6und4bZCsPoAKOIJEmN4EHNK",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📚",
+          "title": "قصص وحكايات",
+          "subtitle": "حكايات عربية ممتعة",
+          "query": "PLKvSfuIVM6um6J9LrWRVmXEEd2t4TPwKA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✨",
+          "title": "زاد الحكايا",
+          "subtitle": "قصص مختارة",
+          "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌱",
+          "title": "قصص تربوية للأطفال",
+          "subtitle": "قصص هادفة وتربوية",
+          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
       "id": "quran",
       "emoji": "📖",
-      "title": "القرآن",
+      "title": "تعليم القرآن",
       "description": "تلاوات وحفظ وتعليم القرآن الكريم",
       "palette": "emerald",
       "image": "https://images.unsplash.com/photo-1710367446064-0815d9a9f9c6?q=82&w=2200&auto=format&fit=crop",
@@ -911,11 +624,234 @@
       ]
     },
     {
-      "group": "creativity",
-      "groupTitle": "الإبداع والقيم",
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "learning",
+      "emoji": "🔬",
+      "title": "اكتشف وتعلم",
+      "description": "علوم وتجارب وابتكارات",
+      "palette": "cyan",
+      "items": [
+        {
+          "emoji": "🌌",
+          "title": "الفضاء والكون",
+          "subtitle": "كواكب ونجوم",
+          "query": "PL_M-Hi6YRvjMLCiPHz3pMaL_VfuKvQZAV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💡",
+          "title": "اختراعات مدهشة",
+          "subtitle": "أفكار واختراعات تفتح أبواب الفضول والاكتشاف",
+          "query": "UUAH4NOIbnHpN3cW0Kgg2oOw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🗣️",
+          "title": "تعلم اللغة للأطفال",
+          "subtitle": "تعلم بطريقة مبسطة",
+          "query": "UU2518TJyxsPNbrpAwr0Gf7w",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تعلم اللغة مع أنامل الاكتشاف",
+          "subtitle": "تعلم الإنجليزية للأطفال",
+          "query": "PL3HTTXjR0lM2CIQdMB13agWKGUq8xh0Wp",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔡",
+          "title": "تعلم مع نور - حروف الهجاء",
+          "subtitle": "تعلم الحروف العربية",
+          "query": "PLOMi1w7HEoaRpQrPoAkmqr9gLoCs0xAJu",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔬",
+          "title": "سلسلة العلوم",
+          "subtitle": "علوم مبسطة للأطفال",
+          "query": "PLOMi1w7HEoaR57zcKjrNqUUhHcTouFGib",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تعلم حروف الهجاء",
+          "subtitle": "تعلم الحروف العربية",
+          "query": "PLlXdF6lZgTi4Ai-QiQhVdJ7QcKhpv6fYx",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔠",
+          "title": "تعلم الحروف الإنجليزية",
+          "subtitle": "English alphabet للأطفال",
+          "query": "PLlXdF6lZgTi6d1ktF3WO3vQESN4b6GAGI",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🗣️",
+          "title": "تعلم المحادثة الإنجليزية",
+          "subtitle": "محادثة إنجليزية للصغار",
+          "query": "PLzWJGJh_FHpj35OFt0kwn60IQZQOLuY2d",
+          "minDurationMs": 0
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/learning.jpg"
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "animals",
+      "emoji": "🦁",
+      "title": "الحيوانات والطبيعة",
+      "description": "حياة برية وطيور وزواحف وحشرات",
+      "palette": "green",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/refs/heads/main/tiergestuetzte-paedagogik-mit-pferden.jpg",
+      "items": [
+        {
+          "emoji": "🐜",
+          "title": "الحشرات",
+          "subtitle": "عالم الحشرات",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ,PLzvo82A6fuxoD12UgkDrZL5w1u_Iz9r_q",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "الحيوانات للصغار",
+          "subtitle": "تعرف على الحيوانات للصغار",
+          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات",
+          "subtitle": "عالم البحار والمحيطات",
+          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦎",
+          "title": "الزواحف",
+          "subtitle": "عالم الزواحف",
+          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦁",
+          "title": "عالم البرية",
+          "subtitle": "الحياة البرية",
+          "query": "PLzvo82A6fuxrvEmWvpQ2UEQ4UlMD8nCEK",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "world",
+      "emoji": "🌍",
+      "title": "اكتشف العالم",
+      "description": "رحلات واكتشافات حول العالم",
+      "palette": "cyan",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/world.jpg",
+      "items": [
+        {
+          "emoji": "🌍",
+          "title": "اكتشف العالم",
+          "subtitle": "رحلات واكتشافات",
+          "query": "PLqzoLPTpnM1vdUkyv2U_FXHZGPpWNkzWo",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌎",
+          "title": "عجائب الأرض",
+          "subtitle": "عجائب وكوكب الأرض",
+          "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "Our Planet / كوكبنا الجميل",
+          "subtitle": "عالم الطبيعة والحياة البرية",
+          "query": "PLv1HH8TloApjZnIg-ipXWCMZQvhDppve2",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌿",
+          "title": "عجائب الطبيعة",
+          "subtitle": "مشاهد وعجائب من الطبيعة",
+          "query": "PLzvo82A6fuxqQq2VyP1CJLbnCIizHb5E6",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "brain",
+      "emoji": "🧠",
+      "title": "تحديات ممتعة",
+      "description": "ألغاز وتحديات ممتعة",
+      "palette": "indigo",
+      "image": "https://plus.unsplash.com/premium_photo-1743686212220-e38fd85ce392?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "🔎",
+          "title": "اكتشف الاختلاف",
+          "subtitle": "تحديات بصرية",
+          "query": "PLzml_oYCyd9yHcy4aD-THA4wRbO62XNm0",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧩",
+          "title": "ألغاز أنامل الاكتشاف",
+          "subtitle": "ألغاز وتحديات",
+          "query": "PL3HTTXjR0lM0bRs-Hz_B6rxQ5f5dpFSln",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "الكلمات المتناغمة",
+          "subtitle": "لعبة كلمات للأطفال",
+          "query": "PL3AbfN3XjccAYDum7xZ3DyWxgg-nVMGzj",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕵️",
+          "title": "من أنا؟",
+          "subtitle": "لعبة تخمين للأطفال",
+          "query": "PL3AbfN3XjccCwfxa4DuXjLFgcrNyt2XRs",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "☪️",
+          "title": "تحدي الأسئلة الدينية",
+          "subtitle": "أسئلة وتحديات دينية",
+          "query": "PLN7KKPu5yb3FDRJOpXzYJBUWviQ5xJuVl",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تحدي الكلمات للصغار",
+          "subtitle": "تحديات كلمات ممتعة",
+          "query": "PLEaGEZnOHpUO97avTMbp_9ZtWUpu_xhL6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧠",
+          "title": "تحدي الذاكرة للصغار",
+          "subtitle": "تحديات لتنشيط الذاكرة",
+          "query": "PLEaGEZnOHpUMEPO9nD5LuNfZ7NxNdhtQR",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
       "id": "activity",
       "emoji": "🏃",
-      "title": "الحركة والنشاط",
+      "title": "هيّا نتمرن",
       "description": "تمارين وحركة ممتعة للأطفال",
       "palette": "teal",
       "image": "https://images.unsplash.com/photo-1589953605483-a2964c38d415?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -925,6 +861,65 @@
           "title": "تمارين للأطفال",
           "subtitle": "تحرك والعب",
           "query": "UUUDPSOnSgbxJsYywWepgfdg",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "haramain",
+      "emoji": "🕋",
+      "title": "بث الحرمين",
+      "description": "مقاطع وبث رسمي",
+      "palette": "teal",
+      "image": "https://images.unsplash.com/photo-1704104501136-8f35402af395?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🕋",
+          "title": "المسجد الحرام",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "UCos52azQNBgW63_9uDJoPDA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "المسجد النبوي",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "UCROKYPep-UuODNwyipe6JMw",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "village",
+      "emoji": "🌿",
+      "title": "حياة القرية",
+      "description": "حياة ريفية من القنوات المعتمدة",
+      "palette": "teal",
+      "image": "https://images.unsplash.com/photo-1604601638406-edc29b54dcf7?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "🌿",
+          "title": "حياة القرية",
+          "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
+          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "قرى العالم",
+          "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
+          "query": "UUqFOG13EfQbZSKChyuzJTEg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌿",
+          "title": "حياة ريفية",
+          "subtitle": "يوميات هادئة وجميلة من قلب القرية",
+          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
           "minDurationMs": 0
         }
       ]
