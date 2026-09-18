@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "sections": [
     {
       "group": "entertainment",
@@ -456,6 +456,27 @@
           "subtitle": "علوم مبسطة للأطفال",
           "query": "PLOMi1w7HEoaR57zcKjrNqUUhHcTouFGib",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تعلم حروف الهجاء",
+          "subtitle": "تعلم الحروف العربية",
+          "query": "PLlXdF6lZgTi4Ai-QiQhVdJ7QcKhpv6fYx",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔠",
+          "title": "تعلم الحروف الإنجليزية",
+          "subtitle": "English alphabet للأطفال",
+          "query": "PLlXdF6lZgTi6d1ktF3WO3vQESN4b6GAGI",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🗣️",
+          "title": "تعلم المحادثة الإنجليزية",
+          "subtitle": "محادثة إنجليزية للصغار",
+          "query": "PLzWJGJh_FHpj35OFt0kwn60IQZQOLuY2d",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/learning.jpg"
@@ -510,6 +531,13 @@
           "title": "البحار والمحيطات",
           "subtitle": "مخلوقات البحر",
           "query": "Quest Arabiya عالم البحار المحيطات حيوانات بحرية -shorts",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "الحيوانات للصغار",
+          "subtitle": "تعرف على الحيوانات للصغار",
+          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
           "minDurationMs": 0
         }
       ]
@@ -598,6 +626,20 @@
           "subtitle": "قصص مختارة",
           "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "📚",
+          "title": "قصص الأطفال",
+          "subtitle": "قصص ممتعة للأطفال",
+          "query": "PLLalPxEfMtbvIafX23ySspcfw30g4lEZy",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌱",
+          "title": "قصص تربوية للأطفال",
+          "subtitle": "قصص هادفة وتربوية",
+          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
+          "minDurationMs": 0
         }
       ]
     },
@@ -678,6 +720,13 @@
           "subtitle": "أفكار فنية وتجارب ممتعة نصنعها بأيدينا",
           "query": "@5mcarabic",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "✂️",
+          "title": "أنشطة يدوية للأطفال",
+          "subtitle": "أعمال يدوية وأنشطة إبداعية",
+          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
+          "minDurationMs": 0
         }
       ]
     },
@@ -753,6 +802,13 @@
           "subtitle": "تعليم مبسط",
           "query": "PL3AbfN3XjccBaDo4tauubGkR44osqr2Q5",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "تعليم الإسلام للصغار",
+          "subtitle": "تعليم إسلامي مبسط للأطفال",
+          "query": "PLEaGEZnOHpUMC6v_ER7j43IdfMlzM4jC-",
+          "minDurationMs": 0
         }
       ]
     },
@@ -820,6 +876,27 @@
           "title": "تحدي الأسئلة الدينية",
           "subtitle": "أسئلة وتحديات دينية",
           "query": "PLN7KKPu5yb3FDRJOpXzYJBUWviQ5xJuVl",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تحدي الكلمات للصغار",
+          "subtitle": "تحديات كلمات ممتعة",
+          "query": "PLEaGEZnOHpUO97avTMbp_9ZtWUpu_xhL6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧠",
+          "title": "تحدي الذاكرة للصغار",
+          "subtitle": "تحديات لتنشيط الذاكرة",
+          "query": "PLEaGEZnOHpUMEPO9nD5LuNfZ7NxNdhtQR",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💡",
+          "title": "تحدي هل تعلم للصغار",
+          "subtitle": "معلومات وتحديات للصغار",
+          "query": "z01UZ8r_ZOw",
           "minDurationMs": 0
         }
       ]
@@ -914,6 +991,27 @@
           "title": "سور القرآن الكريم",
           "subtitle": "استماع وحفظ",
           "query": "سور القرآن الكريم تلاوة",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📘",
+          "title": "جزء تبارك",
+          "subtitle": "تعليم وحفظ القرآن",
+          "query": "PLKhm8Z5pXdOXqBC9Gmh2MVTEVQj6x_4or",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔁",
+          "title": "جزء عم مع التكرار",
+          "subtitle": "للحفظ مع التكرار",
+          "query": "PLKhm8Z5pXdOUcx5ho4DuPRtBvu8wlIkB6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📗",
+          "title": "جزء عم بدون تكرار",
+          "subtitle": "تلاوة بدون تكرار",
+          "query": "PLKhm8Z5pXdOXO8wm-pQ670wmKnoC5Be5g",
           "minDurationMs": 0
         }
       ]
