@@ -507,23 +507,9 @@
         },
         {
           "emoji": "🐜",
-          "title": "الحشرات 1",
+          "title": "الحشرات",
           "subtitle": "عالم الحشرات",
-          "query": "PLAQ3o1kkFix0",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐜",
-          "title": "الحشرات 2",
-          "subtitle": "عالم الحشرات",
-          "query": "PLB_UbiMMXdmA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐜",
-          "title": "الحشرات 3",
-          "subtitle": "عالم الحشرات",
-          "query": "PLJY8ETacu4mQ",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ",
           "minDurationMs": 0
         },
         {
