@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "sections": [
     {
       "group": "entertainment",
@@ -138,7 +138,7 @@
       "groupTitle": "عالم الترفيه والمرح",
       "id": "movies",
       "emoji": "🎬",
-      "title": "أفلام وكرتون",
+      "title": "أفلام كرتون",
       "description": "كرتون وحلقات ممتعة",
       "palette": "rose",
       "items": [
@@ -274,7 +274,7 @@
           "minDurationMs": 0
         }
       ],
-      "image": "https://wallpaperaccess.com/full/1198092.jpg"
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/classics.jpg"
     },
     {
       "group": "entertainment",
