@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "sections": [
     {
       "group": "entertainment",
@@ -114,6 +114,14 @@
           "subtitle": "كرتون",
           "query": "PL5X-S9VGg30FwEBOJ1HfpxnUhHC0dq3Hs",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "دوريات المخلب",
+          "subtitle": "50 فيديو فقط — فوق 20 دقيقة",
+          "query": "PLpDqvBO1RYul9t3vMTW8cDqDBTDmALAi0",
+          "minDurationMs": 1200000,
+          "maxItems": 50
         }
       ],
       "image": "https://images2.alphacoders.com/135/thumb-1920-1356807.jpeg"
@@ -414,13 +422,27 @@
     {
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
-      "id": "animals",
-      "emoji": "🦁",
-      "title": "الحيوانات والطبيعة",
-      "description": "حياة برية وطيور وزواحف وحشرات",
-      "palette": "green",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/refs/heads/main/tiergestuetzte-paedagogik-mit-pferden.jpg",
+      "id": "world",
+      "emoji": "🌍",
+      "title": "اكتشف العالم",
+      "description": "رحلات واكتشافات حول العالم",
+      "palette": "cyan",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=82&w=2200&auto=format&fit=crop",
       "items": [
+        {
+          "emoji": "🌍",
+          "title": "اكتشف العالم",
+          "subtitle": "رحلات واكتشافات",
+          "query": "PLqzoLPTpnM1vdUkyv2U_FXHZGPpWNkzWo",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌎",
+          "title": "عجائب الأرض",
+          "subtitle": "عجائب وكوكب الأرض",
+          "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
+          "minDurationMs": 0
+        },
         {
           "emoji": "🌍",
           "title": "Our Planet / كوكبنا الجميل",
@@ -429,10 +451,29 @@
           "minDurationMs": 0
         },
         {
+          "emoji": "🌿",
+          "title": "عجائب الطبيعة",
+          "subtitle": "مشاهد وعجائب من الطبيعة",
+          "query": "PLzvo82A6fuxqQq2VyP1CJLbnCIizHb5E6",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "animals",
+      "emoji": "🦁",
+      "title": "الحيوانات والطبيعة",
+      "description": "حياة برية وطيور وزواحف وحشرات",
+      "palette": "green",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/refs/heads/main/tiergestuetzte-paedagogik-mit-pferden.jpg",
+      "items": [
+        {
           "emoji": "🐜",
           "title": "الحشرات",
           "subtitle": "عالم الحشرات",
-          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ,PLzvo82A6fuxoD12UgkDrZL5w1u_Iz9r_q",
           "minDurationMs": 0
         },
         {
@@ -440,6 +481,27 @@
           "title": "الحيوانات للصغار",
           "subtitle": "تعرف على الحيوانات للصغار",
           "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات",
+          "subtitle": "عالم البحار والمحيطات",
+          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦎",
+          "title": "الزواحف",
+          "subtitle": "عالم الزواحف",
+          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦁",
+          "title": "عالم البرية",
+          "subtitle": "الحياة البرية",
+          "query": "PLzvo82A6fuxrvEmWvpQ2UEQ4UlMD8nCEK",
           "minDurationMs": 0
         }
       ]
@@ -629,6 +691,53 @@
           "subtitle": "تعليم إسلامي مبسط للأطفال",
           "query": "PLEaGEZnOHpUMC6v_ER7j43IdfMlzM4jC-",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🌟",
+          "title": "القيم",
+          "subtitle": "قيم وأخلاق للأطفال",
+          "query": "PL1GARIOTjfQd3Y1oVUAOIa3FlPckFnXhb",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "☪️",
+          "title": "أنا مسلم",
+          "subtitle": "تعليم وقيم إسلامية للأطفال",
+          "query": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "سراج - تعلم الحروف",
+          "subtitle": "تعلم الحروف للأطفال",
+          "query": "PLB7rtFFiP_CytNa-W1BAW8fBbMdjVX_ra",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌙",
+          "title": "ونيس",
+          "subtitle": "القناة الكاملة بدون شورت ولا لايف",
+          "query": "@wanees.cartoon",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "الإبداع والقيم",
+      "id": "islamic_stories",
+      "emoji": "📚",
+      "title": "قصص إسلامية",
+      "description": "قصص إسلامية هادفة",
+      "palette": "emerald",
+      "image": "https://plus.unsplash.com/premium_photo-1678553511288-4383515bffb2?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "📖",
+          "title": "من قصص التابعين",
+          "subtitle": "قصص إسلامية",
+          "query": "PL1GARIOTjfQeER7IQSf5DLsZLOyUFCkKQ",
+          "minDurationMs": 0
         }
       ]
     },
@@ -668,13 +777,6 @@
           "title": "من أنا؟",
           "subtitle": "لعبة تخمين للأطفال",
           "query": "PL3AbfN3XjccCwfxa4DuXjLFgcrNyt2XRs",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🧠",
-          "title": "ألغاز عربي",
-          "subtitle": "كل فيديوهات قناة الألغاز",
-          "query": "UUjYDPNPgSd9u1a4d3m3HjsQ",
           "minDurationMs": 0
         },
         {
