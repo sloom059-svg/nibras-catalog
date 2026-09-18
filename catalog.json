@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "sections": [
     {
       "group": "entertainment",
@@ -348,6 +348,13 @@
           "subtitle": "مغامرات مدبلجة",
           "query": "PLbwI0LE0f2MFAZkj0Mw9EAVc1Dy71kByw",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🦸",
+          "title": "أبطال بلباس النوم",
+          "subtitle": "PJ Masks — حلقات كاملة ومغامرات",
+          "query": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
+          "minDurationMs": 0
         }
       ]
     },
@@ -420,22 +427,15 @@
         {
           "emoji": "☪️",
           "title": "أنا مسلم",
-          "subtitle": "تعليم وقيم إسلامية للأطفال",
-          "query": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🔤",
-          "title": "سراج - تعلم الحروف",
-          "subtitle": "تعلم الحروف للأطفال",
+          "subtitle": "كرتون أنا مسلم",
           "query": "PLB7rtFFiP_CytNa-W1BAW8fBbMdjVX_ra",
           "minDurationMs": 0
         },
         {
           "emoji": "🌙",
           "title": "ونيس",
-          "subtitle": "القناة الكاملة بدون شورت ولا لايف",
-          "query": "@wanees.cartoon",
+          "subtitle": "القناة كاملة بدون الشورت واللايف",
+          "query": "https://www.youtube.com/@wanees.cartoon",
           "minDurationMs": 0
         },
         {
