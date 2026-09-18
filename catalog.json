@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "sections": [
     {
       "group": "entertainment",
@@ -78,13 +78,6 @@
           "title": "تيليتابيز",
           "subtitle": "بالعربية",
           "query": "UUcISrM_PgWVcfFtUJ8kVdMg",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🧸",
-          "title": "افتح يا سمسم",
-          "subtitle": "حلقات للأطفال",
-          "query": "PLh3-uFLv064a1szJpnS6cWVt5lMk2N689",
           "minDurationMs": 0
         },
         {
