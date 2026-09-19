@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "sections": [
     {
       "group": "entertainment",
@@ -57,13 +57,6 @@
           "title": "أوكتونوتس",
           "subtitle": "مغامرات بحرية بالعربية",
           "query": "UUXGCkE7vRMkwQwLVHJPd8fQ",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌴",
-          "title": "مدينة النخيل",
-          "subtitle": "حلقات مختارة",
-          "query": "PL2d3Uqd_xeuGu2oZalqQsME1uyLBmliRw",
           "minDurationMs": 0
         },
         {
@@ -271,6 +264,13 @@
           "title": "توم سوير",
           "subtitle": "كرتون زمان",
           "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌴",
+          "title": "مدينة النخيل",
+          "subtitle": "كرتون زمان",
+          "query": "PL2d3Uqd_xeuGu2oZalqQsME1uyLBmliRw",
           "minDurationMs": 0
         }
       ],
