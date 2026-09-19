@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "sections": [
     {
       "group": "entertainment",
@@ -124,7 +124,7 @@
           "minDurationMs": 0
         }
       ],
-      "image": "https://images2.alphacoders.com/135/thumb-1920-1356807.jpeg"
+      "image": "https://raw.githubusercontent.com/sloom059-svg/TV_KIDS/c0f94044a52b1b1504c204c3b42dc92cb5c1756a/smarttubetv/src/main/res/drawable-nodpi/nibras_section_adventure.jpg"
     },
     {
       "group": "entertainment",
