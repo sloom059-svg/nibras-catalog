@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 34,
   "sections": [
     {
       "group": "entertainment",
@@ -85,13 +85,6 @@
           "title": "الدببة الثلاثة",
           "subtitle": "مغامرات",
           "query": "PLgvDkUBbUAV0KZvwuwaAiLIZazOPO08-S",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🍍",
-          "title": "سبنج بوب",
-          "subtitle": "حلقات مختارة",
-          "query": "PLr1-u2E9gH9M7v4t7dtW2LHoTomCwecjW",
           "minDurationMs": 0
         },
         {
