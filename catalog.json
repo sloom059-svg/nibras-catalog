@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "sections": [
     {
       "group": "entertainment",
@@ -979,6 +979,10 @@
     "usedCodeError": "هذا الكود مستخدم من قبل",
     "invalidCodeError": "كود التفعيل غير صحيح",
     "networkError": "تعذر الاتصال بالإنترنت",
-    "genericError": "تعذر التفعيل، حاول مرة أخرى"
+    "genericError": "تعذر التفعيل، حاول مرة أخرى",
+    "welcomeEnabled": true,
+    "welcomeTitle": "مرحبًا بك في نبراس",
+    "welcomeMessage": "أهلًا بك 👋\\nاستمتع بمحتوى مختار بعناية للأطفال في بيئة آمنة وبسيطة.",
+    "welcomeButton": "ابدأ المشاهدة"
   }
 }
