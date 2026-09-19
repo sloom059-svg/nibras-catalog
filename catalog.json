@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "sections": [
     {
       "group": "entertainment",
@@ -696,7 +696,7 @@
           "minDurationMs": 0
         }
       ],
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/learning.jpg"
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/istockphoto-2232663035-1024x1024.jpg"
     },
     {
       "group": "discovery",
