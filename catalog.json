@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "sections": [
     {
       "group": "entertainment",
@@ -449,7 +449,7 @@
           "emoji": "🌙",
           "title": "ونيس",
           "subtitle": "القناة كاملة بدون الشورت واللايف",
-          "query": "https://www.youtube.com/@wanees.cartoon",
+          "query": "@wanees.cartoon",
           "minDurationMs": 0
         },
         {
