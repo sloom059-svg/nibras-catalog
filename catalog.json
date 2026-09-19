@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "sections": [
     {
       "group": "entertainment",
@@ -955,13 +955,6 @@
           "title": "قرى العالم",
           "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
           "query": "UUqFOG13EfQbZSKChyuzJTEg",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌿",
-          "title": "حياة ريفية",
-          "subtitle": "يوميات هادئة وجميلة من قلب القرية",
-          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
           "minDurationMs": 0
         }
       ]
