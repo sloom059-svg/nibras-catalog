@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "sections": [
     {
       "group": "entertainment",
@@ -700,6 +700,27 @@
           "title": "تعلم المحادثة الإنجليزية",
           "subtitle": "محادثة إنجليزية للصغار",
           "query": "PLzWJGJh_FHpj35OFt0kwn60IQZQOLuY2d",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚛️",
+          "title": "علوم الفيزياء",
+          "subtitle": "فيزياء مبسطة للأطفال",
+          "query": "PLx2PxsXIUlccxsItcIdr3k_cQQf_qWGGV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔬",
+          "title": "د. سكيبو",
+          "subtitle": "علوم وتجارب واكتشافات",
+          "query": "PLx2PxsXIUlccPmuVlSs6P9S7iPvtjxCa8",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🚀",
+          "title": "علم الفضاء للصغار",
+          "subtitle": "كواكب ونجوم وعلوم الفضاء",
+          "query": "PLMz9Ol3LBnkhB_OvEP5mFUgH_dmRn4SZ6",
           "minDurationMs": 0
         }
       ],
