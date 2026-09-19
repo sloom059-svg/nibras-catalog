@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "sections": [
     {
       "group": "entertainment",
@@ -121,6 +121,13 @@
           "title": "توم سوير",
           "subtitle": "مسلسل مدبلج",
           "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✈️",
+          "title": "سوبر وينغز",
+          "subtitle": "مغامرات وحلقات مدبلجة",
+          "query": "PLbwI0LE0f2MGPwPP4OfTN6LLkSQB2leOs",
           "minDurationMs": 0
         }
       ],
