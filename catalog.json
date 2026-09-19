@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "sections": [
     {
       "group": "entertainment",
@@ -124,7 +124,7 @@
           "minDurationMs": 0
         }
       ],
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/2693386.jpg"
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/2693386.jpg?v=29"
     },
     {
       "group": "entertainment",
