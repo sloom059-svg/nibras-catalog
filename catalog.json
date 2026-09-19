@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "sections": [
     {
       "group": "entertainment",
@@ -271,6 +271,13 @@
           "title": "مدينة النخيل",
           "subtitle": "كرتون زمان",
           "query": "PL2d3Uqd_xeuGu2oZalqQsME1uyLBmliRw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👬",
+          "title": "أنا وأخي",
+          "subtitle": "كرتون زمان",
+          "query": "PL_B3XZGFFq_DzjQpjwccuibNJCarKj7DB",
           "minDurationMs": 0
         }
       ],
