@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "sections": [
     {
       "group": "entertainment",
@@ -959,5 +959,33 @@
         }
       ]
     }
-  ]
+  ],
+  "subscription": {
+    "enabled": true,
+    "warningDays": 5,
+    "showPrice": true,
+    "showCodePreview": true,
+    "title": "اشتراك نبراس",
+    "expiredTitle": "انتهى اشتراك نبراس",
+    "warningTitle": "تنبيه الاشتراك",
+    "priceText": "الاشتراك السنوي — 99 ريال فقط",
+    "activationHint": "اكتب الأرقام الستة فقط بدون NBR أو شرطات",
+    "codePlaceholder": "000638",
+    "codePreview": "سيظهر كودك بهذا الشكل: NBR-000-638",
+    "activateButton": "تفعيل الكود",
+    "activeStatus": "اشتراكك فعال • متبقي {days} يوم",
+    "trialStatus": "الفترة المجانية • متبقي {days} يوم",
+    "expiredStatus": "انتهت فترة الوصول",
+    "blockedStatus": "هذا الجهاز موقوف",
+    "unavailableStatus": "حالة الاشتراك غير متاحة الآن",
+    "expiryPrefix": "ينتهي في {date}",
+    "warningMessage": "متبقي {days} يوم على انتهاء الاشتراك",
+    "successMessage": "تم تفعيل الاشتراك بنجاح\\nينتهي اشتراكك في {date}\\nالمتبقي: {days} يوم",
+    "successToast": "تم تفعيل نبراس بنجاح",
+    "invalidLengthError": "أدخل الأرقام الستة للكود",
+    "usedCodeError": "هذا الكود مستخدم من قبل",
+    "invalidCodeError": "كود التفعيل غير صحيح",
+    "networkError": "تعذر الاتصال بالإنترنت",
+    "genericError": "تعذر التفعيل، حاول مرة أخرى"
+  }
 }
