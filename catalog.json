@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "sections": [
     {
       "group": "entertainment",
@@ -124,7 +124,7 @@
           "minDurationMs": 0
         }
       ],
-      "image": "https://wallpaperaccess.com/full/2693386.jpg"
+      "image": "https://wallpaperaccess.com/full/2693394.jpg"
     },
     {
       "group": "entertainment",
@@ -182,6 +182,13 @@
           "title": "Minuscule",
           "subtitle": "مغامرات الحشرات",
           "query": "PLajav__4AGmhGOqBT_m9lLU593z2MKenV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🎬",
+          "title": "كارتونيتو",
+          "subtitle": "كرتون مختار",
+          "query": "PLlUJpgYcaNtETNI63jOb99wuUzaFLUW2i",
           "minDurationMs": 0
         }
       ],
