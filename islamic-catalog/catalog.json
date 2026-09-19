@@ -1,0 +1,988 @@
+{
+  "version": 39,
+  "sections": [
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "series",
+      "emoji": "📺",
+      "title": "المسلسلات",
+      "description": "حلقات ومسلسلات مختارة",
+      "palette": "purple",
+      "items": [
+        {
+          "emoji": "🧢",
+          "title": "منصور",
+          "subtitle": "الحلقات العربية",
+          "query": "PLrEO7bVLqAMuA-edJU88wiqFyT0BZQCVB",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👦",
+          "title": "كايو",
+          "subtitle": "الحلقات العربية",
+          "query": "PLqD2q4TDlI9rq6hcKRTY2OHBsD35aS6Bv",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🤖",
+          "title": "دورايمون",
+          "subtitle": "مدبلج بالعربية",
+          "query": "PLtjIEYzMHYlLejPSyvtyvsTZB31Uel_ya",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💙",
+          "title": "السنافر الجديد 3D",
+          "subtitle": "إصدار 2021 فقط",
+          "query": "PL9gKglGE2NdGka5IM2zShxo8UFXqwr5K2",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌸",
+          "title": "فافا",
+          "subtitle": "من برامج براعم",
+          "query": "PLleUJakF5Fc5cf_SkapAsji1CcjZC1Lef",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧰",
+          "title": "العم مصلح",
+          "subtitle": "من برامج براعم",
+          "query": "PLPIMbqB5n_xuO-7qpNC8oSG58rAZ0qXgS",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐙",
+          "title": "أوكتونوتس",
+          "subtitle": "مغامرات بحرية بالعربية",
+          "query": "UUXGCkE7vRMkwQwLVHJPd8fQ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌙",
+          "title": "حديقة المرح",
+          "subtitle": "براعم",
+          "query": "UUGotxNqyL0C3-wLeXOcOw5g",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👶",
+          "title": "تيليتابيز",
+          "subtitle": "بالعربية",
+          "query": "UUcISrM_PgWVcfFtUJ8kVdMg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "😂",
+          "title": "إينا مينا ديكا",
+          "subtitle": "كرتون ومغامرات",
+          "query": "PLfrY46g66myB-211KFZx3M9XyLAN6Pmcc",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐻",
+          "title": "الدببة الثلاثة",
+          "subtitle": "مغامرات",
+          "query": "PLgvDkUBbUAV0KZvwuwaAiLIZazOPO08-S",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "😄",
+          "title": "مستر بن",
+          "subtitle": "كرتون",
+          "query": "PL5X-S9VGg30FwEBOJ1HfpxnUhHC0dq3Hs",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "دوريات المخلب",
+          "subtitle": "50 فيديو فقط — فوق 20 دقيقة",
+          "query": "PLpDqvBO1RYul9t3vMTW8cDqDBTDmALAi0",
+          "minDurationMs": 1200000,
+          "maxItems": 50
+        },
+        {
+          "emoji": "⛵",
+          "title": "توم سوير",
+          "subtitle": "مسلسل مدبلج",
+          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✈️",
+          "title": "سوبر وينغز",
+          "subtitle": "مغامرات وحلقات مدبلجة",
+          "query": "PLbwI0LE0f2MGPwPP4OfTN6LLkSQB2leOs",
+          "minDurationMs": 0
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/2693386.jpg?v=29"
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "movies",
+      "emoji": "🎬",
+      "title": "أفلام كرتون",
+      "description": "كرتون وحلقات ممتعة",
+      "palette": "rose",
+      "items": [
+        {
+          "emoji": "🐭",
+          "title": "توم وجيري",
+          "subtitle": "توم وجيري فقط",
+          "query": "PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚓",
+          "title": "باباي",
+          "subtitle": "الحلقات العربية",
+          "query": "PLhGipfv0juZUiAounOQWaNiT73HjwERce",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐑",
+          "title": "Shaun the Sheep",
+          "subtitle": "شون ذا شيب",
+          "query": "PLZ4rmdfI0ZxztE3Xgh8huH2uJED159g8P",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🏜️",
+          "title": "Oscar’s Oasis",
+          "subtitle": "أوسكار أواسيس",
+          "query": "PLwtWtbus8LLmj75BrWwlfvOKMwrS8gH6k",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐻",
+          "title": "Grizzy & the Lemmings",
+          "subtitle": "غريزي والليمنغز",
+          "query": "PLjeVqmXlg5f72oG-2z9CPgKG0IpFgNKWi",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐱",
+          "title": "Oggy and the Cockroaches",
+          "subtitle": "أوغي والصراصير",
+          "query": "PLt5Mqfjjl4A78f3iVtm-Fy22EvrlBq6ir",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐞",
+          "title": "Minuscule",
+          "subtitle": "مغامرات الحشرات",
+          "query": "PLajav__4AGmhGOqBT_m9lLU593z2MKenV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🎬",
+          "title": "كارتونيتو",
+          "subtitle": "كرتون مختار",
+          "query": "PLlUJpgYcaNtETNI63jOb99wuUzaFLUW2i",
+          "minDurationMs": 0
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "classics",
+      "emoji": "⭐",
+      "title": "كرتون زمان",
+      "description": "كلاسيكيات ومغامرات جميلة",
+      "palette": "amber",
+      "items": [
+        {
+          "emoji": "🐻",
+          "title": "مغامرات بسيط",
+          "subtitle": "كرتون زمان",
+          "query": "PLLJ8-2NSYZMXuopnND7YudZ3nCYzmo4Ng",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚓",
+          "title": "باباي",
+          "subtitle": "الحلقات الكلاسيكية",
+          "query": "PLZi9kmcgOoWmOwvu0bfMbydr7D90wEzAD",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐭",
+          "title": "توم وجيري",
+          "subtitle": "كلاسيكيات مختارة",
+          "query": "PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌼",
+          "title": "هايدي",
+          "subtitle": "كرتون زمان",
+          "query": "PLPNRU7naKXOvWHw8Z3nCzFY8t2IMFFdHf",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐺",
+          "title": "ماوكلي",
+          "subtitle": "كرتون زمان",
+          "query": "PLyM-sI0P2_p0i0TQmBrzWAnyxnHFfPeXW",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐰",
+          "title": "لوني تونز",
+          "subtitle": "كرتون زمان",
+          "query": "PLhGipfv0juZVwhMedCCEysUe9-uCUq5fr",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦖",
+          "title": "جازورا",
+          "subtitle": "كرتون زمان",
+          "query": "PLXYEUJCm6gXSmH-v3lbFTwaGHnLCx6pBY",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🪿",
+          "title": "مغامرات نيلز",
+          "subtitle": "كرتون زمان",
+          "query": "PLhT1vEHXXEgM89gW84JGVCIBrZRnf0a5A",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👦",
+          "title": "وداعاً ماركو",
+          "subtitle": "كرتون زمان",
+          "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⛵",
+          "title": "توم سوير",
+          "subtitle": "كرتون زمان",
+          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌴",
+          "title": "مدينة النخيل",
+          "subtitle": "كرتون زمان",
+          "query": "PL2d3Uqd_xeuGu2oZalqQsME1uyLBmliRw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👬",
+          "title": "أنا وأخي",
+          "subtitle": "كرتون زمان",
+          "query": "PL_B3XZGFFq_DzjQpjwccuibNJCarKj7DB",
+          "minDurationMs": 0
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/classics.jpg"
+    },
+    {
+      "group": "entertainment",
+      "groupTitle": "عالم الترفيه والمرح",
+      "id": "adventure",
+      "emoji": "🚀",
+      "title": "المغامرات",
+      "description": "أبطال ورحلات مشوقة",
+      "palette": "purple",
+      "image": "https://images2.alphacoders.com/135/thumb-1920-1356807.jpeg",
+      "items": [
+        {
+          "emoji": "⚽",
+          "title": "كابتن ماجد",
+          "subtitle": "الجزء الأول — الحلقات المرتبة",
+          "query": "PLdPyM059QrASWj99VdPk8dJTw1PrUVlK6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "الكابتن رابح",
+          "subtitle": "الحلقات العربية",
+          "query": "PLFENLr_tYVME6spXC9fuOjMDUswQxUBxY",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "أبطال الكرة - الجزء الأول",
+          "subtitle": "مغامرات كروية",
+          "query": "PLY4OL3lpMzxTy-2BZBUQWKIXOvmM2hVws",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "أبطال الكرة - الجزء الثاني",
+          "subtitle": "مغامرات كروية",
+          "query": "PLY4OL3lpMzxQmvNzb-pgXuD4CVYxvL_Lc",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚽",
+          "title": "أبطال الكرة - الجزء الثالث",
+          "subtitle": "مغامرات كروية",
+          "query": "PLY4OL3lpMzxTKD_ltzg8uszHGFNhN_Qkk",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🥷",
+          "title": "LEGO NINJAGO - الموسم الأول",
+          "subtitle": "نينجاغو أبطال السبينجيتسو",
+          "query": "PLPI70VxhyWqw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🥷",
+          "title": "LEGO NINJAGO - الموسم الثاني",
+          "subtitle": "نينجاغو أبطال السبينجيتسو",
+          "query": "PLQAEDXJ4y72I",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🥷",
+          "title": "LEGO NINJAGO - الموسم الثالث",
+          "subtitle": "نينجاغو أبطال السبينجيتسو",
+          "query": "PLRNbTEZ7dhL0v_zrhOux-WrzEosLWa5sJ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔥",
+          "title": "كرم المحترف الصغير",
+          "subtitle": "مغامرات مدبلجة",
+          "query": "PLbwI0LE0f2MFAZkj0Mw9EAVc1Dy71kByw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦸",
+          "title": "أبطال بلباس النوم",
+          "subtitle": "PJ Masks — حلقات كاملة ومغامرات",
+          "query": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
+      "id": "islamic",
+      "emoji": "🌙",
+      "title": "القيم والإسلام",
+      "description": "قصص وقيم وتعليم إسلامي للأطفال",
+      "palette": "emerald",
+      "image": "https://plus.unsplash.com/premium_photo-1678553511288-4383515bffb2?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "🌙",
+          "title": "سعود وسارة",
+          "subtitle": "قيم وقصص للأطفال",
+          "query": "PLCa3xxvQs8SQBaYJHpfLbK8CvniXhtDIL",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌟",
+          "title": "عمر وهنا",
+          "subtitle": "قصص وقيم إسلامية",
+          "query": "PLyKxZnVRvU8mQKpy5ALzu2BG1lkwowAZF",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌟",
+          "title": "تعلم مع حمزة",
+          "subtitle": "القيم ومكارم الأخلاق",
+          "query": "PLxbB3KB1v0VGc_PpnwIaBQIetrYgi0JcE",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌾",
+          "title": "مزرعة جدي",
+          "subtitle": "قيم وتعليم",
+          "query": "PLnFu01jR-6bpKpc2uGdhA-kjVKJ_BdkL3",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💬",
+          "title": "أحاديث للحفظ",
+          "subtitle": "أحاديث وقيم للأطفال",
+          "query": "PLSZiCGLBS2fOPXBOZSXBsYDSVZmVRrz4v",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕋",
+          "title": "أركان الإسلام للأطفال",
+          "subtitle": "تعليم مبسط",
+          "query": "PL3AbfN3XjccBaDo4tauubGkR44osqr2Q5",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "تعليم الإسلام للصغار",
+          "subtitle": "تعليم إسلامي مبسط للأطفال",
+          "query": "PLEaGEZnOHpUMC6v_ER7j43IdfMlzM4jC-",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌟",
+          "title": "اللؤلؤ والمرجان",
+          "subtitle": "قيم وأخلاق للأطفال",
+          "query": "PL1GARIOTjfQd3Y1oVUAOIa3FlPckFnXhb",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "☪️",
+          "title": "أنا مسلم",
+          "subtitle": "كرتون أنا مسلم",
+          "query": "PLB7rtFFiP_CytNa-W1BAW8fBbMdjVX_ra",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌙",
+          "title": "ونيس",
+          "subtitle": "القناة كاملة بدون الشورت واللايف",
+          "query": "UCbId7e_Z7C63T8xmeeoyyGg",
+          "minDurationMs": 181000
+        },
+        {
+          "emoji": "📖",
+          "title": "قصص إسلامية - من قصص التابعين",
+          "subtitle": "قصص إسلامية هادفة",
+          "query": "PL1GARIOTjfQeER7IQSf5DLsZLOyUFCkKQ",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
+      "id": "make",
+      "emoji": "🎨",
+      "title": "ارسم واصنع",
+      "description": "رسم وأعمال يدوية وإبداع",
+      "palette": "teal",
+      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "✂",
+          "title": "أعمال فنية للأطفال",
+          "subtitle": "أعمال يدوية وإبداع",
+          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🖍",
+          "title": "هيا نرسم",
+          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
+          "query": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📄",
+          "title": "أعمال فنية بالورق",
+          "subtitle": "أعمال ورقية وأفكار فنية",
+          "query": "nibras:playlists:PLpmr9_6AkSDrV2WSWmnQtdaOmHm2y37fF,PLt8AYTPM-S8it_kpxdA_jeQMK8wARjWNA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✂️",
+          "title": "أنشطة يدوية للأطفال",
+          "subtitle": "أعمال يدوية وأنشطة إبداعية",
+          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
+      "id": "stories",
+      "emoji": "📚",
+      "title": "حكايات وقصص",
+      "description": "قصص عربية ومغامرات جميلة",
+      "palette": "cyan",
+      "image": "https://plus.unsplash.com/premium_photo-1720188265409-3fac5e431f70?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🌙",
+          "title": "قصص قبل النوم",
+          "subtitle": "هادئة ومفيدة",
+          "query": "PL3d7SOBbyqW-47fObU_VI3JkCXPkXa-IW",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚖️",
+          "title": "القاضي العادل",
+          "subtitle": "قصص وحكايات",
+          "query": "PLKvSfuIVM6und4bZCsPoAKOIJEmN4EHNK",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📚",
+          "title": "قصص وحكايات",
+          "subtitle": "حكايات عربية ممتعة",
+          "query": "PLKvSfuIVM6um6J9LrWRVmXEEd2t4TPwKA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✨",
+          "title": "زاد الحكايا",
+          "subtitle": "قصص مختارة",
+          "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌱",
+          "title": "قصص تربوية للأطفال",
+          "subtitle": "قصص هادفة وتربوية",
+          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
+      "id": "quran",
+      "emoji": "📖",
+      "title": "تعليم القرآن",
+      "description": "تلاوات وحفظ وتعليم القرآن الكريم",
+      "palette": "emerald",
+      "image": "https://images.unsplash.com/photo-1710367446064-0815d9a9f9c6?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "📖",
+          "title": "تعلم القرآن مع داوود",
+          "subtitle": "قرآن وتعليم للأطفال - القناة كاملة",
+          "query": "UUlzEuix0DYhYTAgb1_kONpQ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "1️⃣",
+          "title": "القاعدة النورانية 1",
+          "subtitle": "تعلم القراءة والقرآن",
+          "query": "PLG382nHLz8XECod_qEZ37NTlZQg4jNTkC",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "القاعدة النورانية 2",
+          "subtitle": "تعلم القراءة والقرآن",
+          "query": "PLFaA_tuR9LP7X_Ipc_nyRvAtcHf6JYPa9",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📗",
+          "title": "جزء عم - المنشاوي",
+          "subtitle": "تلاوة وحفظ",
+          "query": "PLE3e2NriMDYQ2sR2bWn6IR_IhJ476oZ-a",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔁",
+          "title": "سور القرآن مكررة للحفظ",
+          "subtitle": "تكرار يساعد على الحفظ",
+          "query": "PLSZiCGLBS2fP8Xu4YqLSvsKyYrgXo4DWH",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🎧",
+          "title": "تلاوات القرآن الكريم",
+          "subtitle": "تلاوات مرتلة",
+          "query": "PLziRdBgoOn2nFE-jJFlE3WYCWux--TUsT",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧒",
+          "title": "القرآن للأطفال",
+          "subtitle": "حفظ وتلاوة للصغار",
+          "query": "PLkCl7h8FSnn2uWDc7XR1WWN2XhOVvuhmo",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📖",
+          "title": "سور القرآن الكريم",
+          "subtitle": "استماع وحفظ",
+          "query": "PLQ090B3Xi9I5pB4O1-QuYc1b-d0X2WybD",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📘",
+          "title": "جزء تبارك",
+          "subtitle": "تعليم وحفظ القرآن",
+          "query": "PLKhm8Z5pXdOXqBC9Gmh2MVTEVQj6x_4or",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔁",
+          "title": "جزء عم مع التكرار",
+          "subtitle": "للحفظ مع التكرار",
+          "query": "PLKhm8Z5pXdOUcx5ho4DuPRtBvu8wlIkB6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📗",
+          "title": "جزء عم بدون تكرار",
+          "subtitle": "تلاوة بدون تكرار",
+          "query": "PLKhm8Z5pXdOXO8wm-pQ670wmKnoC5Be5g",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "learning",
+      "emoji": "🔬",
+      "title": "اكتشف وتعلم",
+      "description": "علوم وتجارب وابتكارات",
+      "palette": "cyan",
+      "items": [
+        {
+          "emoji": "🌌",
+          "title": "الفضاء والكون",
+          "subtitle": "كواكب ونجوم",
+          "query": "PL_M-Hi6YRvjMLCiPHz3pMaL_VfuKvQZAV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "💡",
+          "title": "اختراعات مدهشة",
+          "subtitle": "أفكار واختراعات تفتح أبواب الفضول والاكتشاف",
+          "query": "UUAH4NOIbnHpN3cW0Kgg2oOw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🗣️",
+          "title": "تعلم اللغة للأطفال",
+          "subtitle": "تعلم بطريقة مبسطة",
+          "query": "UU2518TJyxsPNbrpAwr0Gf7w",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تعلم اللغة مع أنامل الاكتشاف",
+          "subtitle": "تعلم الإنجليزية للأطفال",
+          "query": "PL3HTTXjR0lM2CIQdMB13agWKGUq8xh0Wp",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔡",
+          "title": "تعلم مع نور - حروف الهجاء",
+          "subtitle": "تعلم الحروف العربية",
+          "query": "PLOMi1w7HEoaRpQrPoAkmqr9gLoCs0xAJu",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔬",
+          "title": "سلسلة العلوم",
+          "subtitle": "علوم مبسطة للأطفال",
+          "query": "PLOMi1w7HEoaR57zcKjrNqUUhHcTouFGib",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تعلم حروف الهجاء",
+          "subtitle": "تعلم الحروف العربية",
+          "query": "PLlXdF6lZgTi4Ai-QiQhVdJ7QcKhpv6fYx",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔠",
+          "title": "تعلم الحروف الإنجليزية",
+          "subtitle": "English alphabet للأطفال",
+          "query": "PLlXdF6lZgTi6d1ktF3WO3vQESN4b6GAGI",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🗣️",
+          "title": "تعلم المحادثة الإنجليزية",
+          "subtitle": "محادثة إنجليزية للصغار",
+          "query": "PLzWJGJh_FHpj35OFt0kwn60IQZQOLuY2d",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚛️",
+          "title": "علوم الفيزياء",
+          "subtitle": "فيزياء مبسطة للأطفال",
+          "query": "PLx2PxsXIUlccxsItcIdr3k_cQQf_qWGGV",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔬",
+          "title": "د. سكيبو",
+          "subtitle": "علوم وتجارب واكتشافات",
+          "query": "PLx2PxsXIUlccPmuVlSs6P9S7iPvtjxCa8",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🚀",
+          "title": "علم الفضاء للصغار",
+          "subtitle": "كواكب ونجوم وعلوم الفضاء",
+          "query": "PLMz9Ol3LBnkhB_OvEP5mFUgH_dmRn4SZ6",
+          "minDurationMs": 0
+        }
+      ],
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "animals",
+      "emoji": "🦁",
+      "title": "الحيوانات والطبيعة",
+      "description": "حياة برية وطيور وزواحف وحشرات",
+      "palette": "green",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
+      "items": [
+        {
+          "emoji": "🐜",
+          "title": "الحشرات",
+          "subtitle": "عالم الحشرات",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ,PLzvo82A6fuxoD12UgkDrZL5w1u_Iz9r_q",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "الحيوانات للصغار",
+          "subtitle": "تعرف على الحيوانات للصغار",
+          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات",
+          "subtitle": "عالم البحار والمحيطات",
+          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦎",
+          "title": "الزواحف",
+          "subtitle": "عالم الزواحف",
+          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦁",
+          "title": "عالم البرية",
+          "subtitle": "الحياة البرية",
+          "query": "PLzvo82A6fuxrvEmWvpQ2UEQ4UlMD8nCEK",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "world",
+      "emoji": "🌍",
+      "title": "اكتشف العالم",
+      "description": "رحلات واكتشافات حول العالم",
+      "palette": "sky",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/premium_photo-1663088923485-58685ba14d5f.jpeg",
+      "items": [
+        {
+          "emoji": "🌍",
+          "title": "اكتشف العالم",
+          "subtitle": "رحلات واكتشافات",
+          "query": "PLqzoLPTpnM1vdUkyv2U_FXHZGPpWNkzWo",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌎",
+          "title": "عجائب الأرض",
+          "subtitle": "عجائب وكوكب الأرض",
+          "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "Our Planet / كوكبنا الجميل",
+          "subtitle": "عالم الطبيعة والحياة البرية",
+          "query": "PLv1HH8TloApjZnIg-ipXWCMZQvhDppve2",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌿",
+          "title": "عجائب الطبيعة",
+          "subtitle": "مشاهد وعجائب من الطبيعة",
+          "query": "PLzvo82A6fuxqQq2VyP1CJLbnCIizHb5E6",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "brain",
+      "emoji": "🧠",
+      "title": "تحديات ممتعة",
+      "description": "ألغاز وتحديات ممتعة",
+      "palette": "indigo",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/305137.jpg.webp",
+      "items": [
+        {
+          "emoji": "🔎",
+          "title": "اكتشف الاختلاف",
+          "subtitle": "تحديات بصرية",
+          "query": "PLzml_oYCyd9yHcy4aD-THA4wRbO62XNm0",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧩",
+          "title": "ألغاز أنامل الاكتشاف",
+          "subtitle": "ألغاز وتحديات",
+          "query": "PL3HTTXjR0lM0bRs-Hz_B6rxQ5f5dpFSln",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "الكلمات المتناغمة",
+          "subtitle": "لعبة كلمات للأطفال",
+          "query": "PL3AbfN3XjccAYDum7xZ3DyWxgg-nVMGzj",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕵️",
+          "title": "من أنا؟",
+          "subtitle": "لعبة تخمين للأطفال",
+          "query": "PL3AbfN3XjccCwfxa4DuXjLFgcrNyt2XRs",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "☪️",
+          "title": "تحدي الأسئلة الدينية",
+          "subtitle": "أسئلة وتحديات دينية",
+          "query": "PLN7KKPu5yb3FDRJOpXzYJBUWviQ5xJuVl",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🔤",
+          "title": "تحدي الكلمات للصغار",
+          "subtitle": "تحديات كلمات ممتعة",
+          "query": "PLEaGEZnOHpUO97avTMbp_9ZtWUpu_xhL6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🧠",
+          "title": "تحدي الذاكرة للصغار",
+          "subtitle": "تحديات لتنشيط الذاكرة",
+          "query": "PLEaGEZnOHpUMEPO9nD5LuNfZ7NxNdhtQR",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "activity",
+      "emoji": "🏃",
+      "title": "هيّا نتمرن",
+      "description": "تمارين وحركة ممتعة للأطفال",
+      "palette": "teal",
+      "image": "https://images.unsplash.com/photo-1589953605483-a2964c38d415?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🏃",
+          "title": "تمارين للأطفال",
+          "subtitle": "تحرك والعب",
+          "query": "UUUDPSOnSgbxJsYywWepgfdg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🏃",
+          "title": "تمارين للأطفال",
+          "subtitle": "تمارين وحركة للأطفال",
+          "query": "nibras:playlists:PLD-MFRMx69cuyp2P5KPBjo4gog6ORe-Vi,PLD-MFRMx69ctlWvw9MGhuie1z2_kvkohH",
+          "minDurationMs": 240000
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "haramain",
+      "emoji": "🕋",
+      "title": "بث الحرمين",
+      "description": "مقاطع وبث رسمي",
+      "palette": "teal",
+      "image": "https://images.unsplash.com/photo-1704104501136-8f35402af395?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🕋",
+          "title": "المسجد الحرام",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "UCos52azQNBgW63_9uDJoPDA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🕌",
+          "title": "المسجد النبوي",
+          "subtitle": "البث والمقاطع الرسمية",
+          "query": "UCROKYPep-UuODNwyipe6JMw",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "village",
+      "emoji": "🌿",
+      "title": "حياة القرية",
+      "description": "حياة ريفية من القنوات المعتمدة",
+      "palette": "teal",
+      "image": "https://images.unsplash.com/photo-1604601638406-edc29b54dcf7?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "🌿",
+          "title": "حياة القرية",
+          "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
+          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌍",
+          "title": "قرى العالم",
+          "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
+          "query": "UUqFOG13EfQbZSKChyuzJTEg",
+          "minDurationMs": 0
+        }
+      ]
+    }
+  ],
+  "subscription": {
+    "enabled": true,
+    "warningDays": 5,
+    "showPrice": true,
+    "showCodePreview": true,
+    "title": "اشتراك نبراس",
+    "expiredTitle": "انتهى اشتراك نبراس",
+    "warningTitle": "تنبيه الاشتراك",
+    "priceText": "الاشتراك السنوي — 99 ريال فقط",
+    "activationHint": "اكتب الأرقام الستة فقط بدون NBR أو شرطات",
+    "codePlaceholder": "000638",
+    "codePreview": "سيظهر كودك بهذا الشكل: NBR-000-638",
+    "activateButton": "تفعيل الكود",
+    "activeStatus": "اشتراكك فعال • متبقي {days} يوم",
+    "trialStatus": "الفترة المجانية • متبقي {days} يوم",
+    "expiredStatus": "انتهت فترة الوصول",
+    "blockedStatus": "هذا الجهاز موقوف",
+    "unavailableStatus": "حالة الاشتراك غير متاحة الآن",
+    "expiryPrefix": "ينتهي في {date}",
+    "warningMessage": "متبقي {days} يوم على انتهاء الاشتراك",
+    "successMessage": "تم تفعيل الاشتراك بنجاح\\nينتهي اشتراكك في {date}\\nالمتبقي: {days} يوم",
+    "successToast": "تم تفعيل نبراس بنجاح",
+    "invalidLengthError": "أدخل الأرقام الستة للكود",
+    "usedCodeError": "هذا الكود مستخدم من قبل",
+    "invalidCodeError": "كود التفعيل غير صحيح",
+    "networkError": "تعذر الاتصال بالإنترنت",
+    "genericError": "تعذر التفعيل، حاول مرة أخرى",
+    "welcomeEnabled": true,
+    "welcomeTitle": "مرحبًا بك في نبراس",
+    "welcomeMessage": "أهلًا بك 👋\\nاستمتع بمحتوى مختار بعناية للأطفال في بيئة آمنة وبسيطة.",
+    "welcomeButton": "ابدأ المشاهدة"
+  }
+}
