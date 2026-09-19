@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "sections": [
     {
       "group": "entertainment",
@@ -426,7 +426,7 @@
         },
         {
           "emoji": "🌟",
-          "title": "القيم",
+          "title": "اللؤلؤ والمرجات",
           "subtitle": "قيم وأخلاق للأطفال",
           "query": "PL1GARIOTjfQd3Y1oVUAOIa3FlPckFnXhb",
           "minDurationMs": 0
