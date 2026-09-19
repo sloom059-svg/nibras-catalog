@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "sections": [
     {
       "group": "entertainment",
@@ -443,7 +443,7 @@
           "title": "ونيس",
           "subtitle": "القناة كاملة بدون الشورت واللايف",
           "query": "UCbId7e_Z7C63T8xmeeoyyGg",
-          "minDurationMs": 0
+          "minDurationMs": 181000
         },
         {
           "emoji": "📖",
