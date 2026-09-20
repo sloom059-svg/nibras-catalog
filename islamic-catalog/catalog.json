@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "sections": [
     {
       "group": "entertainment",
@@ -772,7 +772,8 @@
           "minDurationMs": 600001,
           "titleExclude": [
             "طائر",
-            "طيور"
+            "طيور",
+            "البحار"
           ]
         },
         {
@@ -784,6 +785,16 @@
           "titleInclude": [
             "طائر",
             "طيور"
+          ]
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات بدون موسيقى",
+          "subtitle": "وثائقيات البحار والمحيطات",
+          "query": "nibras:filtered:seas:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleInclude": [
+            "البحار"
           ]
         }
       ]
