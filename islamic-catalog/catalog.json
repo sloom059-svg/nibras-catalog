@@ -1,5 +1,5 @@
 {
-  "version": 46,
+  "version": 47,
   "sections": [
     {
       "group": "entertainment",
@@ -1027,5 +1027,6 @@
     "welcomeTitle": "مرحبًا بك في نبراس",
     "welcomeMessage": "أهلًا بك 👋\\nاستمتع بمحتوى مختار بعناية للأطفال في بيئة آمنة وبسيطة.",
     "welcomeButton": "ابدأ المشاهدة"
-  }
+  },
+  "audioMapUrl": "https://raw.githubusercontent.com/sloom059-svg/nibras-audio/main/audio-map.json"
 }
