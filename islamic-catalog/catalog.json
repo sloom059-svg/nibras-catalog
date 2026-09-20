@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "sections": [
     {
       "group": "entertainment",
@@ -766,10 +766,25 @@
         },
         {
           "emoji": "🦁",
-          "title": "عالم البرية",
+          "title": "عالم البرية بدون موسيقى",
           "subtitle": "الحياة البرية",
-          "query": "PLzvo82A6fuxrvEmWvpQ2UEQ4UlMD8nCEK",
-          "minDurationMs": 0
+          "query": "nibras:filtered:wildlife:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleExclude": [
+            "طائر",
+            "طيور"
+          ]
+        },
+        {
+          "emoji": "🦜",
+          "title": "عالم الطيور بدون موسيقى",
+          "subtitle": "عالم الطيور",
+          "query": "nibras:filtered:birds:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleInclude": [
+            "طائر",
+            "طيور"
+          ]
         }
       ]
     },
