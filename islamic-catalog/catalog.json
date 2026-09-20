@@ -1,5 +1,5 @@
 {
-  "version": 43,
+  "version": 44,
   "sections": [
     {
       "group": "entertainment",
@@ -117,6 +117,13 @@
           "title": "سوبر وينغز",
           "subtitle": "مغامرات وحلقات مدبلجة",
           "query": "PLbwI0LE0f2MGPwPP4OfTN6LLkSQB2leOs",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "كاتوري",
+          "subtitle": "",
+          "query": "PLTwdTwrXq3Ae1F7Y4uC6O96SkQHVCWqpT",
           "minDurationMs": 0
         }
       ],
