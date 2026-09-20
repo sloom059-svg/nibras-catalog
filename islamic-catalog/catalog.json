@@ -1,5 +1,5 @@
 {
-  "version": 44,
+  "version": 45,
   "sections": [
     {
       "group": "entertainment",
@@ -906,6 +906,13 @@
           "title": "تحدي الذاكرة للصغار",
           "subtitle": "تحديات لتنشيط الذاكرة",
           "query": "PLEaGEZnOHpUMEPO9nD5LuNfZ7NxNdhtQR",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "لعبة التركيز",
+          "subtitle": "",
+          "query": "PLQB3LXOD9H5GW2qvjDZkHa2B2OIvR-X09",
           "minDurationMs": 0
         }
       ]
