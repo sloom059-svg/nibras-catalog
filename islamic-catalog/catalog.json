@@ -1,5 +1,5 @@
 {
-  "version": 42,
+  "version": 43,
   "sections": [
     {
       "group": "entertainment",
@@ -57,7 +57,10 @@
           "title": "أوكتونوتس",
           "subtitle": "مغامرات بحرية بالعربية",
           "query": "PLTwdTwrXq3AfyzLQP6pKoBjr8DQDuXWJ5",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "titleExclude": [
+            "600 شخص تعلموا السحر"
+          ]
         },
         {
           "emoji": "🌙",
