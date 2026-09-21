@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 48,
   "sections": [
     {
       "group": "entertainment",
@@ -750,7 +750,7 @@
           "emoji": "🐜",
           "title": "الحشرات",
           "subtitle": "عالم الحشرات",
-          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ,PLzvo82A6fuxoD12UgkDrZL5w1u_Iz9r_q",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ",
           "minDurationMs": 0
         },
         {
@@ -965,32 +965,6 @@
           "title": "المسجد النبوي",
           "subtitle": "البث والمقاطع الرسمية",
           "query": "UCROKYPep-UuODNwyipe6JMw",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "more",
-      "groupTitle": "المزيد من المتعة",
-      "id": "village",
-      "emoji": "🌿",
-      "title": "حياة القرية",
-      "description": "حياة ريفية من القنوات المعتمدة",
-      "palette": "teal",
-      "image": "https://images.unsplash.com/photo-1604601638406-edc29b54dcf7?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "🌿",
-          "title": "حياة القرية",
-          "subtitle": "مغامرات جميلة بين الطبيعة والحياة الريفية",
-          "query": "UUb34abKWHtXFAXT9zSu4Lmg",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌍",
-          "title": "قرى العالم",
-          "subtitle": "جولات ممتعة بين القرى والطبيعة حول العالم",
-          "query": "UUqFOG13EfQbZSKChyuzJTEg",
           "minDurationMs": 0
         }
       ]
