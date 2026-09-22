@@ -1,5 +1,5 @@
 {
-  "version": 51,
+  "version": 52,
   "sections": [
     {
       "group": "entertainment",
@@ -927,6 +927,13 @@
           "title": "هذه القائمة",
           "subtitle": "",
           "query": "PL6-i8THqENieMp5f61R608UTaNfKrTueC",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "هذه",
+          "subtitle": "",
+          "query": "PLbqZ7icmed46G5k5VK7rrqTJ0syHtihuz",
           "minDurationMs": 0
         }
       ]
