@@ -1,5 +1,5 @@
 {
-  "version": 49,
+  "version": 50,
   "sections": [
     {
       "group": "entertainment",
@@ -913,6 +913,13 @@
           "title": "لعبة التركيز",
           "subtitle": "",
           "query": "PLQB3LXOD9H5GW2qvjDZkHa2B2OIvR-X09",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "الغاز للاذكياء",
+          "subtitle": "",
+          "query": "PL6-i8THqENif364LGusGBriHskQWyJcxE",
           "minDurationMs": 0
         }
       ]
