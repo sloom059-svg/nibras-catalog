@@ -1,5 +1,5 @@
 {
-  "version": 54,
+  "version": 55,
   "sections": [
     {
       "group": "entertainment",
@@ -467,6 +467,13 @@
           "title": "تعليم طريقة الصلاة والوضوء والتسبيح",
           "subtitle": "",
           "query": "PLbqZ7icmed44WgqYBNa9DJD0WiDeE_h81",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "سلسلة الأدعية والأذكار مع عدنان",
+          "subtitle": "",
+          "query": "PLkCl7h8FSnn3QwU6RzaD1qzjPA7zFyXkj",
           "minDurationMs": 0
         }
       ]
