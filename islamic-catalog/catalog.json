@@ -1,5 +1,5 @@
 {
-  "version": 53,
+  "version": 54,
   "sections": [
     {
       "group": "entertainment",
@@ -460,6 +460,13 @@
           "title": "قصص إسلامية - من قصص التابعين",
           "subtitle": "قصص إسلامية هادفة",
           "query": "PL1GARIOTjfQeER7IQSf5DLsZLOyUFCkKQ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "تعليم طريقة الصلاة والوضوء والتسبيح",
+          "subtitle": "",
+          "query": "PLbqZ7icmed44WgqYBNa9DJD0WiDeE_h81",
           "minDurationMs": 0
         }
       ]
