@@ -1,5 +1,5 @@
 {
-  "version": 56,
+  "version": 57,
   "sections": [
     {
       "group": "entertainment",
@@ -752,6 +752,13 @@
           "title": "Educational lessons for children - دروس تعليمية للاطفال",
           "subtitle": "",
           "query": "PLqupEUK0ui3-kGMU7ULgYI5oaGYqf9jyg",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "تعلم جدول الضرب للأطفال - Learn multiplication table for children",
+          "subtitle": "",
+          "query": "PLEaGEZnOHpUPgAhXALGsesepwdzXEmDvY",
           "minDurationMs": 0
         }
       ],
