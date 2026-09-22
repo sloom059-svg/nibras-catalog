@@ -1,5 +1,5 @@
 {
-  "version": 52,
+  "version": 53,
   "sections": [
     {
       "group": "entertainment",
@@ -934,6 +934,13 @@
           "title": "هذه",
           "subtitle": "",
           "query": "PLbqZ7icmed46G5k5VK7rrqTJ0syHtihuz",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "برنامج تحدي المعلومات",
+          "subtitle": "",
+          "query": "PLbqZ7icmed47EidZn_fGAvo-pScFR3xH3",
           "minDurationMs": 0
         }
       ]
