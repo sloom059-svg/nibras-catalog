@@ -1,5 +1,5 @@
 {
-  "version": 55,
+  "version": 56,
   "sections": [
     {
       "group": "entertainment",
@@ -745,6 +745,13 @@
           "title": "علم الفضاء للصغار",
           "subtitle": "كواكب ونجوم وعلوم الفضاء",
           "query": "PLMz9Ol3LBnkhB_OvEP5mFUgH_dmRn4SZ6",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "Educational lessons for children - دروس تعليمية للاطفال",
+          "subtitle": "",
+          "query": "PLqupEUK0ui3-kGMU7ULgYI5oaGYqf9jyg",
           "minDurationMs": 0
         }
       ],
