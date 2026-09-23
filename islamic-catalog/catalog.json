@@ -1,5 +1,5 @@
 {
-  "version": 70,
+  "version": 71,
   "sections": [
     {
       "group": "entertainment",
@@ -128,8 +128,8 @@
         },
         {
           "emoji": "▶️",
-          "title": "القائمة",
-          "subtitle": "",
+          "title": "عائلة مشمش",
+          "subtitle": "الحلقات العربية",
           "query": "PLbwI0LE0f2MHYp-sLfpkab-uU6HTYADT9",
           "minDurationMs": 0
         }
