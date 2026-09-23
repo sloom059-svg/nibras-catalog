@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "sections": [
     {
       "group": "entertainment",
@@ -124,6 +124,13 @@
           "title": "كاتوري",
           "subtitle": "",
           "query": "PLTwdTwrXq3Ae1F7Y4uC6O96SkQHVCWqpT",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "القائمة",
+          "subtitle": "",
+          "query": "PLbwI0LE0f2MHYp-sLfpkab-uU6HTYADT9",
           "minDurationMs": 0
         }
       ],
