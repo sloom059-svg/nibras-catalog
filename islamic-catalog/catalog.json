@@ -1,5 +1,5 @@
 {
-  "version": 62,
+  "version": 63,
   "sections": [
     {
       "group": "entertainment",
@@ -199,6 +199,13 @@
           "title": "كارتونيتو",
           "subtitle": "كرتون مختار",
           "query": "PLlUJpgYcaNtETNI63jOb99wuUzaFLUW2i",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "PADDINGTON ARABIC",
+          "subtitle": "",
+          "query": "PLjfwEgId1yFGhsiA8WbIl9ahgICynsuia",
           "minDurationMs": 0
         }
       ],
