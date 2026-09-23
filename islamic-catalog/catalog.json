@@ -1,5 +1,5 @@
 {
-  "version": 65,
+  "version": 66,
   "sections": [
     {
       "group": "entertainment",
@@ -220,6 +220,13 @@
           "title": "OGGY - FIND THE HIDDEN ITEMS",
           "subtitle": "",
           "query": "PL-d4D7FQaDKPSUPVOtW_bN3EUE4oG3iBY",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "Nickelodeon Arabia | عاملا الخبز",
+          "subtitle": "",
+          "query": "PLFmLgj33u1WIzrOdEDNB96AakLWG0PMBE",
           "minDurationMs": 0
         }
       ],
