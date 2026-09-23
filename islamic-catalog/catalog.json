@@ -1,5 +1,5 @@
 {
-  "version": 68,
+  "version": 69,
   "sections": [
     {
       "group": "entertainment",
@@ -418,7 +418,7 @@
       "title": "القيم والإسلام",
       "description": "قصص وقيم وتعليم إسلامي للأطفال",
       "palette": "emerald",
-      "image": "https://plus.unsplash.com/premium_photo-1678553511288-4383515bffb2?q=82&w=2200&auto=format&fit=crop",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/nibras_deen_qiyam_hero.jpg",
       "items": [
         {
           "emoji": "🌙",
