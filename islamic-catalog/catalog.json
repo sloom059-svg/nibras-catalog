@@ -1,5 +1,5 @@
 {
-  "version": 63,
+  "version": 64,
   "sections": [
     {
       "group": "entertainment",
@@ -206,6 +206,13 @@
           "title": "PADDINGTON ARABIC",
           "subtitle": "",
           "query": "PLjfwEgId1yFGhsiA8WbIl9ahgICynsuia",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "روبوكار بولي الموسم 1",
+          "subtitle": "",
+          "query": "PLtEn9Fkz6ZWEK01fXlRwzZltVKodg8lDw",
           "minDurationMs": 0
         }
       ],
