@@ -1,5 +1,5 @@
 {
-  "version": 61,
+  "version": 62,
   "sections": [
     {
       "group": "entertainment",
@@ -968,7 +968,7 @@
           "emoji": "▶️",
           "title": "هذه",
           "subtitle": "",
-          "query": "PLbqZ7icmed46G5k5VK7rrqTJ0syHtihuz",
+          "query": "nibras:playlists:PLbqZ7icmed46G5k5VK7rrqTJ0syHtihuz,PLbwI0LE0f2MFADgQXz38UnCr7FP__EfZw",
           "minDurationMs": 0
         },
         {
