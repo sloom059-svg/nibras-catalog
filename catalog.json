@@ -801,7 +801,7 @@
           "emoji": "🌍",
           "title": "Our Planet / كوكبنا الجميل",
           "subtitle": "عالم الطبيعة والحياة البرية",
-          "query": "nibras:manual:our-planet",
+          "query": "PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA",
           "minDurationMs": 0,
           "manualVideos": [
             {
@@ -852,7 +852,8 @@
               "image": "https://i.ytimg.com/vi/JkaxUblCGz0/hqdefault.jpg",
               "author": "Netflix"
             }
-          ]
+          ],
+          "maxItems": 8
         },
         {
           "emoji": "🌿",
