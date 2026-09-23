@@ -1,5 +1,5 @@
 {
-  "version": 64,
+  "version": 65,
   "sections": [
     {
       "group": "entertainment",
@@ -213,6 +213,13 @@
           "title": "روبوكار بولي الموسم 1",
           "subtitle": "",
           "query": "PLtEn9Fkz6ZWEK01fXlRwzZltVKodg8lDw",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "OGGY - FIND THE HIDDEN ITEMS",
+          "subtitle": "",
+          "query": "PL-d4D7FQaDKPSUPVOtW_bN3EUE4oG3iBY",
           "minDurationMs": 0
         }
       ],
