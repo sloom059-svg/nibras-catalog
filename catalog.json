@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "sections": [
     {
       "group": "entertainment",
@@ -796,64 +796,6 @@
           "subtitle": "عجائب وكوكب الأرض",
           "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
           "minDurationMs": 0
-        },
-        {
-          "emoji": "🌍",
-          "title": "Our Planet / كوكبنا الجميل",
-          "subtitle": "عالم الطبيعة والحياة البرية",
-          "query": "PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA",
-          "minDurationMs": 0,
-          "manualVideos": [
-            {
-              "id": "GfO-3Oir-qM",
-              "title": "Our Planet | One Planet | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/GfO-3Oir-qM/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "cTQ3Ko9ZKg8",
-              "title": "Our Planet | Frozen Worlds | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/cTQ3Ko9ZKg8/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "um2Q9aUecy0",
-              "title": "Our Planet | Jungles | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/um2Q9aUecy0/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "r9PeYPHdpNo",
-              "title": "Our Planet | Coastal Seas | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/r9PeYPHdpNo/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "XmtXC_n6X6Q",
-              "title": "Our Planet | From Deserts to Grasslands | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/XmtXC_n6X6Q/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "9FqwhW0B3tY",
-              "title": "Our Planet | High Seas | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/9FqwhW0B3tY/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "R2DU85qLfJQ",
-              "title": "Our Planet | Fresh Water | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/R2DU85qLfJQ/hqdefault.jpg",
-              "author": "Netflix"
-            },
-            {
-              "id": "JkaxUblCGz0",
-              "title": "Our Planet | Forests | FULL EPISODE | Netflix",
-              "image": "https://i.ytimg.com/vi/JkaxUblCGz0/hqdefault.jpg",
-              "author": "Netflix"
-            }
-          ],
-          "maxItems": 8
         },
         {
           "emoji": "🌿",
