@@ -1,5 +1,5 @@
 {
-  "version": 69,
+  "version": 70,
   "sections": [
     {
       "group": "entertainment",
@@ -1016,7 +1016,7 @@
       "title": "هيّا نتمرن",
       "description": "تمارين وحركة ممتعة للأطفال",
       "palette": "teal",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/exircise.png",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/exercise_home_hero_light.jpg",
       "items": [
         {
           "emoji": "🏃",
