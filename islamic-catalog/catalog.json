@@ -1,5 +1,5 @@
 {
-  "version": 76,
+  "version": 77,
   "sections": [
     {
       "group": "entertainment",
@@ -36,13 +36,6 @@
           "title": "السنافر الجديد 3D",
           "subtitle": "إصدار 2021 فقط",
           "query": "PL9gKglGE2NdGka5IM2zShxo8UFXqwr5K2",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🧰",
-          "title": "العم مصلح",
-          "subtitle": "من برامج براعم",
-          "query": "PLPIMbqB5n_xuO-7qpNC8oSG58rAZ0qXgS",
           "minDurationMs": 0
         },
         {
