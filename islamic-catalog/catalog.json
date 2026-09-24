@@ -1,5 +1,5 @@
 {
-  "version": 73,
+  "version": 74,
   "sections": [
     {
       "group": "entertainment",
@@ -1031,6 +1031,13 @@
           "subtitle": "تمارين وحركة للأطفال",
           "query": "nibras:playlists:PLD-MFRMx69cuyp2P5KPBjo4gog6ORe-Vi,PLD-MFRMx69ctlWvw9MGhuie1z2_kvkohH",
           "minDurationMs": 240000
+        },
+        {
+          "emoji": "▶️",
+          "title": "تمارين رياضية للأطفال في المنزل | Kids Workout & Fun Exercises",
+          "subtitle": "",
+          "query": "PLqjgxiA8B5f46qVjg0pFj3b4u9TXx-vrn",
+          "minDurationMs": 0
         }
       ]
     },
