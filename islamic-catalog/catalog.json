@@ -1,5 +1,5 @@
 {
-  "version": 78,
+  "version": 79,
   "sections": [
     {
       "group": "entertainment",
@@ -481,6 +481,13 @@
           "title": "سلسلة الأدعية والأذكار مع عدنان",
           "subtitle": "",
           "query": "PLkCl7h8FSnn3QwU6RzaD1qzjPA7zFyXkj",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👧👦",
+          "title": "فواز ونورة",
+          "subtitle": "قصص وقيم للأطفال",
+          "query": "PLQXerpPVsEPs-Z3CyIydrelZgazEq-W1-",
           "minDurationMs": 0
         }
       ]
