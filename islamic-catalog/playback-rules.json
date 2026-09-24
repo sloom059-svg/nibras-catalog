@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "matchType": "query",
@@ -7,6 +7,12 @@
       "title": "كرم المحترف الصغير",
       "startAtMs": 103000,
       "endBeforeMs": 68000
+    },
+    {
+      "matchType": "query",
+      "match": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
+      "title": "أبطال بلباس النوم",
+      "startAtMs": 37000
     }
   ]
 }
