@@ -1,5 +1,5 @@
 {
-  "version": 77,
+  "version": 78,
   "sections": [
     {
       "group": "entertainment",
@@ -468,13 +468,6 @@
           "subtitle": "القناة كاملة بدون الشورت واللايف",
           "query": "UCbId7e_Z7C63T8xmeeoyyGg",
           "minDurationMs": 181000
-        },
-        {
-          "emoji": "📖",
-          "title": "قصص إسلامية - من قصص التابعين",
-          "subtitle": "قصص إسلامية هادفة",
-          "query": "PL1GARIOTjfQeER7IQSf5DLsZLOyUFCkKQ",
-          "minDurationMs": 0
         },
         {
           "emoji": "▶️",
