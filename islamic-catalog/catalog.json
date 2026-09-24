@@ -1,5 +1,5 @@
 {
-  "version": 80,
+  "version": 81,
   "sections": [
     {
       "group": "entertainment",
@@ -1171,9 +1171,228 @@
         {
           "emoji": "🏃",
           "title": "تمارين للأطفال",
-          "subtitle": "تمارين وحركة للأطفال",
-          "query": "nibras:playlists:PLD-MFRMx69cuyp2P5KPBjo4gog6ORe-Vi,PLD-MFRMx69ctlWvw9MGhuie1z2_kvkohH",
-          "minDurationMs": 240000
+          "subtitle": "36 تمرين مختار — بالصوت المنظّف",
+          "query": "nibras:manual:fitness-kids-clean-v1",
+          "minDurationMs": 0,
+          "maxItems": 36,
+          "manualVideos": [
+            {
+              "id": "FMA9f5NKwok",
+              "title": "تمارين للأطفال — 1",
+              "image": "https://i.ytimg.com/vi/FMA9f5NKwok/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "HBpfzYLp3Dg",
+              "title": "تمارين للأطفال — 2",
+              "image": "https://i.ytimg.com/vi/HBpfzYLp3Dg/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "AmNxHPSZS7o",
+              "title": "تمارين للأطفال — 3",
+              "image": "https://i.ytimg.com/vi/AmNxHPSZS7o/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "b3UuYh93Uks",
+              "title": "تمارين للأطفال — 4",
+              "image": "https://i.ytimg.com/vi/b3UuYh93Uks/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "Q5ahdivDvts",
+              "title": "تمارين للأطفال — 5",
+              "image": "https://i.ytimg.com/vi/Q5ahdivDvts/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "PVC2za0dhHE",
+              "title": "تمارين للأطفال — 6",
+              "image": "https://i.ytimg.com/vi/PVC2za0dhHE/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "wTZa33kRvaA",
+              "title": "تمارين للأطفال — 7",
+              "image": "https://i.ytimg.com/vi/wTZa33kRvaA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "8IgU3G9NFW0",
+              "title": "تمارين للأطفال — 8",
+              "image": "https://i.ytimg.com/vi/8IgU3G9NFW0/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "BNn3oQy1utA",
+              "title": "تمارين للأطفال — 9",
+              "image": "https://i.ytimg.com/vi/BNn3oQy1utA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "FqvYd97A9Tg",
+              "title": "تمارين للأطفال — 10",
+              "image": "https://i.ytimg.com/vi/FqvYd97A9Tg/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "3TlHbSa6yto",
+              "title": "تمارين للأطفال — 11",
+              "image": "https://i.ytimg.com/vi/3TlHbSa6yto/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "ZTLf_cx6tsI",
+              "title": "تمارين للأطفال — 12",
+              "image": "https://i.ytimg.com/vi/ZTLf_cx6tsI/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "zfvDNPEI_Pw",
+              "title": "تمارين للأطفال — 13",
+              "image": "https://i.ytimg.com/vi/zfvDNPEI_Pw/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "-TM6-vcoDJE",
+              "title": "تمارين للأطفال — 14",
+              "image": "https://i.ytimg.com/vi/-TM6-vcoDJE/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "t1XfUCWV0-s",
+              "title": "تمارين للأطفال — 15",
+              "image": "https://i.ytimg.com/vi/t1XfUCWV0-s/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "LqzAnHz-m3w",
+              "title": "تمارين للأطفال — 16",
+              "image": "https://i.ytimg.com/vi/LqzAnHz-m3w/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "m9vGfSHY4yA",
+              "title": "تمارين للأطفال — 17",
+              "image": "https://i.ytimg.com/vi/m9vGfSHY4yA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "dDC6aABkSwg",
+              "title": "تمارين للأطفال — 18",
+              "image": "https://i.ytimg.com/vi/dDC6aABkSwg/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "I9soSR5L6jA",
+              "title": "تمارين للأطفال — 19",
+              "image": "https://i.ytimg.com/vi/I9soSR5L6jA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "nP9WVjn3n7s",
+              "title": "تمارين للأطفال — 20",
+              "image": "https://i.ytimg.com/vi/nP9WVjn3n7s/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "0f1O4S1hpoI",
+              "title": "تمارين للأطفال — 21",
+              "image": "https://i.ytimg.com/vi/0f1O4S1hpoI/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "pivSDkqagn0",
+              "title": "تمارين للأطفال — 22",
+              "image": "https://i.ytimg.com/vi/pivSDkqagn0/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "2kolrhlOWW0",
+              "title": "تمارين للأطفال — 23",
+              "image": "https://i.ytimg.com/vi/2kolrhlOWW0/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "Whd_ih2-D4Q",
+              "title": "تمارين للأطفال — 24",
+              "image": "https://i.ytimg.com/vi/Whd_ih2-D4Q/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "WQqGXnMlsCc",
+              "title": "تمارين للأطفال — 25",
+              "image": "https://i.ytimg.com/vi/WQqGXnMlsCc/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "n-LdLmW77fA",
+              "title": "تمارين للأطفال — 26",
+              "image": "https://i.ytimg.com/vi/n-LdLmW77fA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "WgW9K_EHzzk",
+              "title": "تمارين للأطفال — 27",
+              "image": "https://i.ytimg.com/vi/WgW9K_EHzzk/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "r2odFShtEZM",
+              "title": "تمارين للأطفال — 28",
+              "image": "https://i.ytimg.com/vi/r2odFShtEZM/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "Bbbo45ozWF0",
+              "title": "تمارين للأطفال — 29",
+              "image": "https://i.ytimg.com/vi/Bbbo45ozWF0/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "N75uKYm7lT0",
+              "title": "تمارين للأطفال — 30",
+              "image": "https://i.ytimg.com/vi/N75uKYm7lT0/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "GOZ5oyKkf6U",
+              "title": "تمارين للأطفال — 31",
+              "image": "https://i.ytimg.com/vi/GOZ5oyKkf6U/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "D5RaxBxMlsA",
+              "title": "تمارين للأطفال — 32",
+              "image": "https://i.ytimg.com/vi/D5RaxBxMlsA/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "olM27_pMJm4",
+              "title": "تمارين للأطفال — 33",
+              "image": "https://i.ytimg.com/vi/olM27_pMJm4/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "J8wAr7CWduk",
+              "title": "تمارين للأطفال — 34",
+              "image": "https://i.ytimg.com/vi/J8wAr7CWduk/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "A5VNQDsTBhQ",
+              "title": "تمارين للأطفال — 35",
+              "image": "https://i.ytimg.com/vi/A5VNQDsTBhQ/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            },
+            {
+              "id": "Zp2XaJBqwbE",
+              "title": "تمارين للأطفال — 36",
+              "image": "https://i.ytimg.com/vi/Zp2XaJBqwbE/hqdefault.jpg",
+              "author": "تمارين للأطفال"
+            }
+          ]
         },
         {
           "emoji": "▶️",
