@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "matchType": "query",
+      "match": "PLbwI0LE0f2MFAZkj0Mw9EAVc1Dy71kByw",
+      "title": "كرم المحترف الصغير",
+      "startAtMs": 103000,
+      "endBeforeMs": 68000
+    }
+  ]
+}
