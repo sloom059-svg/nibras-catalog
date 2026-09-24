@@ -1,5 +1,5 @@
 {
-  "version": 72,
+  "version": 73,
   "sections": [
     {
       "group": "entertainment",
@@ -399,9 +399,7 @@
           "title": "كرم المحترف الصغير",
           "subtitle": "مغامرات مدبلجة",
           "query": "PLbwI0LE0f2MFAZkj0Mw9EAVc1Dy71kByw",
-          "minDurationMs": 0,
-          "startAtMs": 103000,
-          "endBeforeMs": 68000
+          "minDurationMs": 0
         },
         {
           "emoji": "🦸",
