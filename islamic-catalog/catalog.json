@@ -1,5 +1,5 @@
 {
-  "version": 74,
+  "version": 75,
   "sections": [
     {
       "group": "entertainment",
@@ -274,13 +274,6 @@
           "title": "ماوكلي",
           "subtitle": "كرتون زمان",
           "query": "PLyM-sI0P2_p0i0TQmBrzWAnyxnHFfPeXW",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐰",
-          "title": "لوني تونز",
-          "subtitle": "كرتون زمان",
-          "query": "PLhGipfv0juZVwhMedCCEysUe9-uCUq5fr",
           "minDurationMs": 0
         },
         {
