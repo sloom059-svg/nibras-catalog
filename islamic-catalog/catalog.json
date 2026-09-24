@@ -1,5 +1,5 @@
 {
-  "version": 79,
+  "version": 80,
   "sections": [
     {
       "group": "entertainment",
@@ -86,10 +86,174 @@
         {
           "emoji": "🐾",
           "title": "دوريات المخلب",
-          "subtitle": "50 فيديو فقط — فوق 20 دقيقة",
-          "query": "PLpDqvBO1RYul9t3vMTW8cDqDBTDmALAi0",
-          "minDurationMs": 1200000,
-          "maxItems": 50
+          "subtitle": "27 حلقة مختارة — بالصوت المنظّف",
+          "query": "nibras:manual:paw-patrol-clean-v1",
+          "minDurationMs": 0,
+          "maxItems": 27,
+          "manualVideos": [
+            {
+              "id": "E1nxDBB0mPE",
+              "title": "دوريات المخلب — الحلقة 1",
+              "image": "https://i.ytimg.com/vi/E1nxDBB0mPE/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "mdDPz4LpBnM",
+              "title": "دوريات المخلب — الحلقة 2",
+              "image": "https://i.ytimg.com/vi/mdDPz4LpBnM/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "brznGfuHA6w",
+              "title": "دوريات المخلب — الحلقة 3",
+              "image": "https://i.ytimg.com/vi/brznGfuHA6w/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "qM9L3RIRzI0",
+              "title": "دوريات المخلب — الحلقة 4",
+              "image": "https://i.ytimg.com/vi/qM9L3RIRzI0/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "RD35pySG2SQ",
+              "title": "دوريات المخلب — الحلقة 5",
+              "image": "https://i.ytimg.com/vi/RD35pySG2SQ/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "iVW9fs9PZHA",
+              "title": "دوريات المخلب — الحلقة 6",
+              "image": "https://i.ytimg.com/vi/iVW9fs9PZHA/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "hI1aJO5R4k4",
+              "title": "دوريات المخلب — الحلقة 7",
+              "image": "https://i.ytimg.com/vi/hI1aJO5R4k4/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "XE_dhDFVPFc",
+              "title": "دوريات المخلب — الحلقة 8",
+              "image": "https://i.ytimg.com/vi/XE_dhDFVPFc/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "-sBZ934LZ8M",
+              "title": "دوريات المخلب — الحلقة 9",
+              "image": "https://i.ytimg.com/vi/-sBZ934LZ8M/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "o4DcfuQfH10",
+              "title": "دوريات المخلب — الحلقة 10",
+              "image": "https://i.ytimg.com/vi/o4DcfuQfH10/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "Q61Lbq8I5HA",
+              "title": "دوريات المخلب — الحلقة 11",
+              "image": "https://i.ytimg.com/vi/Q61Lbq8I5HA/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "9PfTD9u4XJs",
+              "title": "دوريات المخلب — الحلقة 12",
+              "image": "https://i.ytimg.com/vi/9PfTD9u4XJs/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "BfyrT8EQ-oY",
+              "title": "دوريات المخلب — الحلقة 13",
+              "image": "https://i.ytimg.com/vi/BfyrT8EQ-oY/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "aL7vJnwwXQU",
+              "title": "دوريات المخلب — الحلقة 14",
+              "image": "https://i.ytimg.com/vi/aL7vJnwwXQU/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "jvNNUiX9qsk",
+              "title": "دوريات المخلب — الحلقة 15",
+              "image": "https://i.ytimg.com/vi/jvNNUiX9qsk/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "kRXKrRM6drY",
+              "title": "دوريات المخلب — الحلقة 16",
+              "image": "https://i.ytimg.com/vi/kRXKrRM6drY/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "VVIyf1SnNVE",
+              "title": "دوريات المخلب — الحلقة 17",
+              "image": "https://i.ytimg.com/vi/VVIyf1SnNVE/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "k6V9MQmCeRA",
+              "title": "دوريات المخلب — الحلقة 18",
+              "image": "https://i.ytimg.com/vi/k6V9MQmCeRA/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "EnbKDiuKBnw",
+              "title": "دوريات المخلب — الحلقة 19",
+              "image": "https://i.ytimg.com/vi/EnbKDiuKBnw/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "vbXXz1XelHs",
+              "title": "دوريات المخلب — الحلقة 20",
+              "image": "https://i.ytimg.com/vi/vbXXz1XelHs/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "If8KMCfQ9Xk",
+              "title": "دوريات المخلب — الحلقة 21",
+              "image": "https://i.ytimg.com/vi/If8KMCfQ9Xk/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "YWVvlXIYr_s",
+              "title": "دوريات المخلب — الحلقة 22",
+              "image": "https://i.ytimg.com/vi/YWVvlXIYr_s/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "FJT2suo4ngI",
+              "title": "دوريات المخلب — الحلقة 23",
+              "image": "https://i.ytimg.com/vi/FJT2suo4ngI/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "0lsutFlK9P8",
+              "title": "دوريات المخلب — الحلقة 24",
+              "image": "https://i.ytimg.com/vi/0lsutFlK9P8/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "3QloREBeMSA",
+              "title": "دوريات المخلب — الحلقة 25",
+              "image": "https://i.ytimg.com/vi/3QloREBeMSA/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "b33KhuloSoQ",
+              "title": "دوريات المخلب — الحلقة 26",
+              "image": "https://i.ytimg.com/vi/b33KhuloSoQ/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            },
+            {
+              "id": "7peDLjT_5ik",
+              "title": "دوريات المخلب — الحلقة 27",
+              "image": "https://i.ytimg.com/vi/7peDLjT_5ik/hqdefault.jpg",
+              "author": "دوريات المخلب"
+            }
+          ]
         },
         {
           "emoji": "⛵",
