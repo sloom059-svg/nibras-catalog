@@ -1,5 +1,5 @@
 {
-  "version": 91,
+  "version": 92,
   "sections": [
     {
       "group": "entertainment",
@@ -298,9 +298,18 @@
         {
           "emoji": "🐭",
           "title": "توم وجيري",
-          "subtitle": "توم وجيري",
-          "query": "PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
-          "minDurationMs": 0
+          "subtitle": "6 حلقات مختارة — بالصوت المنقّى",
+          "query": "nibras:playlists:PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
+          "minDurationMs": 0,
+          "maxItems": 6,
+          "videoIds": [
+            "zqpNT-OfD7E",
+            "8KiYj1NrmiI",
+            "Gkysb_8N9os",
+            "NAjaOUbfCDs",
+            "jwyF7PZw1RM",
+            "1nxsWqLr2z8"
+          ]
         },
         {
           "emoji": "⚓",
