@@ -1,5 +1,5 @@
 {
-  "version": 83,
+  "version": 84,
   "sections": [
     {
       "group": "entertainment",
@@ -883,9 +883,180 @@
         {
           "emoji": "💡",
           "title": "اختراعات مدهشة",
-          "subtitle": "أفكار واختراعات تفتح أبواب الفضول والاكتشاف",
-          "query": "UUAH4NOIbnHpN3cW0Kgg2oOw",
-          "minDurationMs": 0
+          "subtitle": "28 فيديو مختار — بالصوت المنظّف",
+          "query": "nibras:manual:e3tra3at-clean-v1",
+          "minDurationMs": 0,
+          "maxItems": 28,
+          "manualVideos": [
+            {
+              "id": "KPQs9-4IZF4",
+              "title": "اختراعات مدهشة — 1",
+              "image": "https://i.ytimg.com/vi/KPQs9-4IZF4/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "4opp-u8WM4Y",
+              "title": "اختراعات مدهشة — 2",
+              "image": "https://i.ytimg.com/vi/4opp-u8WM4Y/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "9C1C-D9a0rA",
+              "title": "اختراعات مدهشة — 3",
+              "image": "https://i.ytimg.com/vi/9C1C-D9a0rA/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "KU8AXv9iIw8",
+              "title": "اختراعات مدهشة — 4",
+              "image": "https://i.ytimg.com/vi/KU8AXv9iIw8/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "iGLohNNNEuk",
+              "title": "اختراعات مدهشة — 5",
+              "image": "https://i.ytimg.com/vi/iGLohNNNEuk/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "FsxQ9eWXR_I",
+              "title": "اختراعات مدهشة — 6",
+              "image": "https://i.ytimg.com/vi/FsxQ9eWXR_I/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "WED192dCEG8",
+              "title": "اختراعات مدهشة — 7",
+              "image": "https://i.ytimg.com/vi/WED192dCEG8/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "PF8G1FvW31U",
+              "title": "اختراعات مدهشة — 8",
+              "image": "https://i.ytimg.com/vi/PF8G1FvW31U/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "-OmmM1u8Xo8",
+              "title": "اختراعات مدهشة — 9",
+              "image": "https://i.ytimg.com/vi/-OmmM1u8Xo8/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "Jdvr26ADL3Q",
+              "title": "اختراعات مدهشة — 10",
+              "image": "https://i.ytimg.com/vi/Jdvr26ADL3Q/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "1Cj9r1ilnNQ",
+              "title": "اختراعات مدهشة — 11",
+              "image": "https://i.ytimg.com/vi/1Cj9r1ilnNQ/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "tg-dt7CU0n0",
+              "title": "اختراعات مدهشة — 12",
+              "image": "https://i.ytimg.com/vi/tg-dt7CU0n0/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "p_WcmpqsM7c",
+              "title": "اختراعات مدهشة — 13",
+              "image": "https://i.ytimg.com/vi/p_WcmpqsM7c/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "HghQw0HIJsI",
+              "title": "اختراعات مدهشة — 14",
+              "image": "https://i.ytimg.com/vi/HghQw0HIJsI/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "YKYyiwD9tko",
+              "title": "اختراعات مدهشة — 15",
+              "image": "https://i.ytimg.com/vi/YKYyiwD9tko/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "-VaEYTaae3I",
+              "title": "اختراعات مدهشة — 16",
+              "image": "https://i.ytimg.com/vi/-VaEYTaae3I/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "PY1Icwe_wgo",
+              "title": "اختراعات مدهشة — 17",
+              "image": "https://i.ytimg.com/vi/PY1Icwe_wgo/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "Ktqi9H9rjzE",
+              "title": "اختراعات مدهشة — 18",
+              "image": "https://i.ytimg.com/vi/Ktqi9H9rjzE/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "tFDFIycFGqo",
+              "title": "اختراعات مدهشة — 19",
+              "image": "https://i.ytimg.com/vi/tFDFIycFGqo/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "XuVQV44bZ7A",
+              "title": "اختراعات مدهشة — 20",
+              "image": "https://i.ytimg.com/vi/XuVQV44bZ7A/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "vHoEy-oAgj8",
+              "title": "اختراعات مدهشة — 21",
+              "image": "https://i.ytimg.com/vi/vHoEy-oAgj8/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "R2BHgFv4u4c",
+              "title": "اختراعات مدهشة — 22",
+              "image": "https://i.ytimg.com/vi/R2BHgFv4u4c/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "WQgl3qCv_uU",
+              "title": "اختراعات مدهشة — 23",
+              "image": "https://i.ytimg.com/vi/WQgl3qCv_uU/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "zjjchChNSYU",
+              "title": "اختراعات مدهشة — 24",
+              "image": "https://i.ytimg.com/vi/zjjchChNSYU/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "Rvg9ksM7voc",
+              "title": "اختراعات مدهشة — 25",
+              "image": "https://i.ytimg.com/vi/Rvg9ksM7voc/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "aKMuPNLu8Vc",
+              "title": "اختراعات مدهشة — 26",
+              "image": "https://i.ytimg.com/vi/aKMuPNLu8Vc/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "deQgAQ51RxY",
+              "title": "اختراعات مدهشة — 27",
+              "image": "https://i.ytimg.com/vi/deQgAQ51RxY/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            },
+            {
+              "id": "wVX8XEeA2j0",
+              "title": "اختراعات مدهشة — 28",
+              "image": "https://i.ytimg.com/vi/wVX8XEeA2j0/hqdefault.jpg",
+              "author": "اختراعات مدهشة"
+            }
+          ]
         },
         {
           "emoji": "🗣️",
