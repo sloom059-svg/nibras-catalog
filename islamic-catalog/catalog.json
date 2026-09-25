@@ -1,5 +1,5 @@
 {
-  "version": 95,
+  "version": 96,
   "sections": [
     {
       "group": "entertainment",
@@ -51,9 +51,32 @@
         {
           "emoji": "🌙",
           "title": "حديقة المرح",
-          "subtitle": "براعم",
+          "subtitle": "براعم — 20 حلقة بالصوت المنقّى",
           "query": "PLcrTw2iKyH0wXRyIejS-wpXnDviz6RyMG",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "audioProfile": "mapped",
+          "videoIds": [
+            "nagXos1Hd6U",
+            "loVV7nMzjbE",
+            "rbwCF0Wfi9E",
+            "7wm1eZ4MJKk",
+            "LNepiC5Ho-c",
+            "ap16gTok4Fw",
+            "4qLAIjavMOg",
+            "5QtPnSg1hwc",
+            "D4vvU_c5nd8",
+            "7d2O22kKACA",
+            "QfBtzwJSiKk",
+            "5_enjT_aiDw",
+            "Gbd1uphqehQ",
+            "6Tm4ix5-V9I",
+            "g_3WWVRlE_Y",
+            "WTLSZrF0CoY",
+            "HjPe0ncvt2w",
+            "-pZc4VervsY",
+            "NtZcqePRycg",
+            "nyvm-HTArs4"
+          ]
         },
         {
           "emoji": "👶",
