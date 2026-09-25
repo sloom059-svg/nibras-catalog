@@ -1,5 +1,5 @@
 {
-  "version": 105,
+  "version": 106,
   "sections": [
     {
       "group": "entertainment",
@@ -1433,6 +1433,14 @@
           "subtitle": "",
           "query": "PLEaGEZnOHpUPgAhXALGsesepwdzXEmDvY",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "ابتكارات يومية",
+          "subtitle": "",
+          "query": "PLtCtQoYO0viHVr8ge9oagplMPGCjpiEFP",
+          "minDurationMs": 0,
+          "audioProfile": "craft"
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
