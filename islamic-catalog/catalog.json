@@ -358,9 +358,102 @@
         {
           "emoji": "🏜️",
           "title": "Oscar’s Oasis",
-          "subtitle": "أوسكار أواسيس",
-          "query": "PLwtWtbus8LLmj75BrWwlfvOKMwrS8gH6k",
-          "minDurationMs": 0
+          "subtitle": "15 حلقة فقط — بالصوت المنظّف",
+          "query": "nibras:manual:oscar-oasis-clean-v1",
+          "minDurationMs": 0,
+          "maxItems": 15,
+          "manualVideos": [
+            {
+              "id": "5ZHjueiHbIw",
+              "title": "Oscar’s Oasis — 1",
+              "image": "https://i.ytimg.com/vi/5ZHjueiHbIw/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "61JIfoHWrGU",
+              "title": "Oscar’s Oasis — 2",
+              "image": "https://i.ytimg.com/vi/61JIfoHWrGU/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "12W29_XmGpY",
+              "title": "Oscar’s Oasis — 3",
+              "image": "https://i.ytimg.com/vi/12W29_XmGpY/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "7U8fdvURHdQ",
+              "title": "Oscar’s Oasis — 4",
+              "image": "https://i.ytimg.com/vi/7U8fdvURHdQ/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "dVZ0SEkQpSs",
+              "title": "Oscar’s Oasis — 5",
+              "image": "https://i.ytimg.com/vi/dVZ0SEkQpSs/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "ZN5jhSOPz4w",
+              "title": "Oscar’s Oasis — 6",
+              "image": "https://i.ytimg.com/vi/ZN5jhSOPz4w/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "pjWjSjVAYDg",
+              "title": "Oscar’s Oasis — 7",
+              "image": "https://i.ytimg.com/vi/pjWjSjVAYDg/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "YGcf2jtbmiU",
+              "title": "Oscar’s Oasis — 8",
+              "image": "https://i.ytimg.com/vi/YGcf2jtbmiU/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "1FxK6Myz3lI",
+              "title": "Oscar’s Oasis — 9",
+              "image": "https://i.ytimg.com/vi/1FxK6Myz3lI/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "VWrWx02U09s",
+              "title": "Oscar’s Oasis — 10",
+              "image": "https://i.ytimg.com/vi/VWrWx02U09s/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "BPsfzC668yg",
+              "title": "Oscar’s Oasis — 11",
+              "image": "https://i.ytimg.com/vi/BPsfzC668yg/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "fEiCJ_Sl9ow",
+              "title": "Oscar’s Oasis — 12",
+              "image": "https://i.ytimg.com/vi/fEiCJ_Sl9ow/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "JsnpTx9pJSs",
+              "title": "Oscar’s Oasis — 13",
+              "image": "https://i.ytimg.com/vi/JsnpTx9pJSs/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "Q8TQQ5EkMuI",
+              "title": "Oscar’s Oasis — 14",
+              "image": "https://i.ytimg.com/vi/Q8TQQ5EkMuI/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            },
+            {
+              "id": "agHhSBqWlNM",
+              "title": "Oscar’s Oasis — 15",
+              "image": "https://i.ytimg.com/vi/agHhSBqWlNM/hqdefault.jpg",
+              "author": "Oscar’s Oasis"
+            }
+          ]
         },
         {
           "emoji": "🐻",
