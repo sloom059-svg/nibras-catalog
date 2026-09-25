@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 104,
   "sections": [
     {
       "group": "entertainment",
@@ -1532,7 +1532,7 @@
           "subtitle": "",
           "query": "PLQnUc3-15CeNEtCDK19NTJo693PkDDbPd",
           "minDurationMs": 0,
-          "audioProfile": "drawing"
+          "audioProfile": "craft"
         }
       ]
     },
