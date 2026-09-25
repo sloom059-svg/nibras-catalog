@@ -697,9 +697,192 @@
         {
           "emoji": "🐼",
           "title": "كيكي وميوميو",
-          "subtitle": "قائمتان مجمعتان",
-          "query": "nibras:playlists:PLcKahvoRGlQYOEPekNsfQ55wCljtRRoa5,PLcKahvoRGlQZxP7xjE_MGepYLEujvq-B1",
-          "minDurationMs": 0
+          "subtitle": "30 فيديو فقط — بالصوت المنظّف",
+          "query": "nibras:manual:babybus-clean-v1",
+          "minDurationMs": 0,
+          "maxItems": 30,
+          "manualVideos": [
+            {
+              "id": "_2OYg84Yh-s",
+              "title": "كيكي وميوميو — 1",
+              "image": "https://i.ytimg.com/vi/_2OYg84Yh-s/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "_tKmNDBuFO8",
+              "title": "كيكي وميوميو — 2",
+              "image": "https://i.ytimg.com/vi/_tKmNDBuFO8/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "kc5rrhpwpXo",
+              "title": "كيكي وميوميو — 3",
+              "image": "https://i.ytimg.com/vi/kc5rrhpwpXo/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "5tpf3NIubNY",
+              "title": "كيكي وميوميو — 4",
+              "image": "https://i.ytimg.com/vi/5tpf3NIubNY/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "c9RLQM9ntr4",
+              "title": "كيكي وميوميو — 5",
+              "image": "https://i.ytimg.com/vi/c9RLQM9ntr4/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "zHDDgmGz1_A",
+              "title": "كيكي وميوميو — 6",
+              "image": "https://i.ytimg.com/vi/zHDDgmGz1_A/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "u74X0HqcAkw",
+              "title": "كيكي وميوميو — 7",
+              "image": "https://i.ytimg.com/vi/u74X0HqcAkw/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "ekkDFtf4EJM",
+              "title": "كيكي وميوميو — 8",
+              "image": "https://i.ytimg.com/vi/ekkDFtf4EJM/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "o_vZurI-WLE",
+              "title": "كيكي وميوميو — 9",
+              "image": "https://i.ytimg.com/vi/o_vZurI-WLE/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "kKQ-m01yv7A",
+              "title": "كيكي وميوميو — 10",
+              "image": "https://i.ytimg.com/vi/kKQ-m01yv7A/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "utuphjr-YUU",
+              "title": "كيكي وميوميو — 11",
+              "image": "https://i.ytimg.com/vi/utuphjr-YUU/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "S5xud-uFfDw",
+              "title": "كيكي وميوميو — 12",
+              "image": "https://i.ytimg.com/vi/S5xud-uFfDw/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "NGao9RwWyCg",
+              "title": "كيكي وميوميو — 13",
+              "image": "https://i.ytimg.com/vi/NGao9RwWyCg/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "s0Wz0tuqzYY",
+              "title": "كيكي وميوميو — 14",
+              "image": "https://i.ytimg.com/vi/s0Wz0tuqzYY/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "GL0t8gkPWo8",
+              "title": "كيكي وميوميو — 15",
+              "image": "https://i.ytimg.com/vi/GL0t8gkPWo8/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "ZkQvaw4pJsA",
+              "title": "كيكي وميوميو — 16",
+              "image": "https://i.ytimg.com/vi/ZkQvaw4pJsA/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "tdE3Awh5w3o",
+              "title": "كيكي وميوميو — 17",
+              "image": "https://i.ytimg.com/vi/tdE3Awh5w3o/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "YcLvXf00TlU",
+              "title": "كيكي وميوميو — 18",
+              "image": "https://i.ytimg.com/vi/YcLvXf00TlU/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "TYyQFux9WsQ",
+              "title": "كيكي وميوميو — 19",
+              "image": "https://i.ytimg.com/vi/TYyQFux9WsQ/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "LnK4oIv8bms",
+              "title": "كيكي وميوميو — 20",
+              "image": "https://i.ytimg.com/vi/LnK4oIv8bms/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "J9DG8glifsM",
+              "title": "كيكي وميوميو — 21",
+              "image": "https://i.ytimg.com/vi/J9DG8glifsM/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "WYIj7JNtRYM",
+              "title": "كيكي وميوميو — 22",
+              "image": "https://i.ytimg.com/vi/WYIj7JNtRYM/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "GFKFxgqgVVc",
+              "title": "كيكي وميوميو — 23",
+              "image": "https://i.ytimg.com/vi/GFKFxgqgVVc/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "D-2kZsT9EiA",
+              "title": "كيكي وميوميو — 24",
+              "image": "https://i.ytimg.com/vi/D-2kZsT9EiA/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "4_wnVRo-Gr4",
+              "title": "كيكي وميوميو — 25",
+              "image": "https://i.ytimg.com/vi/4_wnVRo-Gr4/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "1qP9kI_tL6s",
+              "title": "كيكي وميوميو — 26",
+              "image": "https://i.ytimg.com/vi/1qP9kI_tL6s/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "401mUuqudio",
+              "title": "كيكي وميوميو — 27",
+              "image": "https://i.ytimg.com/vi/401mUuqudio/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "qg-Q_TaqELo",
+              "title": "كيكي وميوميو — 28",
+              "image": "https://i.ytimg.com/vi/qg-Q_TaqELo/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "M3dz8rhWSj0",
+              "title": "كيكي وميوميو — 29",
+              "image": "https://i.ytimg.com/vi/M3dz8rhWSj0/hqdefault.jpg",
+              "author": "BabyBus"
+            },
+            {
+              "id": "XpCBQ76dmMI",
+              "title": "كيكي وميوميو — 30",
+              "image": "https://i.ytimg.com/vi/XpCBQ76dmMI/hqdefault.jpg",
+              "author": "BabyBus"
+            }
+          ]
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
