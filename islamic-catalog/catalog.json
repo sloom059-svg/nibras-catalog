@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "sections": [
     {
       "group": "entertainment",
@@ -1525,6 +1525,14 @@
           "query": "PLMx17xxwI-XsrFFpa1GFDiA0KY9Bp7pyP",
           "minDurationMs": 0,
           "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "أعمال يدوية منوعة",
+          "subtitle": "",
+          "query": "PLQnUc3-15CeNEtCDK19NTJo693PkDDbPd",
+          "minDurationMs": 0,
+          "audioProfile": "drawing"
         }
       ]
     },
