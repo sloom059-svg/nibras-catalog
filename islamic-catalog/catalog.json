@@ -1,5 +1,5 @@
 {
-  "version": 94,
+  "version": 95,
   "sections": [
     {
       "group": "entertainment",
@@ -298,10 +298,48 @@
         {
           "emoji": "🐭",
           "title": "توم وجيري",
-          "subtitle": "6 حلقات فقط — بالصوت المنقّى",
-          "query": "nibras:playlists:PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
+          "subtitle": "6 حلقات مختارة — بالصوت المنظّف",
+          "query": "nibras:manual:tom-jerry-clean-v1",
           "minDurationMs": 0,
-          "maxItems": 6
+          "maxItems": 6,
+          "manualVideos": [
+            {
+              "id": "zqpNT-OfD7E",
+              "title": "توم وجيري — الحلقة 1",
+              "image": "https://i.ytimg.com/vi/zqpNT-OfD7E/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "8KiYj1NrmiI",
+              "title": "توم وجيري — الحلقة 2",
+              "image": "https://i.ytimg.com/vi/8KiYj1NrmiI/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "Gkysb_8N9os",
+              "title": "توم وجيري — الحلقة 3",
+              "image": "https://i.ytimg.com/vi/Gkysb_8N9os/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "NAjaOUbfCDs",
+              "title": "توم وجيري — الحلقة 4",
+              "image": "https://i.ytimg.com/vi/NAjaOUbfCDs/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "jwyF7PZw1RM",
+              "title": "توم وجيري — الحلقة 5",
+              "image": "https://i.ytimg.com/vi/jwyF7PZw1RM/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "1nxsWqLr2z8",
+              "title": "توم وجيري — الحلقة 6",
+              "image": "https://i.ytimg.com/vi/1nxsWqLr2z8/hqdefault.jpg",
+              "author": "توم وجيري"
+            }
+          ]
         },
         {
           "emoji": "⚓",
@@ -420,10 +458,192 @@
         {
           "emoji": "🐻",
           "title": "Grizzy & the Lemmings",
-          "subtitle": "30 حلقة فقط — بالصوت المنقّى",
-          "query": "nibras:playlists:PLjeVqmXlg5f72oG-2z9CPgKG0IpFgNKWi",
+          "subtitle": "30 حلقة فقط — بالصوت المنظّف",
+          "query": "nibras:manual:grizzy-clean-v1",
           "minDurationMs": 0,
-          "maxItems": 30
+          "maxItems": 30,
+          "manualVideos": [
+            {
+              "id": "ECMt3rpHOeA",
+              "title": "Grizzy & the Lemmings — 1",
+              "image": "https://i.ytimg.com/vi/ECMt3rpHOeA/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "2WZtGoT81Mg",
+              "title": "Grizzy & the Lemmings — 2",
+              "image": "https://i.ytimg.com/vi/2WZtGoT81Mg/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "86cNkg4xmCE",
+              "title": "Grizzy & the Lemmings — 3",
+              "image": "https://i.ytimg.com/vi/86cNkg4xmCE/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "T93l6ioJSh8",
+              "title": "Grizzy & the Lemmings — 4",
+              "image": "https://i.ytimg.com/vi/T93l6ioJSh8/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "q7jpIc6DWDI",
+              "title": "Grizzy & the Lemmings — 5",
+              "image": "https://i.ytimg.com/vi/q7jpIc6DWDI/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "CRQYCmXVsNU",
+              "title": "Grizzy & the Lemmings — 6",
+              "image": "https://i.ytimg.com/vi/CRQYCmXVsNU/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "2XkbcqM0CDc",
+              "title": "Grizzy & the Lemmings — 7",
+              "image": "https://i.ytimg.com/vi/2XkbcqM0CDc/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "UkNHL54-Es0",
+              "title": "Grizzy & the Lemmings — 8",
+              "image": "https://i.ytimg.com/vi/UkNHL54-Es0/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "Dm8cY-2v5UE",
+              "title": "Grizzy & the Lemmings — 9",
+              "image": "https://i.ytimg.com/vi/Dm8cY-2v5UE/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "wOT5MsBJnDo",
+              "title": "Grizzy & the Lemmings — 10",
+              "image": "https://i.ytimg.com/vi/wOT5MsBJnDo/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "GlBbZfsAz00",
+              "title": "Grizzy & the Lemmings — 11",
+              "image": "https://i.ytimg.com/vi/GlBbZfsAz00/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "U_3qygX6_fc",
+              "title": "Grizzy & the Lemmings — 12",
+              "image": "https://i.ytimg.com/vi/U_3qygX6_fc/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "Mju3QvG-kNw",
+              "title": "Grizzy & the Lemmings — 13",
+              "image": "https://i.ytimg.com/vi/Mju3QvG-kNw/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "d0V16NjFYCI",
+              "title": "Grizzy & the Lemmings — 14",
+              "image": "https://i.ytimg.com/vi/d0V16NjFYCI/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "6RZSIzA2zaA",
+              "title": "Grizzy & the Lemmings — 15",
+              "image": "https://i.ytimg.com/vi/6RZSIzA2zaA/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "Q5K_F5et0jo",
+              "title": "Grizzy & the Lemmings — 16",
+              "image": "https://i.ytimg.com/vi/Q5K_F5et0jo/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "O-OvhLjYr8I",
+              "title": "Grizzy & the Lemmings — 17",
+              "image": "https://i.ytimg.com/vi/O-OvhLjYr8I/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "8a_k08P-72U",
+              "title": "Grizzy & the Lemmings — 18",
+              "image": "https://i.ytimg.com/vi/8a_k08P-72U/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "h6aGB1MbE7U",
+              "title": "Grizzy & the Lemmings — 19",
+              "image": "https://i.ytimg.com/vi/h6aGB1MbE7U/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "uSXIVQktpnU",
+              "title": "Grizzy & the Lemmings — 20",
+              "image": "https://i.ytimg.com/vi/uSXIVQktpnU/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "EL9WsbOE0WY",
+              "title": "Grizzy & the Lemmings — 21",
+              "image": "https://i.ytimg.com/vi/EL9WsbOE0WY/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "DBs-_53WvFc",
+              "title": "Grizzy & the Lemmings — 22",
+              "image": "https://i.ytimg.com/vi/DBs-_53WvFc/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "3JNHZDYG4rs",
+              "title": "Grizzy & the Lemmings — 23",
+              "image": "https://i.ytimg.com/vi/3JNHZDYG4rs/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "NXtV7Op8Wng",
+              "title": "Grizzy & the Lemmings — 24",
+              "image": "https://i.ytimg.com/vi/NXtV7Op8Wng/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "xsGdymsZ-_U",
+              "title": "Grizzy & the Lemmings — 25",
+              "image": "https://i.ytimg.com/vi/xsGdymsZ-_U/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "u0NT1CTrhks",
+              "title": "Grizzy & the Lemmings — 26",
+              "image": "https://i.ytimg.com/vi/u0NT1CTrhks/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "uVCF7JE2PqU",
+              "title": "Grizzy & the Lemmings — 27",
+              "image": "https://i.ytimg.com/vi/uVCF7JE2PqU/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "69BxEbypH_k",
+              "title": "Grizzy & the Lemmings — 28",
+              "image": "https://i.ytimg.com/vi/69BxEbypH_k/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "DLPBKzYDero",
+              "title": "Grizzy & the Lemmings — 29",
+              "image": "https://i.ytimg.com/vi/DLPBKzYDero/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            },
+            {
+              "id": "V6JL8ZDOBFg",
+              "title": "Grizzy & the Lemmings — 30",
+              "image": "https://i.ytimg.com/vi/V6JL8ZDOBFg/hqdefault.jpg",
+              "author": "Grizzy & the Lemmings"
+            }
+          ]
         },
         {
           "emoji": "🐱",
