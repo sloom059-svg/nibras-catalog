@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "sections": [
     {
       "group": "entertainment",
@@ -883,6 +883,13 @@
               "author": "BabyBus"
             }
           ]
+        },
+        {
+          "emoji": "🐰",
+          "title": "لوني توينز",
+          "subtitle": "Looney Tunes",
+          "query": "PLEAKW4PcnvxmrJxTJPgNSrSgnhRdMHaqd",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
