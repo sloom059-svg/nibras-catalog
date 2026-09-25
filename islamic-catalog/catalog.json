@@ -1,5 +1,5 @@
 {
-  "version": 100,
+  "version": 101,
   "sections": [
     {
       "group": "entertainment",
@@ -1555,11 +1555,12 @@
           "emoji": "🚀",
           "title": "استكشف الفضاء والصواريخ",
           "subtitle": "علوم ممتعة للأطفال",
-          "query": "PLSurt5J3KuYTQpGgftbTq46nPbdIKwn_v",
+          "query": "nibras:filtered:space-no-song-v1:PLSurt5J3KuYTQpGgftbTq46nPbdIKwn_v",
           "minDurationMs": 0,
           "titleExclude": [
             "أغنية",
-            "اغنية"
+            "اغنية",
+            "song"
           ]
         }
       ]
