@@ -1,5 +1,5 @@
 {
-  "version": 89,
+  "version": 90,
   "sections": [
     {
       "group": "entertainment",
@@ -1164,53 +1164,6 @@
     {
       "group": "creativity",
       "groupTitle": "القيم والإبداع",
-      "id": "stories",
-      "emoji": "📚",
-      "title": "حكايات وقصص",
-      "description": "قصص عربية ومغامرات جميلة",
-      "palette": "cyan",
-      "image": "https://plus.unsplash.com/premium_photo-1720188265409-3fac5e431f70?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "items": [
-        {
-          "emoji": "🌙",
-          "title": "قصص قبل النوم",
-          "subtitle": "هادئة ومفيدة",
-          "query": "PL3d7SOBbyqW-47fObU_VI3JkCXPkXa-IW",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⚖️",
-          "title": "القاضي العادل",
-          "subtitle": "قصص وحكايات",
-          "query": "PLKvSfuIVM6und4bZCsPoAKOIJEmN4EHNK",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📚",
-          "title": "قصص وحكايات",
-          "subtitle": "حكايات عربية ممتعة",
-          "query": "PLKvSfuIVM6um6J9LrWRVmXEEd2t4TPwKA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✨",
-          "title": "زاد الحكايا",
-          "subtitle": "قصص مختارة",
-          "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌱",
-          "title": "قصص تربوية للأطفال",
-          "subtitle": "قصص هادفة وتربوية",
-          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "creativity",
-      "groupTitle": "القيم والإبداع",
       "id": "quran",
       "emoji": "📖",
       "title": "تعليم القرآن",
@@ -1293,6 +1246,53 @@
           "title": "جزء عم بدون تكرار",
           "subtitle": "تلاوة بدون تكرار",
           "query": "PLKhm8Z5pXdOXO8wm-pQ670wmKnoC5Be5g",
+          "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "creativity",
+      "groupTitle": "القيم والإبداع",
+      "id": "stories",
+      "emoji": "📚",
+      "title": "حكايات وقصص",
+      "description": "قصص عربية ومغامرات جميلة",
+      "palette": "cyan",
+      "image": "https://plus.unsplash.com/premium_photo-1720188265409-3fac5e431f70?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "items": [
+        {
+          "emoji": "🌙",
+          "title": "قصص قبل النوم",
+          "subtitle": "هادئة ومفيدة",
+          "query": "PL3d7SOBbyqW-47fObU_VI3JkCXPkXa-IW",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "⚖️",
+          "title": "القاضي العادل",
+          "subtitle": "قصص وحكايات",
+          "query": "PLKvSfuIVM6und4bZCsPoAKOIJEmN4EHNK",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📚",
+          "title": "قصص وحكايات",
+          "subtitle": "حكايات عربية ممتعة",
+          "query": "PLKvSfuIVM6um6J9LrWRVmXEEd2t4TPwKA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✨",
+          "title": "زاد الحكايا",
+          "subtitle": "قصص مختارة",
+          "query": "PLKvSfuIVM6umcinAPwoBK5e_sERlN0LWZ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌱",
+          "title": "قصص تربوية للأطفال",
+          "subtitle": "قصص هادفة وتربوية",
+          "query": "PLlXdF6lZgTi5JyJ8DOz3TluSPLfaxq7ID",
           "minDurationMs": 0
         }
       ]
@@ -1485,79 +1485,6 @@
     {
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
-      "id": "animals",
-      "emoji": "🦁",
-      "title": "الحيوانات والطبيعة",
-      "description": "حياة برية وطيور وزواحف وحشرات",
-      "palette": "green",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
-      "items": [
-        {
-          "emoji": "🐜",
-          "title": "الحشرات",
-          "subtitle": "عالم الحشرات",
-          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐾",
-          "title": "الحيوانات للصغار",
-          "subtitle": "تعرف على الحيوانات للصغار",
-          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌊",
-          "title": "البحار والمحيطات",
-          "subtitle": "عالم البحار والمحيطات",
-          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🦎",
-          "title": "الزواحف",
-          "subtitle": "عالم الزواحف",
-          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🦁",
-          "title": "عالم البرية بدون موسيقى",
-          "subtitle": "الحياة البرية",
-          "query": "nibras:filtered:wildlife:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
-          "minDurationMs": 600001,
-          "titleExclude": [
-            "طائر",
-            "طيور",
-            "البحار"
-          ]
-        },
-        {
-          "emoji": "🦜",
-          "title": "عالم الطيور بدون موسيقى",
-          "subtitle": "عالم الطيور",
-          "query": "nibras:filtered:birds:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
-          "minDurationMs": 600001,
-          "titleInclude": [
-            "طائر",
-            "طيور"
-          ]
-        },
-        {
-          "emoji": "🌊",
-          "title": "البحار والمحيطات بدون موسيقى",
-          "subtitle": "وثائقيات البحار والمحيطات",
-          "query": "nibras:filtered:seas:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
-          "minDurationMs": 600001,
-          "titleInclude": [
-            "البحار"
-          ]
-        }
-      ]
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
       "id": "space",
       "emoji": "🚀",
       "title": "علوم الفضاء",
@@ -1681,6 +1608,79 @@
           "subtitle": "",
           "query": "PLbqZ7icmed47EidZn_fGAvo-pScFR3xH3",
           "minDurationMs": 0
+        }
+      ]
+    },
+    {
+      "group": "more",
+      "groupTitle": "المزيد من المتعة",
+      "id": "animals",
+      "emoji": "🦁",
+      "title": "الحيوانات والطبيعة",
+      "description": "حياة برية وطيور وزواحف وحشرات",
+      "palette": "green",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/4-dytyna-zhorstoko-povodytsya-z-tvarynamy.jpg.webp",
+      "items": [
+        {
+          "emoji": "🐜",
+          "title": "الحشرات",
+          "subtitle": "عالم الحشرات",
+          "query": "nibras:playlists:PLAQ3o1kkFix0,PLB_UbiMMXdmA,PLJY8ETacu4mQ",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "الحيوانات للصغار",
+          "subtitle": "تعرف على الحيوانات للصغار",
+          "query": "PLAvNNkZLQQSdvfgVnKDw1pQUgf7qhfr6k",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات",
+          "subtitle": "عالم البحار والمحيطات",
+          "query": "nibras:playlists:PLzvo82A6fuxrPv8APwZejLo3pPXJuJBUd,PLzvo82A6fuxo1h6BYpXR5gcANdx2a7Iu7",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦎",
+          "title": "الزواحف",
+          "subtitle": "عالم الزواحف",
+          "query": "PLzvo82A6fuxongdS2USZvt4zOyJCfwn03",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🦁",
+          "title": "عالم البرية بدون موسيقى",
+          "subtitle": "الحياة البرية",
+          "query": "nibras:filtered:wildlife:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleExclude": [
+            "طائر",
+            "طيور",
+            "البحار"
+          ]
+        },
+        {
+          "emoji": "🦜",
+          "title": "عالم الطيور بدون موسيقى",
+          "subtitle": "عالم الطيور",
+          "query": "nibras:filtered:birds:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleInclude": [
+            "طائر",
+            "طيور"
+          ]
+        },
+        {
+          "emoji": "🌊",
+          "title": "البحار والمحيطات بدون موسيقى",
+          "subtitle": "وثائقيات البحار والمحيطات",
+          "query": "nibras:filtered:seas:PLiVHwy6KrCgDv246-xIMYWJaBVDPVkVmO",
+          "minDurationMs": 600001,
+          "titleInclude": [
+            "البحار"
+          ]
         }
       ]
     },
@@ -1932,32 +1932,6 @@
           "title": "تمارين رياضية للأطفال في المنزل | Kids Workout & Fun Exercises",
           "subtitle": "",
           "query": "PLqjgxiA8B5f46qVjg0pFj3b4u9TXx-vrn",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "more",
-      "groupTitle": "المزيد من المتعة",
-      "id": "haramain",
-      "emoji": "🕋",
-      "title": "بث الحرمين",
-      "description": "مقاطع وبث رسمي",
-      "palette": "teal",
-      "image": "https://images.unsplash.com/photo-1704104501136-8f35402af395?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "items": [
-        {
-          "emoji": "🕋",
-          "title": "المسجد الحرام",
-          "subtitle": "البث والمقاطع الرسمية",
-          "query": "UCos52azQNBgW63_9uDJoPDA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🕌",
-          "title": "المسجد النبوي",
-          "subtitle": "البث والمقاطع الرسمية",
-          "query": "UCROKYPep-UuODNwyipe6JMw",
           "minDurationMs": 0
         }
       ]
