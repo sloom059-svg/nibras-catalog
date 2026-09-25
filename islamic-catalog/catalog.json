@@ -1,5 +1,5 @@
 {
-  "version": 107,
+  "version": 108,
   "sections": [
     {
       "group": "entertainment",
@@ -1555,6 +1555,15 @@
           "title": "ابتكارات منزلية",
           "subtitle": "",
           "query": "PLg50iY2GQ6B8FDCE-B663hKN9KPZg6nch",
+          "minDurationMs": 0,
+          "maxItems": 40,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "تلوين قوارير الزجاج",
+          "subtitle": "",
+          "query": "PLSz4D2gEHcoonB6CreOClkGZjRjBF1jRt",
           "minDurationMs": 0,
           "maxItems": 40,
           "audioProfile": "craft"
