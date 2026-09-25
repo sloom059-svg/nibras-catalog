@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "sections": [
     {
       "group": "entertainment",
@@ -1516,6 +1516,14 @@
           "subtitle": "قائمتان لتعليم رسم الحيوانات",
           "query": "nibras:playlists:PLWFwOxu97OS9ghCgecjvopwOlEJi9PVWk,PLJhqq8j6EK7twXanvew7gUhB1Na8KzToD",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "ابداع الصوف",
+          "subtitle": "",
+          "query": "PLMx17xxwI-XsrFFpa1GFDiA0KY9Bp7pyP",
+          "minDurationMs": 0,
+          "audioProfile": "drawing"
         }
       ]
     },
