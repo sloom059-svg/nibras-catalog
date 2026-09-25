@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "sections": [
     {
       "group": "entertainment",
@@ -1157,88 +1157,6 @@
     {
       "group": "creativity",
       "groupTitle": "القيم والإبداع",
-      "id": "make",
-      "emoji": "🎨",
-      "title": "ارسم واصنع",
-      "description": "رسم وأعمال يدوية وإبداع",
-      "palette": "teal",
-      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "✂",
-          "title": "أعمال فنية للأطفال",
-          "subtitle": "أعمال يدوية وإبداع",
-          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🖍",
-          "title": "هيا نرسم",
-          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
-          "query": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📄",
-          "title": "أعمال فنية بالورق",
-          "subtitle": "أعمال ورقية وأفكار فنية",
-          "query": "nibras:playlists:PLpmr9_6AkSDrV2WSWmnQtdaOmHm2y37fF,PLt8AYTPM-S8it_kpxdA_jeQMK8wARjWNA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✂️",
-          "title": "أنشطة يدوية للأطفال",
-          "subtitle": "أعمال يدوية وأنشطة إبداعية",
-          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🪁",
-          "title": "طائرات ورقية",
-          "subtitle": "أفكار وصناعة طائرات ورقية",
-          "query": "PLu7jW6DS0kK6evzvAkTxtf_lbDWYS4qVC",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "♻️",
-          "title": "فن إعادة التدوير",
-          "subtitle": "أفكار فنية من مواد معاد تدويرها",
-          "query": "PLkNLAWO-JpHK6FYvVro_9Ou6viJP-PX5y",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐾",
-          "title": "حيوانات ورقية",
-          "subtitle": "اصنع حيوانات وأشكال بالورق",
-          "query": "PLb4zZdVoYFaohk3oFAyuwGLyjZbKloMB-",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📄",
-          "title": "كن مبدع ورق",
-          "subtitle": "أفكار وإبداعات بالورق",
-          "query": "PL8s84ck6lZRGrKATZDi2Ha8MytaGBUZCq",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✏️",
-          "title": "تعليم الرسم للصغار",
-          "subtitle": "تعلم الرسم خطوة بخطوة للصغار",
-          "query": "PLWFwOxu97OS_p8QKgILNGDp2Sm73wjn1K",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐾",
-          "title": "تعليم رسم الحيوانات",
-          "subtitle": "قائمتان لتعليم رسم الحيوانات",
-          "query": "nibras:playlists:PLWFwOxu97OS9ghCgecjvopwOlEJi9PVWk,PLJhqq8j6EK7twXanvew7gUhB1Na8KzToD",
-          "minDurationMs": 0
-        }
-      ]
-    },
-    {
-      "group": "creativity",
-      "groupTitle": "القيم والإبداع",
       "id": "stories",
       "emoji": "📚",
       "title": "حكايات وقصص",
@@ -1382,13 +1300,6 @@
       "palette": "cyan",
       "items": [
         {
-          "emoji": "🌌",
-          "title": "الفضاء والكون",
-          "subtitle": "كواكب ونجوم",
-          "query": "PL_M-Hi6YRvjMLCiPHz3pMaL_VfuKvQZAV",
-          "minDurationMs": 0
-        },
-        {
           "emoji": "🧪",
           "title": "تجارب منزلية",
           "subtitle": "تجارب ممتعة يمكن تنفيذها في المنزل",
@@ -1466,13 +1377,6 @@
           "minDurationMs": 0
         },
         {
-          "emoji": "🚀",
-          "title": "علم الفضاء للصغار",
-          "subtitle": "كواكب ونجوم وعلوم الفضاء",
-          "query": "PLMz9Ol3LBnkhB_OvEP5mFUgH_dmRn4SZ6",
-          "minDurationMs": 0
-        },
-        {
           "emoji": "▶️",
           "title": "Educational lessons for children - دروس تعليمية للاطفال",
           "subtitle": "",
@@ -1488,6 +1392,88 @@
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
+    },
+    {
+      "group": "discovery",
+      "groupTitle": "رحلات الاستكشاف",
+      "id": "make",
+      "emoji": "🎨",
+      "title": "ارسم واصنع",
+      "description": "رسم وأعمال يدوية وإبداع",
+      "palette": "teal",
+      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
+      "items": [
+        {
+          "emoji": "✂",
+          "title": "أعمال فنية للأطفال",
+          "subtitle": "أعمال يدوية وإبداع",
+          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🖍",
+          "title": "هيا نرسم",
+          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
+          "query": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📄",
+          "title": "أعمال فنية بالورق",
+          "subtitle": "أعمال ورقية وأفكار فنية",
+          "query": "nibras:playlists:PLpmr9_6AkSDrV2WSWmnQtdaOmHm2y37fF,PLt8AYTPM-S8it_kpxdA_jeQMK8wARjWNA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✂️",
+          "title": "أنشطة يدوية للأطفال",
+          "subtitle": "أعمال يدوية وأنشطة إبداعية",
+          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🪁",
+          "title": "طائرات ورقية",
+          "subtitle": "أفكار وصناعة طائرات ورقية",
+          "query": "PLu7jW6DS0kK6evzvAkTxtf_lbDWYS4qVC",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "♻️",
+          "title": "فن إعادة التدوير",
+          "subtitle": "أفكار فنية من مواد معاد تدويرها",
+          "query": "PLkNLAWO-JpHK6FYvVro_9Ou6viJP-PX5y",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "حيوانات ورقية",
+          "subtitle": "اصنع حيوانات وأشكال بالورق",
+          "query": "PLb4zZdVoYFaohk3oFAyuwGLyjZbKloMB-",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📄",
+          "title": "كن مبدع ورق",
+          "subtitle": "أفكار وإبداعات بالورق",
+          "query": "PL8s84ck6lZRGrKATZDi2Ha8MytaGBUZCq",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "✏️",
+          "title": "تعليم الرسم للصغار",
+          "subtitle": "تعلم الرسم خطوة بخطوة للصغار",
+          "query": "PLWFwOxu97OS_p8QKgILNGDp2Sm73wjn1K",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "تعليم رسم الحيوانات",
+          "subtitle": "قائمتان لتعليم رسم الحيوانات",
+          "query": "nibras:playlists:PLWFwOxu97OS9ghCgecjvopwOlEJi9PVWk,PLJhqq8j6EK7twXanvew7gUhB1Na8KzToD",
+          "minDurationMs": 0
+        }
+      ]
     },
     {
       "group": "discovery",
@@ -1565,39 +1551,25 @@
     {
       "group": "discovery",
       "groupTitle": "رحلات الاستكشاف",
-      "id": "world",
-      "emoji": "🌍",
-      "title": "اكتشف العالم",
-      "description": "رحلات واكتشافات حول العالم",
+      "id": "space",
+      "emoji": "🚀",
+      "title": "علوم الفضاء",
+      "description": "كواكب ونجوم وعلوم الفضاء",
       "palette": "sky",
-      "image": "https://wallpaperaccess.com/full/89372.jpg",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/space_hero_light.jpg",
       "items": [
         {
-          "emoji": "🌍",
-          "title": "اكتشف العالم",
-          "subtitle": "رحلات واكتشافات",
-          "query": "PLqzoLPTpnM1vdUkyv2U_FXHZGPpWNkzWo",
+          "emoji": "🌌",
+          "title": "الفضاء والكون",
+          "subtitle": "كواكب ونجوم",
+          "query": "PL_M-Hi6YRvjMLCiPHz3pMaL_VfuKvQZAV",
           "minDurationMs": 0
         },
         {
-          "emoji": "🌎",
-          "title": "عجائب الأرض",
-          "subtitle": "عجائب وكوكب الأرض",
-          "query": "PLukxOF0Ef4pxc1xdld1wVeD9oIkr7LJFX",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌍",
-          "title": "Our Planet / كوكبنا الجميل",
-          "subtitle": "عالم الطبيعة والحياة البرية",
-          "query": "PLv1HH8TloApjZnIg-ipXWCMZQvhDppve2",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌿",
-          "title": "عجائب الطبيعة",
-          "subtitle": "مشاهد وعجائب من الطبيعة",
-          "query": "PLzvo82A6fuxqQq2VyP1CJLbnCIizHb5E6",
+          "emoji": "🚀",
+          "title": "علم الفضاء للصغار",
+          "subtitle": "كواكب ونجوم وعلوم الفضاء",
+          "query": "PLMz9Ol3LBnkhB_OvEP5mFUgH_dmRn4SZ6",
           "minDurationMs": 0
         }
       ]
