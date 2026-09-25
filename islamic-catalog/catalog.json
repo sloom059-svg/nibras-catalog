@@ -417,6 +417,13 @@
           "subtitle": "",
           "query": "PLFmLgj33u1WIzrOdEDNB96AakLWG0PMBE",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🐼",
+          "title": "كيكي وميوميو",
+          "subtitle": "قائمتان مجمعتان",
+          "query": "nibras:playlists:PLcKahvoRGlQYOEPekNsfQ55wCljtRRoa5,PLcKahvoRGlQZxP7xjE_MGepYLEujvq-B1",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
