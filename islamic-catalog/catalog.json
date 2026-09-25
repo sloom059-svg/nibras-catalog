@@ -1,5 +1,5 @@
 {
-  "version": 84,
+  "version": 85,
   "sections": [
     {
       "group": "entertainment",
@@ -724,6 +724,34 @@
           "title": "أنشطة يدوية للأطفال",
           "subtitle": "أعمال يدوية وأنشطة إبداعية",
           "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🪁",
+          "title": "طائرات ورقية",
+          "subtitle": "أفكار وصناعة طائرات ورقية",
+          "query": "PLu7jW6DS0kK6evzvAkTxtf_lbDWYS4qVC",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "♻️",
+          "title": "فن إعادة التدوير",
+          "subtitle": "أفكار إبداعية من مواد معاد تدويرها",
+          "query": "PLkNLAWO-JpHK6FYvVro_9Ou6viJP-PX5y",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🐾",
+          "title": "حيوانات ورقية",
+          "subtitle": "صناعة حيوانات وأشكال بالورق",
+          "query": "PLb4zZdVoYFaohk3oFAyuwGLyjZbKloMB-",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "📄",
+          "title": "كن مبدع ورق",
+          "subtitle": "أفكار وأعمال إبداعية بالورق",
+          "query": "PL8s84ck6lZRGrKATZDi2Ha8MytaGBUZCq",
           "minDurationMs": 0
         }
       ]
