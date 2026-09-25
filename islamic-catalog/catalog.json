@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 98,
   "sections": [
     {
       "group": "entertainment",
@@ -1548,7 +1548,11 @@
           "title": "استكشف الفضاء والصواريخ",
           "subtitle": "علوم ممتعة للأطفال",
           "query": "PLSurt5J3KuYTQpGgftbTq46nPbdIKwn_v",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "titleExclude": [
+            "أغنية",
+            "اغنية"
+          ]
         }
       ]
     },
