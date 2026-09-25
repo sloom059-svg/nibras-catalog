@@ -1,5 +1,5 @@
 {
-  "version": 106,
+  "version": 107,
   "sections": [
     {
       "group": "entertainment",
@@ -1439,6 +1439,14 @@
           "title": "ابتكارات يومية",
           "subtitle": "",
           "query": "PLtCtQoYO0viHVr8ge9oagplMPGCjpiEFP",
+          "minDurationMs": 0,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "اصنع من المنزل",
+          "subtitle": "",
+          "query": "PLtCtQoYO0viHIuNlut9COTlhBiK2VNgMq",
           "minDurationMs": 0,
           "audioProfile": "craft"
         }
