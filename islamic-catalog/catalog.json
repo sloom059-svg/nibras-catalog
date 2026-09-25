@@ -1,5 +1,5 @@
 {
-  "version": 92,
+  "version": 93,
   "sections": [
     {
       "group": "entertainment",
@@ -298,17 +298,47 @@
         {
           "emoji": "🐭",
           "title": "توم وجيري",
-          "subtitle": "6 حلقات مختارة — بالصوت المنقّى",
-          "query": "nibras:playlists:PLnurtxqhggI8K3MRsOVOD6kF682zwUMp6",
+          "subtitle": "6 حلقات مختارة — بالصوت المنظّف",
+          "query": "nibras:manual:tom-jerry-clean-v1",
           "minDurationMs": 0,
           "maxItems": 6,
-          "videoIds": [
-            "zqpNT-OfD7E",
-            "8KiYj1NrmiI",
-            "Gkysb_8N9os",
-            "NAjaOUbfCDs",
-            "jwyF7PZw1RM",
-            "1nxsWqLr2z8"
+          "manualVideos": [
+            {
+              "id": "zqpNT-OfD7E",
+              "title": "توم وجيري — الحلقة 1",
+              "image": "https://i.ytimg.com/vi/zqpNT-OfD7E/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "8KiYj1NrmiI",
+              "title": "توم وجيري — الحلقة 2",
+              "image": "https://i.ytimg.com/vi/8KiYj1NrmiI/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "Gkysb_8N9os",
+              "title": "توم وجيري — الحلقة 3",
+              "image": "https://i.ytimg.com/vi/Gkysb_8N9os/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "NAjaOUbfCDs",
+              "title": "توم وجيري — الحلقة 4",
+              "image": "https://i.ytimg.com/vi/NAjaOUbfCDs/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "jwyF7PZw1RM",
+              "title": "توم وجيري — الحلقة 5",
+              "image": "https://i.ytimg.com/vi/jwyF7PZw1RM/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "1nxsWqLr2z8",
+              "title": "توم وجيري — الحلقة 6",
+              "image": "https://i.ytimg.com/vi/1nxsWqLr2z8/hqdefault.jpg",
+              "author": "توم وجيري"
+            }
           ]
         },
         {
