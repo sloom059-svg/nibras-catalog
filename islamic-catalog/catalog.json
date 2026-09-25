@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "sections": [
     {
       "group": "entertainment",
@@ -910,9 +910,23 @@
         {
           "emoji": "🐰",
           "title": "لوني توينز",
-          "subtitle": "Looney Tunes",
+          "subtitle": "Looney Tunes — 11 حلقة بالصوت المنقّى",
           "query": "PLEAKW4PcnvxmrJxTJPgNSrSgnhRdMHaqd",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "audioProfile": "mapped",
+          "videoIds": [
+            "qXKfcYcC0PM",
+            "QX7BBc36e9U",
+            "3uzqHtsVmA8",
+            "iiO75zReMtM",
+            "bz4lR-K4MDY",
+            "dj6RoTPhHNI",
+            "FhwunTbxbkk",
+            "wDKh7Op9Y60",
+            "0hvGPoz9120",
+            "J5yjFmv9z5w",
+            "mw90m9mmz74"
+          ]
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
