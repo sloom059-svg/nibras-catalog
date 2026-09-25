@@ -1,5 +1,5 @@
 {
-  "version": 104,
+  "version": 105,
   "sections": [
     {
       "group": "entertainment",
@@ -1532,6 +1532,15 @@
           "subtitle": "",
           "query": "PLQnUc3-15CeNEtCDK19NTJo693PkDDbPd",
           "minDurationMs": 0,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "ابتكارات منزلية",
+          "subtitle": "",
+          "query": "PLg50iY2GQ6B8FDCE-B663hKN9KPZg6nch",
+          "minDurationMs": 0,
+          "maxItems": 40,
           "audioProfile": "craft"
         }
       ]
