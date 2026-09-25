@@ -1,5 +1,5 @@
 {
-  "version": 101,
+  "version": 102,
   "sections": [
     {
       "group": "entertainment",
@@ -1501,7 +1501,8 @@
           "title": "كن مبدع ورق",
           "subtitle": "أفكار وإبداعات بالورق",
           "query": "PL8s84ck6lZRGrKATZDi2Ha8MytaGBUZCq",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "audioProfile": "craft"
         },
         {
           "emoji": "✏️",
