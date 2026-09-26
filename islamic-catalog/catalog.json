@@ -1,5 +1,5 @@
 {
-  "version": 138,
+  "version": 139,
   "sections": [
     {
       "group": "entertainment",
@@ -1449,6 +1449,14 @@
           "title": "السيرة النبوية للصغار",
           "subtitle": "",
           "query": "PLjeQMbdx9OGFYGCvplUsqCyIwUQIwTF5r",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "السيرة النبوية للفتيان",
+          "subtitle": "",
+          "query": "PLG1oN-I474Wt-eEQwMggkTYfmrzavNVxy",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
