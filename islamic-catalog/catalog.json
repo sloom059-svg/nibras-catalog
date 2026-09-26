@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "sections": [
     {
       "group": "entertainment",
@@ -1581,6 +1581,14 @@
           "title": "تلوين الكريلك للصغار",
           "subtitle": "",
           "query": "PL3kgBuuzE5KioXrhxh0TFen1R9n0rnXBX",
+          "minDurationMs": 0,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "أعمال فنية بالكرتون",
+          "subtitle": "",
+          "query": "PLVrDCrh-ExJetbYJN-3GuDbmojcqsYa6B",
           "minDurationMs": 0,
           "audioProfile": "craft"
         }
