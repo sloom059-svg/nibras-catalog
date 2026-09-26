@@ -1,5 +1,5 @@
 {
-  "version": 112,
+  "version": 113,
   "sections": [
     {
       "group": "entertainment",
@@ -1455,6 +1455,14 @@
           "title": "قارات العالم",
           "subtitle": "",
           "query": "PLC6lzn6-5wh3c7xvHdziJyi2Xt6qUEsKI",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "منوعات العلوم",
+          "subtitle": "",
+          "query": "PLWh09P3iEh6sktBsvCMhBCpwNaDFxe8ha",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
