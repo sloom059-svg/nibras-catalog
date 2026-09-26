@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "sections": [
     {
       "group": "entertainment",
@@ -309,10 +309,33 @@
         {
           "emoji": "▶️",
           "title": "عائلة غامبول",
-          "subtitle": "",
+          "subtitle": "20 حلقة بالصوت المنقّى",
           "query": "PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "tyiBf5zF1YU",
+            "jUyl5LsQjco",
+            "m0Hs8IYTZ3g",
+            "l0JuBhMnzvM",
+            "AWLzi7LNSe0",
+            "U6_TL1EdKGE",
+            "94l0z_ImZw8",
+            "nnr7rhOcr-g",
+            "M0_ROeX7ihM",
+            "f_HtSXLPM40",
+            "_rYxr1B0C2o",
+            "BdqV31Aw6hw",
+            "S8xyKQqcGBg",
+            "BD_j2cVzsb8",
+            "hw7yuFUURyw",
+            "ZGJXvbYVD48",
+            "Xs8lR8U1mUU",
+            "hmvKH9i81-Q",
+            "owDXLPXKQf8",
+            "4DElVVp1nsI"
+          ],
+          "maxItems": 20
         },
         {
           "emoji": "▶️",
