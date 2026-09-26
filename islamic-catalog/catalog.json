@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 119,
   "sections": [
     {
       "group": "entertainment",
@@ -1771,6 +1771,14 @@
           "title": "تحدي التخمين",
           "subtitle": "",
           "query": "PLX04A_aRh_xdyVvTDjv3jZp769T14YMEq",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "تحدي حل الألغاز",
+          "subtitle": "",
+          "query": "PLX04A_aRh_xen7Asaw9rAw_SSlOBaV1uV",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
