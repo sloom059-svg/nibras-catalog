@@ -1,5 +1,5 @@
 {
-  "version": 113,
+  "version": 114,
   "sections": [
     {
       "group": "entertainment",
@@ -1463,6 +1463,14 @@
           "title": "منوعات العلوم",
           "subtitle": "",
           "query": "PLWh09P3iEh6sktBsvCMhBCpwNaDFxe8ha",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "نصائح دراسية",
+          "subtitle": "",
+          "query": "PLkdEqRMkaatk5B432lZeneGPU1URYsQjs",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
