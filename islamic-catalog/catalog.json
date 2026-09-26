@@ -1,5 +1,5 @@
 {
-  "version": 137,
+  "version": 138,
   "sections": [
     {
       "group": "entertainment",
@@ -1443,6 +1443,14 @@
           "subtitle": "قصص وقيم للأطفال",
           "query": "PLQXerpPVsEPs-Z3CyIydrelZgazEq-W1-",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "السيرة النبوية للصغار",
+          "subtitle": "",
+          "query": "PLjeQMbdx9OGFYGCvplUsqCyIwUQIwTF5r",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ]
     },
