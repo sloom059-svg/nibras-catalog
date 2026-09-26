@@ -1,5 +1,5 @@
 {
-  "version": 109,
+  "version": 110,
   "sections": [
     {
       "group": "entertainment",
@@ -1573,6 +1573,14 @@
           "title": "اصنع بالكرتون",
           "subtitle": "",
           "query": "PLkrTxDlL0l_HxYVx1Y6CHmVEFggsvzMOf",
+          "minDurationMs": 0,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "تلوين الكريلك للصغار",
+          "subtitle": "",
+          "query": "PL3kgBuuzE5KioXrhxh0TFen1R9n0rnXBX",
           "minDurationMs": 0,
           "audioProfile": "craft"
         }
