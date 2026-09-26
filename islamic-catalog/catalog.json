@@ -1,5 +1,5 @@
 {
-  "version": 116,
+  "version": 117,
   "sections": [
     {
       "group": "entertainment",
@@ -1661,6 +1661,14 @@
             "اغنية",
             "song"
           ]
+        },
+        {
+          "emoji": "▶️",
+          "title": "مجرتنا - درب التبانة",
+          "subtitle": "",
+          "query": "https://youtu.be/uhAlpF0haaM?si=5jrYtmEpEsT-kYhC",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ]
     },
