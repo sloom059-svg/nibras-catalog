@@ -1,5 +1,5 @@
 {
-  "version": 130,
+  "version": 131,
   "sections": [
     {
       "group": "entertainment",
@@ -386,10 +386,10 @@
         {
           "emoji": "🐭",
           "title": "توم وجيري",
-          "subtitle": "6 حلقات مختارة — بالصوت المنظّف",
+          "subtitle": "7 حلقات مختارة — بالصوت المنظّف",
           "query": "nibras:manual:tom-jerry-clean-v1",
           "minDurationMs": 0,
-          "maxItems": 6,
+          "maxItems": 7,
           "manualVideos": [
             {
               "id": "zqpNT-OfD7E",
@@ -425,6 +425,12 @@
               "id": "1nxsWqLr2z8",
               "title": "توم وجيري — الحلقة 6",
               "image": "https://i.ytimg.com/vi/1nxsWqLr2z8/hqdefault.jpg",
+              "author": "توم وجيري"
+            },
+            {
+              "id": "UfI_SQ1n03E",
+              "title": "توم وجيري — الحلقة 7",
+              "image": "https://i.ytimg.com/vi/UfI_SQ1n03E/hqdefault.jpg",
               "author": "توم وجيري"
             }
           ]
