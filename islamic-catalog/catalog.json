@@ -1,5 +1,5 @@
 {
-  "version": 115,
+  "version": 116,
   "sections": [
     {
       "group": "entertainment",
@@ -1830,6 +1830,14 @@
           "titleInclude": [
             "البحار"
           ]
+        },
+        {
+          "emoji": "▶️",
+          "title": "معلومات عن الحيوانات",
+          "subtitle": "",
+          "query": "PLu4OyfTZd06lho8Rtl02sUvIp6SGJWzB5",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ]
     },
