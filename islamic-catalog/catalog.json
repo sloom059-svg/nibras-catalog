@@ -1,5 +1,5 @@
 {
-  "version": 126,
+  "version": 127,
   "sections": [
     {
       "group": "entertainment",
@@ -966,88 +966,6 @@
     {
       "group": "entertainment",
       "groupTitle": "عالم الترفيه والمرح",
-      "id": "classics",
-      "emoji": "⭐",
-      "title": "كرتون زمان",
-      "description": "كلاسيكيات ومغامرات جميلة",
-      "palette": "amber",
-      "items": [
-        {
-          "emoji": "🐻",
-          "title": "مغامرات بسيط",
-          "subtitle": "كرتون زمان",
-          "query": "PLLJ8-2NSYZMXuopnND7YudZ3nCYzmo4Ng",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⚓",
-          "title": "باباي",
-          "subtitle": "الحلقات الكلاسيكية",
-          "query": "PLZi9kmcgOoWmOwvu0bfMbydr7D90wEzAD",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌼",
-          "title": "هايدي",
-          "subtitle": "كرتون زمان",
-          "query": "PL2cnYLw6c5JKupDGH6T8dKWPNLnZcqnFl",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🐺",
-          "title": "ماوكلي",
-          "subtitle": "كرتون زمان",
-          "query": "PLyM-sI0P2_p0i0TQmBrzWAnyxnHFfPeXW",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🦖",
-          "title": "جازورا",
-          "subtitle": "كرتون زمان",
-          "query": "PLXYEUJCm6gXSmH-v3lbFTwaGHnLCx6pBY",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🪿",
-          "title": "مغامرات نيلز",
-          "subtitle": "كرتون زمان",
-          "query": "PLhT1vEHXXEgM89gW84JGVCIBrZRnf0a5A",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "👦",
-          "title": "وداعاً ماركو",
-          "subtitle": "كرتون زمان",
-          "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⛵",
-          "title": "توم سوير",
-          "subtitle": "كرتون زمان",
-          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🌴",
-          "title": "مدينة النخيل",
-          "subtitle": "كرتون زمان",
-          "query": "PL2d3Uqd_xeuGu2oZalqQsME1uyLBmliRw",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "👬",
-          "title": "أنا وأخي",
-          "subtitle": "كرتون زمان",
-          "query": "PL_B3XZGFFq_DzjQpjwccuibNJCarKj7DB",
-          "minDurationMs": 0
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/classics.jpg"
-    },
-    {
-      "group": "entertainment",
-      "groupTitle": "عالم الترفيه والمرح",
       "id": "adventure",
       "emoji": "🚀",
       "title": "المغامرات",
@@ -1123,6 +1041,20 @@
           "title": "أبطال بلباس النوم",
           "subtitle": "PJ Masks — حلقات كاملة ومغامرات",
           "query": "PL5O6k6y1zak56smi-wM7tkU8_XTwDhlwD",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "🪿",
+          "title": "مغامرات نيلز",
+          "subtitle": "كرتون زمان",
+          "query": "PLhT1vEHXXEgM89gW84JGVCIBrZRnf0a5A",
+          "minDurationMs": 0
+        },
+        {
+          "emoji": "👦",
+          "title": "وداعاً ماركو",
+          "subtitle": "كرتون زمان",
+          "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
           "minDurationMs": 0
         }
       ]
