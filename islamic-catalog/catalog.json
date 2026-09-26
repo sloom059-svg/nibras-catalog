@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "sections": [
     {
       "group": "entertainment",
@@ -1471,6 +1471,14 @@
           "title": "نصائح دراسية",
           "subtitle": "",
           "query": "PLkdEqRMkaatk5B432lZeneGPU1URYsQjs",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "علم الفيزياء",
+          "subtitle": "",
+          "query": "PLN__nLKQcMOO1brYK5gc8Ol--XeujfeN_",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
