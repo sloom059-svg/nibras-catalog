@@ -1,5 +1,5 @@
 {
-  "version": 136,
+  "version": 137,
   "sections": [
     {
       "group": "entertainment",
@@ -614,6 +614,14 @@
             "dSMtevBmIEA"
           ],
           "maxItems": 36
+        },
+        {
+          "emoji": "🐙",
+          "title": "أوكتنوتس - الموسم الثاني",
+          "subtitle": "",
+          "query": "PLazNzGWGKE7lB67KICSKY5qakaXqkIrdg",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
