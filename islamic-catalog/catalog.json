@@ -1,5 +1,5 @@
 {
-  "version": 131,
+  "version": 132,
   "sections": [
     {
       "group": "entertainment",
@@ -274,9 +274,162 @@
         {
           "emoji": "⛵",
           "title": "توم سوير",
-          "subtitle": "مسلسل مدبلج",
-          "query": "PLbwI0LE0f2MELdqWvEp785CUcIIYNz9Ia",
-          "minDurationMs": 0
+          "subtitle": "25 حلقة مرتبة من 1 إلى 25",
+          "query": "nibras:manual:tom-sawyer-ordered-v1",
+          "minDurationMs": 0,
+          "maxItems": 25,
+          "manualVideos": [
+            {
+              "id": "CpOEXI7Puno",
+              "title": "توم سوير — الحلقة 1",
+              "image": "https://i.ytimg.com/vi/CpOEXI7Puno/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "MyUIz88IvL8",
+              "title": "توم سوير — الحلقة 2",
+              "image": "https://i.ytimg.com/vi/MyUIz88IvL8/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "F4sXxnNv414",
+              "title": "توم سوير — الحلقة 3",
+              "image": "https://i.ytimg.com/vi/F4sXxnNv414/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "Sgq2sj45I1Q",
+              "title": "توم سوير — الحلقة 4",
+              "image": "https://i.ytimg.com/vi/Sgq2sj45I1Q/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "J8c9K1u-dXA",
+              "title": "توم سوير — الحلقة 5",
+              "image": "https://i.ytimg.com/vi/J8c9K1u-dXA/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "xE4ZIpHsCjE",
+              "title": "توم سوير — الحلقة 6",
+              "image": "https://i.ytimg.com/vi/xE4ZIpHsCjE/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "WMO6Mx_gMSM",
+              "title": "توم سوير — الحلقة 7",
+              "image": "https://i.ytimg.com/vi/WMO6Mx_gMSM/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "Tq0madMdODg",
+              "title": "توم سوير — الحلقة 8",
+              "image": "https://i.ytimg.com/vi/Tq0madMdODg/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "w7FOn6LqcT0",
+              "title": "توم سوير — الحلقة 9",
+              "image": "https://i.ytimg.com/vi/w7FOn6LqcT0/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "ckUeGSMYkYY",
+              "title": "توم سوير — الحلقة 10",
+              "image": "https://i.ytimg.com/vi/ckUeGSMYkYY/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "gDsvrKPvvEc",
+              "title": "توم سوير — الحلقة 11",
+              "image": "https://i.ytimg.com/vi/gDsvrKPvvEc/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "OP3vhI9isb8",
+              "title": "توم سوير — الحلقة 12",
+              "image": "https://i.ytimg.com/vi/OP3vhI9isb8/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "kZIVnAcow8M",
+              "title": "توم سوير — الحلقة 13",
+              "image": "https://i.ytimg.com/vi/kZIVnAcow8M/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "hwpM8l18gEU",
+              "title": "توم سوير — الحلقة 14",
+              "image": "https://i.ytimg.com/vi/hwpM8l18gEU/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "wI1rlqfwfDg",
+              "title": "توم سوير — الحلقة 15",
+              "image": "https://i.ytimg.com/vi/wI1rlqfwfDg/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "Gl7PDFhs4vQ",
+              "title": "توم سوير — الحلقة 16",
+              "image": "https://i.ytimg.com/vi/Gl7PDFhs4vQ/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "dlMvT31c-LA",
+              "title": "توم سوير — الحلقة 17",
+              "image": "https://i.ytimg.com/vi/dlMvT31c-LA/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "dWMumpGf2-Y",
+              "title": "توم سوير — الحلقة 18",
+              "image": "https://i.ytimg.com/vi/dWMumpGf2-Y/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "VfPDbPKohLo",
+              "title": "توم سوير — الحلقة 19",
+              "image": "https://i.ytimg.com/vi/VfPDbPKohLo/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "bVWv_I6-Rzs",
+              "title": "توم سوير — الحلقة 20",
+              "image": "https://i.ytimg.com/vi/bVWv_I6-Rzs/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "QR-fLFq553Q",
+              "title": "توم سوير — الحلقة 21",
+              "image": "https://i.ytimg.com/vi/QR-fLFq553Q/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "boNwxPvnKxw",
+              "title": "توم سوير — الحلقة 22",
+              "image": "https://i.ytimg.com/vi/boNwxPvnKxw/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "YNx7waYhc5s",
+              "title": "توم سوير — الحلقة 23",
+              "image": "https://i.ytimg.com/vi/YNx7waYhc5s/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "jGcvFMkz4Fs",
+              "title": "توم سوير — الحلقة 24",
+              "image": "https://i.ytimg.com/vi/jGcvFMkz4Fs/hqdefault.jpg",
+              "author": "سبيستون"
+            },
+            {
+              "id": "T4yE-RzzhlE",
+              "title": "توم سوير — الحلقة 25",
+              "image": "https://i.ytimg.com/vi/T4yE-RzzhlE/hqdefault.jpg",
+              "author": "سبيستون"
+            }
+          ]
         },
         {
           "emoji": "✈️",
