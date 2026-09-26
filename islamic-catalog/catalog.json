@@ -1,5 +1,5 @@
 {
-  "version": 108,
+  "version": 109,
   "sections": [
     {
       "group": "entertainment",
@@ -1566,6 +1566,14 @@
           "query": "PLSz4D2gEHcoonB6CreOClkGZjRjBF1jRt",
           "minDurationMs": 0,
           "maxItems": 40,
+          "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "اصنع بالكرتون",
+          "subtitle": "",
+          "query": "PLkrTxDlL0l_HxYVx1Y6CHmVEFggsvzMOf",
+          "minDurationMs": 0,
           "audioProfile": "craft"
         }
       ]
