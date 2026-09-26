@@ -1,5 +1,5 @@
 {
-  "version": 132,
+  "version": 133,
   "sections": [
     {
       "group": "entertainment",
@@ -894,7 +894,7 @@
         },
         {
           "emoji": "🐱",
-          "title": "Oggy and the Cockroaches",
+          "title": "OGGY",
           "subtitle": "أوغي والصراصير",
           "query": "PLt5Mqfjjl4A78f3iVtm-Fy22EvrlBq6ir",
           "minDurationMs": 0
@@ -925,13 +925,6 @@
           "title": "روبوكار بولي الموسم 1",
           "subtitle": "",
           "query": "PLtEn9Fkz6ZWEK01fXlRwzZltVKodg8lDw",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "▶️",
-          "title": "OGGY - FIND THE HIDDEN ITEMS",
-          "subtitle": "",
-          "query": "PL-d4D7FQaDKPSUPVOtW_bN3EUE4oG3iBY",
           "minDurationMs": 0
         },
         {
