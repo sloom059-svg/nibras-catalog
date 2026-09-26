@@ -1,5 +1,5 @@
 {
-  "version": 124,
+  "version": 125,
   "sections": [
     {
       "group": "entertainment",
@@ -327,6 +327,14 @@
           "title": "كلارنس",
           "subtitle": "",
           "query": "PLBMgmF_DRtDx3YBIuh0ziXIoJYDbSqxTd",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "فلافيلو فلوغز",
+          "subtitle": "",
+          "query": "PLBMgmF_DRtDzRPdmPHHasiwPRLwoKo912",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
