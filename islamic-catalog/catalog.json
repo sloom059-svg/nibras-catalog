@@ -1,5 +1,5 @@
 {
-  "version": 135,
+  "version": 136,
   "sections": [
     {
       "group": "entertainment",
@@ -571,10 +571,49 @@
         {
           "emoji": "🐙",
           "title": "أوكتنوتس - الموسم الأول",
-          "subtitle": "",
+          "subtitle": "36 حلقة بالصوت المنقّى",
           "query": "PLazNzGWGKE7mDDXbhemByRgXlilXW6rtQ",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "LLLaOWE-kms",
+            "GgH2Xnmeb30",
+            "TcDRkQDwNNA",
+            "CzWywkx8o_s",
+            "l-1XvdlySvk",
+            "svTt6AVg5BY",
+            "8xBUv5F1k2Y",
+            "gCzdUyXKRlY",
+            "t2oA_Q6ce4o",
+            "hukAkWIQuRY",
+            "TKwUEkxx7Ls",
+            "q1wfOsxSOQ0",
+            "PSZA3EJRc7A",
+            "GlSVl8hLAv8",
+            "JtIZ_oYhWCg",
+            "-2D7Rx8kkm4",
+            "eXkT46E-eu0",
+            "Prw6kLY-QCI",
+            "bDmqcc3R_4I",
+            "R1-ppbQ8saA",
+            "UY_YmtEcHzs",
+            "vBzHA1YAhAo",
+            "RSuiTS5Lodk",
+            "3weUfXDp_Yo",
+            "TQTQ7alZY98",
+            "W5N-qor1KyY",
+            "MTKoYlkdaLE",
+            "M7dRPalrZDM",
+            "p9kIF3tVmI8",
+            "W3gbaVyypHw",
+            "gs33IbpSFiE",
+            "7Gp9WBWaPCg",
+            "jFa9pZTt4t8",
+            "l2vcOKMXLRQ",
+            "fOZyJmHvuxw",
+            "dSMtevBmIEA"
+          ],
+          "maxItems": 36
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
