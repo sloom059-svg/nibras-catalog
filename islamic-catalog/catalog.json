@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "sections": [
     {
       "group": "entertainment",
@@ -1449,6 +1449,14 @@
           "query": "PLtCtQoYO0viHIuNlut9COTlhBiK2VNgMq",
           "minDurationMs": 0,
           "audioProfile": "craft"
+        },
+        {
+          "emoji": "▶️",
+          "title": "قارات العالم",
+          "subtitle": "",
+          "query": "PLC6lzn6-5wh3c7xvHdziJyi2Xt6qUEsKI",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
