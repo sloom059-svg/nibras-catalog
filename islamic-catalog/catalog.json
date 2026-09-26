@@ -1,5 +1,5 @@
 {
-  "version": 133,
+  "version": 134,
   "sections": [
     {
       "group": "entertainment",
@@ -521,6 +521,14 @@
           "title": "فلافيلو فلوغز",
           "subtitle": "",
           "query": "PLBMgmF_DRtDzRPdmPHHasiwPRLwoKo912",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "🐙",
+          "title": "أوكتنوتس - الموسم الأول",
+          "subtitle": "",
+          "query": "PLazNzGWGKE7mDDXbhemByRgXlilXW6rtQ",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
