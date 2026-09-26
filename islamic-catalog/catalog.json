@@ -1,5 +1,5 @@
 {
-  "version": 129,
+  "version": 130,
   "sections": [
     {
       "group": "entertainment",
@@ -333,10 +333,27 @@
         {
           "emoji": "▶️",
           "title": "جيلي ستون",
-          "subtitle": "",
+          "subtitle": "14 حلقة بالصوت المنقّى",
           "query": "PLBMgmF_DRtDwAWhslOIMiZJcnv4yVqAzH",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "ffec_kWBkYw",
+            "1dtFPqkytKw",
+            "MoOHsjaWnR0",
+            "_v_9yB6HfyM",
+            "QdEzV8na8pk",
+            "PV1Y0tjA8Nc",
+            "gS_me2DB6tk",
+            "9kUcdyPefmI",
+            "1nqMnlcW7-c",
+            "p5lkah7gwTw",
+            "WsicauR4hWE",
+            "drMWnZFfdEk",
+            "z503GfKSvRs",
+            "WKsgdYFxd6Q"
+          ],
+          "maxItems": 14
         },
         {
           "emoji": "▶️",
