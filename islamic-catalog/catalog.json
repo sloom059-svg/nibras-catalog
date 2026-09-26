@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "sections": [
     {
       "group": "entertainment",
@@ -305,6 +305,14 @@
           "subtitle": "الحلقات العربية",
           "query": "PLbwI0LE0f2MHYp-sLfpkab-uU6HTYADT9",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "عائلة غامبول",
+          "subtitle": "",
+          "query": "PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
