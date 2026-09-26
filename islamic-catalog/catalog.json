@@ -1,5 +1,5 @@
 {
-  "version": 117,
+  "version": 118,
   "sections": [
     {
       "group": "entertainment",
@@ -1765,6 +1765,14 @@
           "subtitle": "",
           "query": "PLbqZ7icmed47EidZn_fGAvo-pScFR3xH3",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "▶️",
+          "title": "تحدي التخمين",
+          "subtitle": "",
+          "query": "PLX04A_aRh_xdyVvTDjv3jZp769T14YMEq",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ]
     },
