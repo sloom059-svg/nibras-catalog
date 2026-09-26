@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 120,
   "sections": [
     {
       "group": "entertainment",
@@ -1481,6 +1481,45 @@
           "query": "PLN__nLKQcMOO1brYK5gc8Ol--XeujfeN_",
           "minDurationMs": 0,
           "audioProfile": "original"
+        },
+        {
+          "emoji": "💡",
+          "title": "اختراعات مدهشة",
+          "subtitle": "28 فيديو بالصوت المنقّى",
+          "query": "UUAH4NOIbnHpN3cW0Kgg2oOw",
+          "minDurationMs": 0,
+          "maxItems": 28,
+          "audioProfile": "mapped",
+          "videoIds": [
+            "KPQs9-4IZF4",
+            "4opp-u8WM4Y",
+            "9C1C-D9a0rA",
+            "KU8AXv9iIw8",
+            "iGLohNNNEuk",
+            "FsxQ9eWXR_I",
+            "WED192dCEG8",
+            "PF8G1FvW31U",
+            "-OmmM1u8Xo8",
+            "Jdvr26ADL3Q",
+            "1Cj9r1ilnNQ",
+            "tg-dt7CU0n0",
+            "p_WcmpqsM7c",
+            "HghQw0HIJsI",
+            "YKYyiwD9tko",
+            "-VaEYTaae3I",
+            "PY1Icwe_wgo",
+            "Ktqi9H9rjzE",
+            "tFDFIycFGqo",
+            "XuVQV44bZ7A",
+            "vHoEy-oAgj8",
+            "R2BHgFv4u4c",
+            "WQgl3qCv_uU",
+            "zjjchChNSYU",
+            "Rvg9ksM7voc",
+            "aKMuPNLu8Vc",
+            "deQgAQ51RxY",
+            "wVX8XEeA2j0"
+          ]
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
