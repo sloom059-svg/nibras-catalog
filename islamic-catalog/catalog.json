@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "sections": [
     {
       "group": "entertainment",
@@ -309,6 +309,14 @@
         {
           "emoji": "▶️",
           "title": "عائلة غامبول",
+          "subtitle": "",
+          "query": "PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "جيلي ستون",
           "subtitle": "",
           "query": "PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L",
           "minDurationMs": 0,
