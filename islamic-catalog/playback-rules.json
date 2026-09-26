@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "rules": [
     {
       "matchType": "query",
@@ -25,6 +25,12 @@
       "match": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
       "title": "هيا نرسم",
       "startAtMs": 70000
+    },
+    {
+      "matchType": "query",
+      "match": "nibras:manual:tom-sawyer-ordered-v1",
+      "title": "توم سوير",
+      "startAtMs": 84000
     }
   ]
 }
