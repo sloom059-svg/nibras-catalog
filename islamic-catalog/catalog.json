@@ -1,5 +1,5 @@
 {
-  "version": 134,
+  "version": 135,
   "sections": [
     {
       "group": "entertainment",
@@ -511,18 +511,62 @@
         {
           "emoji": "▶️",
           "title": "كلارنس",
-          "subtitle": "",
+          "subtitle": "14 حلقة بالصوت المنقّى",
           "query": "PLBMgmF_DRtDx3YBIuh0ziXIoJYDbSqxTd",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "9CA1ByDM8vM",
+            "p7sxXmK-W1U",
+            "6tUbfzNhlww",
+            "kW9t-iuPd8E",
+            "IClwY0H1Qqw",
+            "98mqbhJkt4g",
+            "6xNSuYjOyYE",
+            "Xj8AxzjowzA",
+            "m9E37aDVOYc",
+            "BGKV1E8c6hs",
+            "qqmmz3oHTwU",
+            "jJEsy_CPL6I",
+            "AEpViw1_UmQ",
+            "0To4pcQd1IE"
+          ],
+          "maxItems": 14
         },
         {
           "emoji": "▶️",
           "title": "فلافيلو فلوغز",
-          "subtitle": "",
+          "subtitle": "24 حلقة بالصوت المنقّى",
           "query": "PLBMgmF_DRtDzRPdmPHHasiwPRLwoKo912",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "BRqBGAUxfA8",
+            "CXOiqcagGm4",
+            "dMpc8Ye0Xkg",
+            "DzXlHdH9d_E",
+            "6MfgeAkkuWM",
+            "8Wtdczd8vAM",
+            "-BT4bqFiJL4",
+            "jM1GSbfurac",
+            "YzOq3uP8mS4",
+            "Hf5RfIVRreI",
+            "obcgxvaWqtQ",
+            "RyrBrenxGdc",
+            "bfBHllOQKEw",
+            "1D1D-a_2ELk",
+            "9eWC316TW0Q",
+            "wZp345D5NWA",
+            "Av_ugGoO388",
+            "v77S_2oRkiM",
+            "Fsfdk6uL2cc",
+            "VYaJAI-VT-Y",
+            "vxlfu-a8_bk",
+            "15DlOdWWn0s",
+            "NmsV18Je7tw",
+            "daDp3CVW6mg"
+          ],
+          "maxItems": 24
         },
         {
           "emoji": "🐙",
