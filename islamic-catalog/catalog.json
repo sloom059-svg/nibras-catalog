@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "sections": [
     {
       "group": "entertainment",
@@ -318,7 +318,15 @@
           "emoji": "▶️",
           "title": "جيلي ستون",
           "subtitle": "",
-          "query": "nibras:playlists:PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L,PLBMgmF_DRtDx3YBIuh0ziXIoJYDbSqxTd",
+          "query": "PLBMgmF_DRtDwLZ9goFQSXFlGyhNFOiq0L",
+          "minDurationMs": 0,
+          "audioProfile": "original"
+        },
+        {
+          "emoji": "▶️",
+          "title": "كلارنس",
+          "subtitle": "",
+          "query": "PLBMgmF_DRtDx3YBIuh0ziXIoJYDbSqxTd",
           "minDurationMs": 0,
           "audioProfile": "original"
         }
