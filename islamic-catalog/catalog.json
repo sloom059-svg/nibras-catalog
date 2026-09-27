@@ -1,5 +1,5 @@
 {
-  "version": 140,
+  "version": 141,
   "sections": [
     {
       "group": "entertainment",
@@ -618,15 +618,35 @@
         {
           "emoji": "🐙",
           "title": "أوكتنوتس - الموسم الثاني",
-          "subtitle": "2 حلقة بالصوت المنقّى",
+          "subtitle": "22 حلقة بالصوت المنقّى",
           "query": "PLazNzGWGKE7lB67KICSKY5qakaXqkIrdg",
           "minDurationMs": 0,
           "audioProfile": "mapped",
           "videoIds": [
+            "KrfW65DAv84",
+            "MXP-G9dUYfM",
+            "5eMlsjyRnhU",
+            "gMGhamHBKlc",
+            "iTljdE5Ojko",
+            "1h4dsdn9MFE",
+            "pPNzwLl1ATw",
+            "kkoUbft9Ygs",
+            "2u48oxmCLkE",
+            "B6fQJeEZOM8",
+            "OFLKz2tIshE",
+            "SOlgVgtsGj0",
+            "uZhFtUZZVV0",
+            "rUAAvR0UBXg",
+            "Mf8tOgFbzEw",
+            "ueCdt6SuFTM",
+            "AYWrndf3-dw",
+            "TMUwCtHCc2I",
+            "_aCd14uK-6Y",
+            "WRCAf5C_g4Y",
             "ZXC8dyPjgp8",
             "CkUeYhrmQxY"
           ],
-          "maxItems": 2
+          "maxItems": 22
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
