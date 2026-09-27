@@ -1,5 +1,5 @@
 {
-  "version": 142,
+  "version": 143,
   "sections": [
     {
       "group": "entertainment",
@@ -1644,13 +1644,6 @@
           "title": "تجارب مدهشة",
           "subtitle": "تجارب علمية ممتعة ومبهرة",
           "query": "PL62NrlTMUAgUjkJVq_sl4oLPksPtMV4I9",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🗣️",
-          "title": "تعلم اللغة للأطفال",
-          "subtitle": "تعلم بطريقة مبسطة",
-          "query": "UU2518TJyxsPNbrpAwr0Gf7w",
           "minDurationMs": 0
         },
         {
