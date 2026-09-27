@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "rules": [
     {
       "matchType": "query",
@@ -31,6 +31,12 @@
       "match": "nibras:manual:tom-sawyer-ordered-v1",
       "title": "توم سوير",
       "startAtMs": 84000
+    },
+    {
+      "matchType": "query",
+      "match": "PLajav__4AGmhGOqBT_m9lLU593z2MKenV",
+      "title": "Minuscule - مغامرات الحشرات",
+      "startAtMs": 24000
     }
   ]
 }
