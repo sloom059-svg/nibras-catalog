@@ -1,5 +1,5 @@
 {
-  "version": 144,
+  "version": 145,
   "sections": [
     {
       "group": "entertainment",
@@ -647,6 +647,14 @@
             "CkUeYhrmQxY"
           ],
           "maxItems": 22
+        },
+        {
+          "emoji": "🐙",
+          "title": "أوكتنوتس - الموسم الثالث",
+          "subtitle": "",
+          "query": "PLazNzGWGKE7mkGpgEMC6sghrJaQ1xGQPk",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
