@@ -1,5 +1,5 @@
 {
-  "version": 148,
+  "version": 149,
   "sections": [
     {
       "group": "entertainment",
@@ -1304,10 +1304,32 @@
         {
           "emoji": "🎬",
           "title": "تايني تون",
-          "subtitle": "",
+          "subtitle": "19 حلقة بالصوت المنقّى",
           "query": "PLBMgmF_DRtDzN5lxfmCNyIrXrFdnVLHe5",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "rK8qo-khCPU",
+            "EQ1arZqMlZ0",
+            "kGgsTVhhZOo",
+            "nolgwPUpDl4",
+            "YLheaJOcuH4",
+            "m1O7Eyy3aSs",
+            "IAhPyLWn70E",
+            "iFvOWADh_a8",
+            "lqaitwiXTLc",
+            "yZRzbC1KqNA",
+            "WEcpnGG65z8",
+            "PerkAEmiiYU",
+            "x00ptJbTqPg",
+            "ar_nLmxQBeg",
+            "Q24zMP9tWtc",
+            "e73KGCReatM",
+            "0Y0D1TODoL0",
+            "SeK4aORl3go",
+            "_Vqhu4JkITE"
+          ],
+          "maxItems": 19
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
