@@ -1,5 +1,5 @@
 {
-  "version": 143,
+  "version": 144,
   "sections": [
     {
       "group": "entertainment",
@@ -1821,13 +1821,6 @@
           "title": "أعمال فنية للأطفال",
           "subtitle": "أعمال يدوية وإبداع",
           "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🖍",
-          "title": "هيا نرسم",
-          "subtitle": "تعلم الرسم للأطفال خطوة بخطوة",
-          "query": "nibras:playlists:PLtjWCOtcUAsm-agLBMIsT1FzHJ_BJgumr,PLkaEPJY3C7b2IG66bX5AK9j3rBSnzYI9u",
           "minDurationMs": 0
         },
         {
