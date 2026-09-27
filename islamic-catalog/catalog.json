@@ -1,5 +1,5 @@
 {
-  "version": 147,
+  "version": 148,
   "sections": [
     {
       "group": "entertainment",
@@ -1416,7 +1416,7 @@
       "title": "القيم والإسلام",
       "description": "قصص وقيم وتعليم إسلامي للأطفال",
       "palette": "emerald",
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/values_islam_compressed.jpg",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/values_islam_family_1536x1024.jpg",
       "items": [
         {
           "emoji": "🌙",
