@@ -1,5 +1,5 @@
 {
-  "version": 145,
+  "version": 146,
   "sections": [
     {
       "group": "entertainment",
@@ -651,10 +651,34 @@
         {
           "emoji": "🐙",
           "title": "أوكتنوتس - الموسم الثالث",
-          "subtitle": "",
+          "subtitle": "21 حلقة بالصوت المنقّى",
           "query": "PLazNzGWGKE7mkGpgEMC6sghrJaQ1xGQPk",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "audioProfile": "mapped",
+          "videoIds": [
+            "3wI-4PXVcwc",
+            "k3H1l4CfVKU",
+            "IoDGkPcv2yY",
+            "i7MZJoFs5II",
+            "dHbC_Ltzi4c",
+            "irUmS7G4jSE",
+            "wktVT-K9S40",
+            "HS-Qpq33ITg",
+            "gjUkoO9xsWU",
+            "ubDc_Fm10vE",
+            "ZE26BeE6RL4",
+            "UrWcKiDCluA",
+            "2ZYSjb0g6Ow",
+            "7sJVqVpXzWE",
+            "3DtDQC1mufM",
+            "FVQdZB0eIso",
+            "j6ehsf4ezrQ",
+            "DrWJ74i9oXA",
+            "E6iplWNGDl8",
+            "3xJ6cyIiroI",
+            "Zq3t2KBqW1A"
+          ],
+          "maxItems": 21
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
