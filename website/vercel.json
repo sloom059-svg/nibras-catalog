@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/download",
+      "destination": "https://github.com/sloom059-svg/TV_KIDS/releases/latest/download/Nibras.apk",
+      "permanent": false
+    }
+  ]
+}
