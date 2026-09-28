@@ -1,5 +1,10 @@
 {
-  "version": 149,
+  "version": 150,
+  "providers": {
+    "dailymotion": {
+      "playerId": ""
+    }
+  },
   "sections": [
     {
       "group": "entertainment",
