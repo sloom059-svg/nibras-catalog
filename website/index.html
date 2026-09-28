@@ -20,7 +20,7 @@
 
     <!-- Google Fonts: Cairo -->
 
-    <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700;800;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
 
     <script>
 
@@ -32,7 +32,7 @@
 
                     fontFamily: { 
 
-                        sans: ['Alexandria', 'sans-serif'],
+                        sans: ['Cairo', 'sans-serif'],
 
                         mono: ['Space Mono', 'monospace']
 
@@ -146,8 +146,42 @@
 
     
       /* NIBRAS_FONT_OVERRIDE */
-      html, body, button, input, select, textarea { font-family: 'Alexandria', sans-serif !important; }
-      body { letter-spacing: -0.01em; }
+      html, body, button, input, select, textarea { font-family:'Cairo',sans-serif!important; }
+      body { letter-spacing:0; }
+
+      /* HERO_SCALE_FIX */
+      .hero-copy-title{
+        font-size:clamp(2.3rem,4.5vw,4.7rem)!important;
+        line-height:1.16!important;
+      }
+      .hero-copy-desc{
+        font-size:clamp(.98rem,1.5vw,1.18rem)!important;
+        line-height:1.9!important;
+      }
+      .hero-copy-badge{
+        font-size:.82rem!important;
+        padding:.42rem .9rem!important;
+      }
+      @media (max-width:1024px){
+        .hero-copy-title{
+          font-size:clamp(2.2rem,6vw,3.8rem)!important;
+          line-height:1.2!important;
+        }
+      }
+      @media (max-width:680px){
+        .hero-copy-title{
+          font-size:2.15rem!important;
+          line-height:1.25!important;
+        }
+        .hero-copy-desc{
+          font-size:.95rem!important;
+          line-height:1.85!important;
+        }
+        .hero-copy-badge{
+          font-size:.74rem!important;
+          line-height:1.55!important;
+        }
+      }
   
       .downloader-fallback{background:linear-gradient(135deg,#FF8C00,#FF4500)!important;position:relative}
       .downloader-fallback::after{content:'↓';color:#fff;font-weight:900;font-size:1.35rem;line-height:1}
@@ -202,20 +236,20 @@
 
         <div class="flex-1 text-center lg:text-right">
 
-            <div class="inline-block bg-brandAccent/10 border border-brandAccent/20 text-brandAccent font-bold px-4 py-1.5 rounded-full text-sm mb-6 animate-pulse">
+            <div class="hero-copy-badge inline-block bg-brandAccent/10 border border-brandAccent/20 text-brandAccent font-bold px-4 py-1.5 rounded-full text-sm mb-6">
 
-                ✨ مشاهدة مرتبة للطفل، وراحة بال لك
+                مشاهدة أهدأ، ومحتوى مرتب لطفلك
 
             </div>
 
-            <h2 class="text-5xl lg:text-7xl font-black text-white leading-[1.2] mb-6 drop-shadow-lg">
+            <h2 class="hero-copy-title font-black text-white mb-6 drop-shadow-lg">
 
                 كل اللي يحبه طفلك، <br>
                 <span class="text-transparent bg-clip-text bg-gradient-to-r from-brandAccent to-orange-400">بدون فوضى يوتيوب.</span>
 
             </h2>
 
-            <p class="text-lg lg:text-xl text-gray-400 mb-10 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+            <p class="hero-copy-desc text-gray-400 mb-10 max-w-2xl mx-auto lg:mx-0">
 
                 نبراس يجمع لطفلك المحتوى المختار في مكان واحد: بدون إعلانات، بدون Shorts، وبدون اقتراحات عشوائية — مع تحكم أبوي واضح وتجربة مشاهدة أهدأ.
 
@@ -249,7 +283,7 @@
 
                     <div class="flex flex-col text-right">
 
-                        <span class="text-[10px] text-gray-400 font-bold uppercase tracking-wider">كود Downloader</span>
+                        <span class="text-[10px] text-gray-400 font-bold tracking-wider">كود Downloader</span>
 
                         <span class="text-2xl font-mono font-black text-white tracking-widest">36300987</span>
 
@@ -827,15 +861,22 @@
                 <div class="space-y-3 mt-6">
                     <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
                         <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">1</div>
-                        <div><b class="text-white">افتح تطبيق Downloader</b><p class="text-gray-500 text-sm">على الشاشة أو قطعة شاومي أو جهاز Android TV.</p></div>
+                        <div class="flex-1">
+                            <b class="text-white">حمّل تطبيق Downloader من Google Play</b>
+                            <p class="text-gray-500 text-sm mt-1">نزّل تطبيق Downloader by AFTVnews على جهازك أو شاشتك.</p>
+                            <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 mt-3 text-sm font-bold text-orange-300 hover:text-orange-200">
+                                <i class="fa-brands fa-google-play"></i>
+                                فتح Downloader في Google Play
+                            </a>
+                        </div>
                     </div>
                     <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
                         <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">2</div>
-                        <div><b class="text-white">أدخل الرمز 36300987</b><p class="text-gray-500 text-sm">سيظهر لك ملف نبراس الجاهز للتنزيل.</p></div>
+                        <div><b class="text-white">افتح Downloader وأدخل الكود 36300987</b><p class="text-gray-500 text-sm mt-1">سيظهر لك رابط تحميل نبراس مباشرة.</p></div>
                     </div>
                     <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
                         <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">3</div>
-                        <div><b class="text-white">حمّل التطبيق وثبّته</b><p class="text-gray-500 text-sm">بعد اكتمال التنزيل وافق على التثبيت ثم افتح نبراس.</p></div>
+                        <div><b class="text-white">حمّل نبراس وثبّته</b><p class="text-gray-500 text-sm mt-1">بعد اكتمال التنزيل افتح الملف، وافق على التثبيت، ثم افتح نبراس.</p></div>
                     </div>
                 </div>
             </div>
