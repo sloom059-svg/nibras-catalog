@@ -443,9 +443,14 @@
         {
           "emoji": "▶️",
           "title": "عائلة مشمش",
-          "subtitle": "الحلقات العربية",
-          "query": "PLbwI0LE0f2MHYp-sLfpkab-uU6HTYADT9",
-          "minDurationMs": 0
+          "subtitle": "الموسم الأول — 12 حلقة",
+          "query": "nibras:manual:mshmsh-archive-v1",
+          "minDurationMs": 0,
+          "source": "archive",
+          "contentId": "moshaya-fgvfthhv",
+          "audioProfile": "mapped",
+          "audioOffsetMs": 13500,
+          "maxItems": 12
         },
         {
           "emoji": "▶️",
