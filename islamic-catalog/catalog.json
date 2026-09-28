@@ -19,7 +19,10 @@
           "emoji": "🧢",
           "title": "منصور",
           "subtitle": "الحلقات العربية",
-          "query": "PLrEO7bVLqAMuA-edJU88wiqFyT0BZQCVB",
+          "query": "nibras:manual:mansour-archive-v1",
+          "source": "archive",
+          "contentId": "MANSOUR-1-5",
+          "audioProfile": "mapped",
           "minDurationMs": 0
         },
         {
