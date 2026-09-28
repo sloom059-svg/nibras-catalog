@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "rules": [
     {
       "matchType": "query",
@@ -43,6 +43,12 @@
       "match": "nibras:manual:grizzy-clean-v1",
       "title": "Grizzy & the Lemmings",
       "startAtMs": 25000
+    },
+    {
+      "matchType": "query",
+      "match": "nibras:manual:pingu-dailymotion-v1",
+      "title": "Pingu",
+      "startAtMs": 6000
     }
   ]
 }
