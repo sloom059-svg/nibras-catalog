@@ -1329,10 +1329,10 @@
         {
           "emoji": "🐧",
           "title": "Pingu",
-          "subtitle": "5 حلقات من Dailymotion",
+          "subtitle": "5 حلقات بالصوت المنقّى",
           "query": "nibras:manual:pingu-dailymotion-v1",
           "source": "dailymotion",
-          "audioProfile": "original",
+          "audioProfile": "mapped",
           "minDurationMs": 0,
           "maxItems": 5,
           "manualVideos": [
@@ -1342,7 +1342,8 @@
               "title": "Pingu - Pingu's Bouncy Fun",
               "image": "https://www.dailymotion.com/thumbnail/video/x9reif8",
               "author": "Classic Kids TV",
-              "audioProfile": "original"
+              "audioProfile": "mapped",
+              "audioKey": "x9reif8"
             },
             {
               "id": "x9lbwpa",
@@ -1350,7 +1351,8 @@
               "title": "Pingu - Pinga's Balloon",
               "image": "https://www.dailymotion.com/thumbnail/video/x9lbwpa",
               "author": "Classic Kids TV",
-              "audioProfile": "original"
+              "audioProfile": "mapped",
+              "audioKey": "x9lbwpa"
             },
             {
               "id": "x9la1m0",
@@ -1358,7 +1360,8 @@
               "title": "Pingu - Pingu and Pinga Go Camping",
               "image": "https://www.dailymotion.com/thumbnail/video/x9la1m0",
               "author": "Classic Kids TV",
-              "audioProfile": "original"
+              "audioProfile": "mapped",
+              "audioKey": "x9la1m0"
             },
             {
               "id": "x9l2fpm",
@@ -1366,7 +1369,8 @@
               "title": "Pingu - Pingu the Snowboarder",
               "image": "https://www.dailymotion.com/thumbnail/video/x9l2fpm",
               "author": "Classic Kids TV",
-              "audioProfile": "original"
+              "audioProfile": "mapped",
+              "audioKey": "x9l2fpm"
             },
             {
               "id": "x99txms",
@@ -1374,7 +1378,8 @@
               "title": "Pingu - Pingu and the Rubberband Plane",
               "image": "https://www.dailymotion.com/thumbnail/video/x99txms",
               "author": "Classic Kids TV",
-              "audioProfile": "original"
+              "audioProfile": "mapped",
+              "audioKey": "x99txms"
             }
           ]
         }
