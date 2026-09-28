@@ -8,7 +8,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>نبراس | مشاهدة مرتبة وآمنة أكثر للأطفال</title>
+    <title>نبراس | عالم الترفيه الآمن</title>
 
     <!-- Tailwind CSS -->
 
@@ -40,21 +40,15 @@
 
                     colors: {
 
-                        brandDark: '#0B0D17',
+                        appDark: '#05050A',
 
-                        brandCard: '#151928',
+                        cardDark: '#0D0E15',
 
-                        brandAccent: '#fc7c7b', // السلموني من تطبيقك
+                        brandAccent: '#FF5757', // لون عصري وحيوي
 
-                        brandBlue: '#3B82F6',
+                        brandCyan: '#00F0FF',
 
-                        downloader: '#FF6B00'
-
-                    },
-
-                    backgroundImage: {
-
-                        'hero-glow': 'radial-gradient(circle at 50% -20%, rgba(99, 102, 241, 0.15) 0%, rgba(11, 13, 23, 1) 70%)',
+                        brandPurple: '#8A2BE2'
 
                     }
 
@@ -72,292 +66,261 @@
 
         body {
 
-            background-color: #0B0D17;
+            background-color: #05050A;
 
             color: #fff;
 
             overflow-x: hidden;
 
+            background-image: 
+
+                radial-gradient(circle at 15% 50%, rgba(138, 43, 226, 0.08) 0%, transparent 50%),
+
+                radial-gradient(circle at 85% 30%, rgba(0, 240, 255, 0.08) 0%, transparent 50%);
+
         }
 
 
 
-        /* تأثير الزجاج الفخم */
+        /* حاوية زجاجية حديثة */
 
-        .glass-card {
+        .glass-bento {
 
-            background: rgba(255, 255, 255, 0.03);
+            background: linear-gradient(145deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%);
 
             backdrop-filter: blur(20px);
 
             -webkit-backdrop-filter: blur(20px);
 
-            border: 1px solid rgba(255, 255, 255, 0.08);
+            border: 1px solid rgba(255,255,255,0.05);
 
-            box-shadow: 0 30px 60px -15px rgba(0, 0, 0, 0.8), inset 0 0 20px rgba(255,255,255,0.02);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+
+            transition: transform 0.3s ease, border-color 0.3s ease;
+
+        }
+
+        .glass-bento:hover {
+
+            transform: translateY(-5px);
+
+            border-color: rgba(255, 255, 255, 0.1);
 
         }
 
 
 
-        /* حركة الطفو للعناصر */
+        /* تحريك التلفزيون ثلاثي الأبعاد */
 
-        @keyframes float {
+        .tv-3d-wrapper {
 
-            0%, 100% { transform: translateY(0); }
-
-            50% { transform: translateY(-15px); }
+            perspective: 1200px;
 
         }
 
-        .animate-float {
+        .tv-3d-content {
 
-            animation: float 6s ease-in-out infinite;
+            transform: rotateY(-12deg) rotateX(4deg);
+
+            transform-style: preserve-3d;
+
+            box-shadow: -30px 40px 60px -20px rgba(0,0,0,0.8), 0 0 40px rgba(0, 240, 255, 0.15);
+
+            transition: transform 0.7s cubic-bezier(0.2, 0.8, 0.2, 1);
 
         }
 
-        .animate-float-delayed {
+        .tv-3d-wrapper:hover .tv-3d-content {
 
-            animation: float 6s ease-in-out 3s infinite;
-
-        }
-
-
-
-        /* تأثير لمعان الزر */
-
-        .btn-glow:hover {
-
-            box-shadow: 0 0 25px rgba(252, 124, 123, 0.5);
+            transform: rotateY(-5deg) rotateX(2deg) translateY(-10px);
 
         }
 
 
 
-        /* كود داونلودر - محاكاة الأيقونة */
+        /* ألوان متدرجة للنصوص */
 
-        .downloader-icon {
+        .text-gradient {
 
-            background: linear-gradient(135deg, #FF8C00, #FF4500);
+            background-clip: text;
 
-            box-shadow: 0 4px 15px rgba(255, 107, 0, 0.3);
+            -webkit-background-clip: text;
+
+            -webkit-text-fill-color: transparent;
 
         }
 
-    
-      /* NIBRAS_FONT_OVERRIDE */
-      html, body, button, input, select, textarea { font-family:'Cairo',sans-serif!important; }
-      body { letter-spacing:0; }
+        /* حركة الكود */
 
-      /* HERO_SCALE_FIX */
-      .hero-copy-title{
-        font-size:clamp(2.3rem,4.5vw,4.7rem)!important;
-        line-height:1.16!important;
-      }
-      .hero-copy-desc{
-        font-size:clamp(.98rem,1.5vw,1.18rem)!important;
-        line-height:1.9!important;
-      }
-      .hero-copy-badge{
-        font-size:.82rem!important;
-        padding:.42rem .9rem!important;
-      }
-      @media (max-width:1024px){
-        .hero-copy-title{
-          font-size:clamp(2.2rem,6vw,3.8rem)!important;
-          line-height:1.2!important;
-        }
-      }
-      @media (max-width:680px){
-        .hero-copy-title{
-          font-size:2.15rem!important;
-          line-height:1.25!important;
-        }
-        .hero-copy-desc{
-          font-size:.95rem!important;
-          line-height:1.85!important;
-        }
-        .hero-copy-badge{
-          font-size:.74rem!important;
-          line-height:1.55!important;
-        }
-      }
-  
-      .downloader-fallback{background:linear-gradient(135deg,#FF8C00,#FF4500)!important;position:relative}
-      .downloader-fallback::after{content:'↓';color:#fff;font-weight:900;font-size:1.35rem;line-height:1}
-  </style>
+        @keyframes pulse-border {
 
-    <meta name="description" content="نبراس: محتوى أطفال مختار بعناية، بدون إعلانات وبدون Shorts وبدون اقتراحات غير مرغوبة، مع تجربة مجانية 7 أيام.">
+            0% { box-shadow: 0 0 0 0 rgba(255, 87, 87, 0.4); }
+
+            70% { box-shadow: 0 0 0 15px rgba(255, 87, 87, 0); }
+
+            100% { box-shadow: 0 0 0 0 rgba(255, 87, 87, 0); }
+
+        }
+
+        .pulse-code {
+
+            animation: pulse-border 2s infinite;
+
+        }
+
+    </style>
+
 </head>
 
-<!-- NIBRAS_DARK_LANDING_2026_09_29 -->
-<body class="bg-hero-glow font-sans antialiased selection:bg-brandAccent selection:text-white">
+<body class="antialiased selection:bg-brandAccent selection:text-white">
 
 
 
-    <!-- مؤثرات ضوئية في الخلفية (Blur Orbs) -->
+    <nav class="fixed top-0 w-full z-50 bg-[#05050A]/80 backdrop-blur-lg border-b border-white/5">
 
-    <div class="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none z-0">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
 
-        <div class="absolute top-[-10%] right-[-5%] w-[500px] h-[500px] bg-indigo-600/20 rounded-full blur-[120px]"></div>
+            <div class="flex items-center gap-3">
 
-        <div class="absolute top-[40%] left-[-10%] w-[400px] h-[400px] bg-brandAccent/10 rounded-full blur-[100px]"></div>
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-brandAccent to-orange-500 flex items-center justify-center shadow-lg">
 
-    </div>
-
-
-
-    <!-- Header / Navbar -->
-
-    <header class="relative z-20 w-full max-w-7xl mx-auto px-6 py-6 flex justify-between items-center">
-
-        <div class="flex items-center gap-3">
-            <img src="./images/nibras-logo-full.png?v=4" alt="نبراس" class="h-14 md:h-16 w-auto object-contain drop-shadow-[0_10px_25px_rgba(0,0,0,0.35)]">
-        </div>
-
-        <div class="hidden md:flex items-center gap-2">
-            <a href="#devices" class="text-gray-300 hover:text-white px-3 py-2 font-bold transition-colors">الأجهزة</a>
-            <a href="#download-app" class="text-gray-300 hover:text-white px-3 py-2 font-bold transition-colors">التحميل</a>
-            <a href="#faq" class="text-gray-300 hover:text-white px-3 py-2 font-bold transition-colors">الأسئلة</a>
-            <a href="#subscribe" class="flex items-center gap-2 bg-white/10 hover:bg-white/20 border border-white/10 px-6 py-2.5 rounded-full font-bold transition-all">
-                جرّب 7 أيام مجانًا
-            </a>
-        </div>
-
-    </header>
-
-
-
-    <!-- Hero Section -->
-
-    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 pt-12 pb-24 lg:pt-20 lg:pb-32 flex flex-col lg:flex-row items-center gap-16">
-
-        <!-- Texts & CTAs -->
-
-        <div class="flex-1 text-center lg:text-right">
-
-            <div class="hero-copy-badge inline-block bg-brandAccent/10 border border-brandAccent/20 text-brandAccent font-bold px-4 py-1.5 rounded-full text-sm mb-6">
-
-                مشاهدة أهدأ، ومحتوى مرتب لطفلك
-
-            </div>
-
-            <h2 class="hero-copy-title font-black text-white mb-6 drop-shadow-lg">
-
-                كل اللي يحبه طفلك، <br>
-                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brandAccent to-orange-400">بدون فوضى يوتيوب.</span>
-
-            </h2>
-
-            <p class="hero-copy-desc text-gray-400 mb-10 max-w-2xl mx-auto lg:mx-0">
-
-                نبراس يجمع لطفلك المحتوى المختار في مكان واحد: بدون إعلانات، بدون Shorts، وبدون اقتراحات عشوائية — مع تحكم أبوي واضح وتجربة مشاهدة أهدأ.
-
-            </p>
-
-
-
-            <!-- Download Action Area -->
-
-            <div id="download" class="glass-card p-2 rounded-[2rem] inline-flex flex-col sm:flex-row items-center gap-4 w-full sm:w-auto max-w-xl mx-auto lg:mx-0 relative">
-
-                <!-- زر التحميل المباشر -->
-
-                <a href="/download" data-nibras-download class="w-full sm:w-auto flex-1 bg-brandAccent hover:bg-opacity-90 text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 transition-all btn-glow">
-
-                    <i class="fa-brands fa-android text-2xl"></i>
-
-                    <span>تحميل مباشر (APK)</span>
-
-                </a>
-
-
-
-                <!-- كود داونلودر -->
-
-                <div class="w-full sm:w-auto px-6 py-3 flex items-center justify-center gap-4 bg-black/30 rounded-full border border-white/5">
-
-                    <div class="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center shadow-lg">
-                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/website/downloader-logo-v2.png?v=5" alt="Downloader" class="w-full h-full object-contain" onerror="this.style.display='none';this.parentElement.classList.add('downloader-fallback')">
-                    </div>
-
-                    <div class="flex flex-col text-right">
-
-                        <span class="text-[10px] text-gray-400 font-bold tracking-wider">كود Downloader</span>
-
-                        <span class="text-2xl font-mono font-black text-white tracking-widest">36300987</span>
-
-                    </div>
+                    <i class="fa-solid fa-play text-white text-sm ml-1"></i>
 
                 </div>
 
+                <h1 class="text-2xl font-black tracking-wide text-white">نبراس</h1>
+
             </div>
 
-            <p class="text-xs text-gray-500 mt-4 font-semibold text-center lg:text-right">
+            <a href="#download-section" class="bg-white text-appDark px-6 py-2 rounded-full font-bold text-sm hover:bg-gray-200 transition-colors shadow-[0_0_15px_rgba(255,255,255,0.3)]">
 
-                متوافق مع Android TV وGoogle TV، الشاشات الذكية، Xiaomi TV Stick، الأجهزة اللوحية (Tablets)، وأجهزة أندرويد
+                حمل التطبيق الآن
 
-            </p>
-
-            <div class="mt-7 flex flex-col sm:flex-row items-center gap-3 justify-center lg:justify-start">
-                <a href="https://nmboxes.com/payment/p1354192263" class="w-full sm:w-auto bg-white text-brandDark hover:bg-gray-100 font-black px-7 py-3.5 rounded-full flex items-center justify-center gap-2 transition-all">
-                    <i class="fa-solid fa-cart-shopping text-brandAccent"></i>
-                    <span>الاشتراك عبر سلة</span>
-                </a>
-                <span class="text-sm text-gray-400 font-bold">7 أيام مجانًا — ثم 99 ريال سنويًا</span>
-            </div>
+            </a>
 
         </div>
 
+    </nav>
 
 
-        <!-- TV Mockup Image -->
 
-        <div class="flex-1 relative w-full max-w-2xl mx-auto animate-float">
+    <header class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 overflow-hidden">
 
-            <!-- إطار التلفزيون الوهمي -->
+        <div class="max-w-7xl mx-auto px-6 grid lg:grid-cols-2 gap-16 items-center">
 
-            <div class="relative bg-black p-3 rounded-[2rem] border-b-4 border-gray-800 shadow-[0_30px_60px_rgba(0,0,0,0.8)] border border-gray-700/50">
+            <!-- النصوص والأزرار -->
 
-                <div class="overflow-hidden rounded-2xl relative aspect-video bg-brandCard">
+            <div class="flex flex-col items-center lg:items-start text-center lg:text-right relative z-10">
 
-                    <!-- بداية واجهة التطبيق المصغرة (Mockup) -->
+                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brandCyan/10 border border-brandCyan/20 text-brandCyan font-bold text-xs mb-6">
 
-                    <div class="absolute inset-0 bg-[#0f111a] flex flex-row-reverse overflow-hidden font-sans select-none" dir="rtl">
+                    <span class="w-2 h-2 rounded-full bg-brandCyan animate-pulse"></span>
 
-                        <!-- القائمة الجانبية (يمين) -->
+                    التحديث الجديد متاح الآن
 
-                        <div class="w-[12%] max-w-[60px] h-full bg-[#151928] border-l border-white/5 flex flex-col items-center py-3 justify-between z-20 shadow-[-10px_0_20px_rgba(0,0,0,0.5)]">
+                </div>
 
-                            <div class="flex flex-col items-center gap-1">
+                <h2 class="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-6">
 
-                                <div class="w-7 h-7 flex items-center justify-center mb-1">
-                                    <img src="./images/nibras-logo-symbol.png?v=4" alt="نبراس" class="w-full h-full object-contain">
-                                </div>
+                    محتوى آمن لطفلك، <br>
 
-                                <span class="text-white text-[8px] font-black tracking-tighter">نبراس</span>
+                    <span class="bg-gradient-to-l from-brandAccent to-brandPurple text-gradient">وراحة بال لا تُقدر بثمن.</span>
+
+                </h2>
+
+                <p class="text-gray-400 text-base md:text-lg mb-10 max-w-xl leading-relaxed font-light">
+
+                    حوّل شاشتك الذكية إلى منصة ترفيهية وتعليمية خالية من الإعلانات والمفاجآت المزعجة، مع أدوات تحكم أبوية هي الأقوى من نوعها.
+
+                </p>
+
+
+
+                <!-- أزرار التحميل السريعة -->
+
+                <div class="flex flex-col sm:flex-row gap-5 w-full max-w-md lg:max-w-none">
+
+                    <!-- بطاقة كود داونلودر الفخمة -->
+
+                    <div class="pulse-code bg-gradient-to-r from-[#FF8C00] to-[#FF4500] p-[2px] rounded-2xl flex-1 cursor-pointer hover:scale-105 transition-transform" title="رقم كود تطبيق Downloader">
+
+                        <div class="bg-cardDark h-full w-full rounded-[14px] px-6 py-3 flex items-center justify-between gap-4">
+
+                            <div class="flex flex-col text-right">
+
+                                <span class="text-xs text-gray-400 font-semibold mb-1">كود Downloader</span>
+
+                                <span class="text-3xl font-mono font-black text-white tracking-widest leading-none">74920</span>
 
                             </div>
 
-                            <div class="flex flex-col gap-4 text-gray-500 text-xs">
+                            <div class="w-12 h-12 rounded-xl bg-orange-500/20 flex items-center justify-center text-orange-500">
 
-                                <div class="relative flex justify-center w-full">
-
-                                    <div class="absolute right-0 top-1/2 -translate-y-1/2 w-1 h-4 bg-blue-500 rounded-l-full"></div>
-
-                                    <i class="fa-solid fa-house text-blue-500"></i>
-
-                                </div>
-
-                                <i class="fa-solid fa-heart hover:text-white transition-colors"></i>
-
-                                <i class="fa-brands fa-youtube hover:text-white transition-colors"></i>
+                                <i class="fa-solid fa-cloud-arrow-down text-2xl"></i>
 
                             </div>
 
-                            <div class="flex flex-col gap-4 text-gray-500 text-xs">
+                        </div>
 
-                                <i class="fa-solid fa-gear hover:text-white transition-colors"></i>
+                    </div>
+
+
+
+                    <!-- زر الـ APK المباشر -->
+
+                    <a href="#" class="flex-1 bg-white hover:bg-gray-100 text-appDark rounded-2xl flex items-center justify-center gap-3 px-6 py-4 font-black text-lg transition-colors shadow-xl">
+
+                        <i class="fa-brands fa-android text-2xl text-emerald-500"></i>
+
+                        <span>تحميل مباشر</span>
+
+                    </a>
+
+                </div>
+
+                <p class="text-xs text-gray-500 mt-5 font-medium flex items-center gap-2">
+
+                    <i class="fa-solid fa-tv"></i> متوافق مع Android TV والأجهزة اللوحية
+
+                </p>
+
+            </div>
+
+
+
+            <div class="tv-3d-wrapper relative w-full h-[350px] md:h-[450px] flex items-center justify-center">
+
+                <!-- إطار التلفزيون -->
+
+                <div class="tv-3d-content relative w-[95%] max-w-[600px] aspect-video bg-[#0f111a] rounded-2xl border-[6px] border-gray-800 overflow-hidden">
+
+                    <!-- محاكاة واجهة التطبيق داخل التلفزيون -->
+
+                    <div class="absolute inset-0 flex flex-row-reverse select-none" dir="rtl">
+
+                        <!-- القائمة الجانبية -->
+
+                        <div class="w-16 h-full bg-[#151928]/90 backdrop-blur-md border-l border-white/5 flex flex-col items-center py-4 justify-between z-20">
+
+                            <div class="w-8 h-8 rounded-full bg-gradient-to-br from-brandAccent to-orange-500 flex items-center justify-center shadow-lg mb-6">
+
+                                <i class="fa-solid fa-play text-white text-[10px] ml-0.5"></i>
+
+                            </div>
+
+                            <div class="flex flex-col gap-5 text-gray-500 text-sm flex-1 mt-4">
+
+                                <div class="relative w-full flex justify-center text-brandCyan"><i class="fa-solid fa-house"></i></div>
+
+                                <i class="fa-solid fa-heart"></i>
+
+                                <i class="fa-brands fa-youtube"></i>
+
+                            </div>
+
+                            <div class="flex flex-col gap-5 text-gray-500 text-sm pb-2">
+
+                                <i class="fa-solid fa-gear"></i>
 
                                 <i class="fa-solid fa-user-astronaut text-purple-400"></i>
 
@@ -369,93 +332,37 @@
 
                         <!-- المساحة الرئيسية -->
 
-                        <div class="flex-1 relative h-full flex flex-col justify-end">
+                        <div class="flex-1 relative h-full bg-gradient-to-b from-gray-900 to-[#0f111a]">
 
-                            <!-- صورة الغلاف (الهيرو) -->
+                            <!-- غلاف وهمي -->
 
-                            <div class="absolute inset-0 bg-cover bg-center" style="background-image: url('https://images2.alphacoders.com/135/thumb-1920-1356807.jpeg');"></div>
+                            <div class="absolute top-0 left-0 w-full h-[60%] bg-cover bg-center opacity-40" style="background-image: url('https://images.unsplash.com/photo-1596461404969-9ae70f2830c1?q=80&w=600&auto=format&fit=crop');"></div>
 
-                            <!-- التدرجات اللونية لدمج الصورة -->
+                            <div class="absolute top-0 left-0 w-full h-[60%] bg-gradient-to-t from-[#0f111a] to-transparent"></div>
 
-                            <div class="absolute inset-0 bg-gradient-to-t from-[#0f111a] via-[#0f111a]/80 to-transparent"></div>
+                            <div class="absolute bottom-0 left-0 w-full p-5 z-10 flex flex-col justify-end h-full">
 
-                            <div class="absolute inset-0 bg-gradient-to-l from-[#0f111a] via-[#0f111a]/50 to-transparent"></div>
+                                <h3 class="text-white text-2xl font-black mb-1">المغامرات</h3>
 
-
-
-                            <!-- المحتوى (النصوص والأزرار) -->
-
-                            <div class="relative z-10 px-6 pb-3 w-full">
-
-                                <h3 class="text-white text-3xl font-black mb-1 drop-shadow-lg">المغامرات</h3>
-
-                                <p class="text-gray-300 text-xs mb-3 font-semibold">أبطال ورحلات مشوقة</p>
+                                <p class="text-gray-300 text-[10px] mb-3">عالم من التشويق والأبطال</p>
 
                                 <div class="flex gap-2 mb-4">
 
-                                    <button class="bg-white text-black px-4 py-1.5 rounded-full text-[10px] font-bold flex items-center gap-1.5 hover:scale-105 transition-transform">
+                                    <button class="bg-white text-black px-4 py-1.5 rounded-full text-[10px] font-bold">تشغيل</button>
 
-                                        <i class="fa-solid fa-play text-[10px]"></i> تشغيل
-
-                                    </button>
-
-                                    <button class="bg-gray-600/60 text-white px-4 py-1.5 rounded-full text-[10px] font-bold flex items-center gap-1.5 backdrop-blur-md border border-white/10">
-
-                                        <i class="fa-solid fa-plus text-[10px]"></i> قائمتي
-
-                                    </button>
+                                    <button class="bg-gray-600/50 text-white px-4 py-1.5 rounded-full text-[10px] font-bold backdrop-blur-md">قائمتي</button>
 
                                 </div>
 
+                                <!-- كروت وهمية -->
 
+                                <div class="flex gap-3 overflow-hidden">
 
-                                <!-- شريط الأقسام السفلي -->
+                                    <div class="w-1/3 aspect-[16/9] bg-gray-800 rounded-lg shadow-lg border border-brandCyan/50 scale-105"></div>
 
-                                <div class="flex items-center gap-2 mb-2">
+                                    <div class="w-1/3 aspect-[16/9] bg-gray-800/50 rounded-lg"></div>
 
-                                    <div class="w-1 h-3 bg-brandBlue rounded-full"></div>
-
-                                    <h4 class="text-white text-[11px] font-bold">عالم الترفيه والمرح</h4>
-
-                                </div>
-
-                                <div class="flex gap-3 overflow-hidden pb-1">
-
-                                    <!-- البطاقة الأولى -->
-
-                                    <div class="w-1/3 aspect-[16/9] bg-gray-800 rounded-lg overflow-hidden relative shadow-lg">
-
-                                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/values_islam_family_1536x1024.jpg" class="w-full h-full object-cover opacity-80" alt="القيم والإسلام">
-
-                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-
-                                        <div class="absolute bottom-1.5 right-2 text-white text-[9px] font-bold">القيم والإسلام</div>
-
-                                    </div>
-
-                                    <!-- البطاقة الثانية (نشطة/Focus) -->
-
-                                    <div class="w-1/3 aspect-[16/9] bg-gray-800 rounded-lg overflow-hidden relative shadow-[0_0_15px_rgba(255,255,255,0.3)] border border-white/40 transform scale-[1.02]">
-
-                                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg" class="w-full h-full object-cover opacity-90" alt="أفلام كرتون">
-
-                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-
-                                        <div class="absolute bottom-1.5 right-2 text-white text-[9px] font-bold">أفلام كرتون</div>
-
-                                    </div>
-
-                                    <!-- البطاقة الثالثة -->
-
-                                    <div class="w-1/3 aspect-[16/9] bg-gray-800 rounded-lg overflow-hidden relative shadow-lg">
-
-                                        <img src="https://wallpaperaccess.com/full/7426975.jpg" class="w-full h-full object-cover opacity-80" alt="المسلسلات">
-
-                                        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-
-                                        <div class="absolute bottom-1.5 right-2 text-white text-[9px] font-bold">المسلسلات</div>
-
-                                    </div>
+                                    <div class="w-1/3 aspect-[16/9] bg-gray-800/50 rounded-lg"></div>
 
                                 </div>
 
@@ -465,251 +372,115 @@
 
                     </div>
 
-                    <!-- نهاية واجهة التطبيق المصغرة -->
-
-
-
-                </div>
-
-                <!-- حامل التلفزيون -->
-
-                <div class="absolute -bottom-6 left-1/2 -translate-x-1/2 w-40 h-6 bg-gradient-to-b from-gray-800 to-gray-900 rounded-b-xl"></div>
-
-            </div>
-
-            <!-- عنصر طافي لتزيين الموكب -->
-
-            <div class="absolute -right-8 -top-8 glass-card p-4 rounded-2xl flex items-center gap-4 animate-float-delayed">
-
-                <div class="w-12 h-12 rounded-full bg-emerald-500/20 flex items-center justify-center">
-
-                    <i class="fa-solid fa-shield-check text-emerald-400 text-2xl"></i>
-
-                </div>
-
-                <div>
-
-                    <p class="text-sm font-bold text-white">آمن 100%</p>
-
-                    <p class="text-xs text-gray-400">خالٍ من الإعلانات</p>
-
                 </div>
 
             </div>
 
         </div>
 
-    </section>
+    </header>
 
 
 
-    <!-- Features Section (Split: Parents vs Kids) -->
-
-    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
+    <section class="max-w-7xl mx-auto px-6 py-20">
 
         <div class="text-center mb-16">
 
-            <h2 class="text-4xl font-black text-white mb-4">صُمم ليرضي الطرفين</h2>
+            <h2 class="text-3xl lg:text-5xl font-black text-white mb-4">كل ما تحتاجه في تطبيق واحد</h2>
 
-            <p class="text-gray-400 max-w-2xl mx-auto">معادلة نبراس الصعبة: ترفيه لا حدود له للأطفال، وطمأنينة وراحة بال لا مثيل لها للآباء.</p>
+            <p class="text-gray-400 font-light max-w-2xl mx-auto">تصميم شبكي يوضح لك أبرز الإمكانيات التي يوفرها نبراس لك ولعائلتك.</p>
 
         </div>
 
 
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 lg:gap-12">
+        <!-- Bento Grid Layout -->
 
-            <!-- قسم الآباء (Parents) -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 auto-rows-[250px]">
 
-            <div class="glass-card rounded-[2.5rem] p-10 relative overflow-hidden group">
+            <!-- Box 1: الرقابة الأبوية (Span 2) -->
 
-                <div class="absolute top-0 right-0 w-64 h-64 bg-emerald-600/10 rounded-full blur-[80px] -translate-y-1/2 translate-x-1/2 group-hover:bg-emerald-600/20 transition-all duration-700"></div>
+            <div class="glass-bento rounded-3xl p-8 md:col-span-2 flex flex-col justify-end relative overflow-hidden group">
 
-                <div class="flex items-center gap-4 mb-8 relative z-10">
+                <div class="absolute top-[-50px] left-[-50px] w-64 h-64 bg-brandPurple/20 rounded-full blur-[80px] group-hover:bg-brandPurple/30 transition-all"></div>
 
-                    <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-600 flex items-center justify-center shadow-lg">
+                <div class="absolute top-8 right-8 w-14 h-14 rounded-2xl bg-white/5 flex items-center justify-center border border-white/10">
 
-                        <i class="fa-solid fa-user-shield text-white text-3xl"></i>
-
-                    </div>
-
-                    <h3 class="text-3xl font-black text-white">طمأنينة الآباء</h3>
+                    <i class="fa-solid fa-user-shield text-2xl text-brandPurple"></i>
 
                 </div>
 
+                <h3 class="text-2xl font-black text-white mb-2 relative z-10">رقابة أبوية صارمة</h3>
 
-
-                <div class="space-y-6 relative z-10">
-
-                    <div class="flex gap-4">
-
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-emerald-400 border border-white/10">
-
-                            <i class="fa-solid fa-clock"></i>
-
-                        </div>
-
-                        <div>
-
-                            <h4 class="text-lg font-bold text-white mb-1">المؤقت الذكي</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">حدد أوقات المشاهدة وفترات الراحة بمرونة. التطبيق يقفل تلقائياً عند انتهاء الوقت.</p>
-
-                        </div>
-
-                    </div>
-
-                    <div class="flex gap-4">
-
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-emerald-400 border border-white/10">
-
-                            <i class="fa-solid fa-lock"></i>
-
-                        </div>
-
-                        <div>
-
-                            <h4 class="text-lg font-bold text-white mb-1">قفل برقم سري (PIN)</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">منع الخروج من التطبيق أو تغيير الإعدادات إلا برمز سري خاص بك.</p>
-
-                        </div>
-
-                    </div>
-
-                    <div class="flex gap-4">
-
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-emerald-400 border border-white/10">
-
-                            <i class="fa-solid fa-ban"></i>
-
-                        </div>
-
-                        <div>
-
-                            <h4 class="text-lg font-bold text-white mb-1">بيئة خالية من الإعلانات</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">لا إعلانات مفاجئة، لا محتوى غير لائق. فقط ما تراه مناسباً لطفلك.</p>
-
-                        </div>
-
-                    </div>
-
-                    <div class="flex gap-4">
-
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-emerald-400 border border-white/10">
-
-                            <i class="fa-solid fa-filter-circle-xmark"></i>
-
-                        </div>
-
-                        <div>
-
-                            <h4 class="text-lg font-bold text-white mb-1">بدون Shorts واقتراحات عشوائية</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">رحلة المشاهدة تبقى داخل أقسام نبراس المختارة بدل التشتت بين المقاطع القصيرة والاقتراحات المفتوحة.</p>
-
-                        </div>
-
-                    </div>
-
-                </div>
+                <p class="text-gray-400 font-light text-sm relative z-10 w-3/4">مؤقت ذكي للمشاهدة، وقفل برقم سري يمنع الطفل من الخروج أو تغيير الإعدادات دون إذنك.</p>
 
             </div>
 
 
 
-            <!-- قسم الأطفال (Kids) -->
+            <!-- Box 2: بدون إعلانات -->
 
-            <div class="glass-card rounded-[2.5rem] p-10 relative overflow-hidden group">
+            <div class="glass-bento rounded-3xl p-8 flex flex-col justify-end relative overflow-hidden group text-center items-center">
 
-                <div class="absolute top-0 left-0 w-64 h-64 bg-brandAccent/10 rounded-full blur-[80px] -translate-y-1/2 -translate-x-1/2 group-hover:bg-brandAccent/20 transition-all duration-700"></div>
+                <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-32 h-32 bg-brandAccent/10 rounded-full blur-[50px]"></div>
 
-                <div class="flex items-center gap-4 mb-8 relative z-10">
+                <div class="w-16 h-16 rounded-full bg-brandAccent/20 flex items-center justify-center mb-4 relative z-10">
 
-                    <div class="w-16 h-16 rounded-2xl bg-gradient-to-br from-brandAccent to-orange-500 flex items-center justify-center shadow-lg">
-
-                        <i class="fa-solid fa-rocket text-brandDark text-3xl"></i>
-
-                    </div>
-
-                    <h3 class="text-3xl font-black text-white">متعة الأطفال</h3>
+                    <i class="fa-solid fa-ban text-3xl text-brandAccent"></i>
 
                 </div>
 
+                <h3 class="text-xl font-black text-white mb-1 relative z-10">0% إعلانات</h3>
+
+                <p class="text-gray-400 font-light text-xs relative z-10">بيئة نقية تماماً من المشتتات.</p>
+
+            </div>
 
 
-                <div class="space-y-6 relative z-10">
 
-                    <div class="flex gap-4">
+            <!-- Box 3: محتوى متجدد -->
 
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-brandAccent border border-white/10">
+            <div class="glass-bento rounded-3xl p-8 flex flex-col justify-end relative overflow-hidden group">
 
-                            <i class="fa-solid fa-masks-theater"></i>
+                <div class="w-12 h-12 rounded-2xl bg-brandCyan/20 flex items-center justify-center mb-auto border border-brandCyan/20">
 
-                        </div>
+                    <i class="fa-solid fa-clapperboard text-xl text-brandCyan"></i>
 
-                        <div>
+                </div>
 
-                            <h4 class="text-lg font-bold text-white mb-1">مكتبة ضخمة ومتجددة</h4>
+                <h3 class="text-xl font-black text-white mb-2 relative z-10">مكتبة متجددة</h3>
 
-                            <p class="text-sm text-gray-400 leading-relaxed">آلاف الحلقات من المسلسلات والأفلام الكرتونية الممتعة والآمنة.</p>
+                <p class="text-gray-400 font-light text-xs relative z-10">آلاف الحلقات من مسلسلات وأفلام الكرتون الهادفة والتعليمية.</p>
 
-                        </div>
+            </div>
 
-                    </div>
 
-                    <div class="flex gap-4">
 
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-brandAccent border border-white/10">
+            <!-- Box 4: الواجهة (Span 2) -->
 
-                            <i class="fa-solid fa-gamepad"></i>
+            <div class="glass-bento rounded-3xl p-8 md:col-span-2 flex items-center gap-6 relative overflow-hidden group">
 
-                        </div>
+                <div class="flex-1">
 
-                        <div>
+                    <div class="w-12 h-12 rounded-2xl bg-orange-500/20 flex items-center justify-center mb-4 border border-orange-500/20">
 
-                            <h4 class="text-lg font-bold text-white mb-1">واجهة سهلة وساحرة</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">مصممة خصيصاً ليتمكن الطفل من التصفح باستخدام الريموت بكل سهولة ومرح.</p>
-
-                        </div>
+                        <i class="fa-solid fa-gamepad text-xl text-orange-500"></i>
 
                     </div>
 
-                    <div class="flex gap-4">
+                    <h3 class="text-2xl font-black text-white mb-2 relative z-10">واجهة صُممت للأطفال</h3>
 
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-brandAccent border border-white/10">
+                    <p class="text-gray-400 font-light text-sm relative z-10">ألوان جذابة، نصوص مقروءة، وسهولة تامة في التنقل باستخدام ريموت التلفزيون أو اللمس.</p>
 
-                            <i class="fa-solid fa-lightbulb"></i>
+                </div>
 
-                        </div>
+                <!-- صورة توضيحية مصغرة داخل الصندوق -->
 
-                        <div>
+                <div class="hidden sm:block w-48 h-full bg-white/5 rounded-2xl border border-white/10 relative overflow-hidden">
 
-                            <h4 class="text-lg font-bold text-white mb-1">محتوى هادف وتعليمي</h4>
+                    <div class="absolute inset-0 flex items-center justify-center text-gray-600">
 
-                            <p class="text-sm text-gray-400 leading-relaxed">برامج تنمي ذكاء طفلك ومهاراته اللغوية وتغرس فيه القيم الأصيلة.</p>
-
-                        </div>
-
-                    </div>
-
-                    <div class="flex gap-4">
-
-                        <div class="w-12 h-12 shrink-0 rounded-full bg-white/5 flex items-center justify-center text-brandAccent border border-white/10">
-
-                            <i class="fa-solid fa-volume-low"></i>
-
-                        </div>
-
-                        <div>
-
-                            <h4 class="text-lg font-bold text-white mb-1">بدون موسيقى صاخبة</h4>
-
-                            <p class="text-sm text-gray-400 leading-relaxed">المحتوى المدعوم يستخدم نسخًا صوتية أنظف وأكثر هدوءًا لتجربة مشاهدة ألطف.</p>
-
-                        </div>
+                        <i class="fa-solid fa-tv text-5xl opacity-50"></i>
 
                     </div>
 
@@ -725,295 +496,77 @@
 
 
 
+    <section id="download-section" class="max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
 
-    <!-- OLD_LANDING_DATA_START -->
+        <div class="bg-cardDark rounded-[3rem] p-10 lg:p-16 border border-white/5 relative overflow-hidden text-center">
 
-    <!-- Supported devices: restored from previous landing page -->
-    <section id="devices" class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="text-center mb-12">
-            <span class="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-400/20 text-blue-300 font-bold px-4 py-2 rounded-full text-sm mb-5">
-                <i class="fa-solid fa-tv"></i> الأجهزة المدعومة
-            </span>
-            <h2 class="text-4xl md:text-5xl font-black text-white mb-4">يعمل على الأجهزة اللي تهمك</h2>
-            <p class="text-gray-400 max-w-3xl mx-auto text-lg">نبراس مناسب للأجهزة التي تستخدمها العائلة للمشاهدة: الشاشات، أجهزة أندرويد، والتابلت.</p>
-        </div>
+            <div class="absolute top-0 left-1/2 -translate-x-1/2 w-full h-1/2 bg-brandAccent/5 blur-[100px] pointer-events-none"></div>
 
-        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-            <div class="glass-card rounded-3xl p-6 text-center">
-                <div class="w-14 h-14 mx-auto rounded-2xl bg-blue-500/15 flex items-center justify-center text-blue-300 text-2xl mb-4"><i class="fa-solid fa-tv"></i></div>
-                <h3 class="text-white font-black">Android TV</h3>
-                <p class="text-gray-500 text-xs mt-2">مناسب للشاشات وأجهزة التلفزيون</p>
-            </div>
-            <div class="glass-card rounded-3xl p-6 text-center">
-                <div class="w-14 h-14 mx-auto rounded-2xl bg-indigo-500/15 flex items-center justify-center text-indigo-300 text-2xl mb-4"><i class="fa-brands fa-google"></i></div>
-                <h3 class="text-white font-black">Google TV</h3>
-                <p class="text-gray-500 text-xs mt-2">تنقل سهل بالريموت داخل التطبيق</p>
-            </div>
-            <div class="glass-card rounded-3xl p-6 text-center">
-                <div class="w-14 h-14 mx-auto rounded-2xl bg-orange-500/15 flex items-center justify-center text-orange-300 text-2xl mb-4"><i class="fa-solid fa-box"></i></div>
-                <h3 class="text-white font-black">Xiaomi TV Stick</h3>
-                <p class="text-gray-500 text-xs mt-2">مناسب لقطع شاومي وأجهزة البث</p>
-            </div>
-            <div class="glass-card rounded-3xl p-6 text-center">
-                <div class="w-14 h-14 mx-auto rounded-2xl bg-emerald-500/15 flex items-center justify-center text-emerald-300 text-2xl mb-4"><i class="fa-solid fa-tablet-screen-button"></i></div>
-                <h3 class="text-white font-black">Android Tablet</h3>
-                <p class="text-gray-500 text-xs mt-2">تجربة لمس مريحة للتابلت</p>
-            </div>
-            <div class="glass-card rounded-3xl p-6 text-center col-span-2 md:col-span-1">
-                <div class="w-14 h-14 mx-auto rounded-2xl bg-brandAccent/15 flex items-center justify-center text-brandAccent text-2xl mb-4"><i class="fa-brands fa-android"></i></div>
-                <h3 class="text-white font-black">أجهزة أندرويد</h3>
-                <p class="text-gray-500 text-xs mt-2">واجهة عربية واضحة وسلسة</p>
-            </div>
-        </div>
-    </section>
+            <h2 class="text-3xl lg:text-4xl font-black text-white mb-6 relative z-10">كيف أقوم بتثبيت نبراس؟</h2>
 
-    <!-- How it works: restored wording -->
-    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="text-center mb-12">
-            <h2 class="text-4xl font-black text-white mb-4">كيف يسهّل نبراس المشاهدة؟</h2>
-            <p class="text-gray-400 max-w-2xl mx-auto">وضوح، ترتيب، وخطوات مباشرة للطفل والعائلة.</p>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
-            <div class="glass-card rounded-[2rem] p-7">
-                <div class="text-brandAccent font-mono text-3xl font-black mb-3">01</div>
-                <h3 class="text-xl text-white font-black mb-2">افتح نبراس</h3>
-                <p class="text-gray-400 text-sm leading-relaxed">واجهة نظيفة ومباشرة، يدخل الطفل للتطبيق بدون تشتت أو خيارات معقدة.</p>
-            </div>
-            <div class="glass-card rounded-[2rem] p-7">
-                <div class="text-brandAccent font-mono text-3xl font-black mb-3">02</div>
-                <h3 class="text-xl text-white font-black mb-2">اختر القسم المناسب</h3>
-                <p class="text-gray-400 text-sm leading-relaxed">المحتوى مرتب داخل أقسام مثل المسلسلات، أفلام كرتون، القيم والإسلام، تعليم القرآن، اكتشف وتعلم والمزيد.</p>
-            </div>
-            <div class="glass-card rounded-[2rem] p-7">
-                <div class="text-brandAccent font-mono text-3xl font-black mb-3">03</div>
-                <h3 class="text-xl text-white font-black mb-2">شاهد بهدوء</h3>
-                <p class="text-gray-400 text-sm leading-relaxed">بدون إعلانات، بدون Shorts، وبدون اقتراحات غير مرغوبة، مع صوت أنظف في المحتوى المدعوم.</p>
-            </div>
-        </div>
-    </section>
+            <p class="text-gray-400 font-light mb-12 max-w-2xl mx-auto relative z-10">طريقة سهلة جداً عبر تطبيق Downloader المتوفر في جميع شاشات أندرويد.</p>
 
-    <!-- Parent area: restored from previous landing page -->
-    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="grid grid-cols-1 lg:grid-cols-[1.2fr_.8fr] gap-8">
-            <div class="glass-card rounded-[2.5rem] p-8 md:p-10">
-                <div class="flex items-center gap-4 mb-6">
-                    <div class="w-14 h-14 rounded-2xl bg-emerald-500/15 flex items-center justify-center text-emerald-300 text-2xl"><i class="fa-solid fa-user-shield"></i></div>
-                    <div>
-                        <h2 class="text-3xl font-black text-white">مساحة الوالدين</h2>
-                        <p class="text-gray-500 text-sm">إدارة الوقت والاشتراك والإعدادات بعيدًا عن واجهة الطفل.</p>
-                    </div>
-                </div>
-                <div class="grid sm:grid-cols-2 gap-3">
-                    <div class="bg-white/[.04] border border-white/[.07] rounded-2xl p-4 text-gray-300"><i class="fa-solid fa-check text-emerald-400 ml-2"></i>تحديد حد يومي للمشاهدة</div>
-                    <div class="bg-white/[.04] border border-white/[.07] rounded-2xl p-4 text-gray-300"><i class="fa-solid fa-check text-emerald-400 ml-2"></i>تحديد وقت آخر حسب احتياج الأسرة</div>
-                    <div class="bg-white/[.04] border border-white/[.07] rounded-2xl p-4 text-gray-300"><i class="fa-solid fa-check text-emerald-400 ml-2"></i>حماية الإعدادات برمز الوالدين</div>
-                    <div class="bg-white/[.04] border border-white/[.07] rounded-2xl p-4 text-gray-300"><i class="fa-solid fa-check text-emerald-400 ml-2"></i>معلومات الاشتراك وتاريخ الانتهاء</div>
-                </div>
-            </div>
 
-            <div class="glass-card rounded-[2.5rem] p-8 md:p-10 flex flex-col justify-center text-center relative overflow-hidden">
-                <div class="absolute inset-0 bg-brandAccent/[.04] pointer-events-none"></div>
-                <div class="relative z-10">
-                    <div class="text-gray-400 font-bold">التجربة المجانية</div>
-                    <div class="text-6xl font-black text-white my-3">7 أيام</div>
-                    <p class="text-gray-400 mb-6">جرّبه أول، وبعدها قرر إذا يناسب عائلتك.</p>
-                    <a href="https://nmboxes.com/payment/p1354192263" target="_blank" rel="noopener noreferrer" class="bg-brandAccent text-brandDark font-black px-7 py-3.5 rounded-full inline-flex items-center justify-center gap-2 btn-glow">
-                        ابدأ التجربة
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <!-- Full download data from previous landing page -->
-    <section id="download-app" class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="text-center mb-12">
-            <span class="inline-flex items-center gap-2 bg-orange-500/10 border border-orange-400/20 text-orange-300 font-bold px-4 py-2 rounded-full text-sm mb-5">
-                <i class="fa-solid fa-download"></i> تحميل التطبيق
-            </span>
-            <h2 class="text-4xl md:text-5xl font-black text-white mb-4">ثبت نبراس بسهولة</h2>
-            <p class="text-gray-400 max-w-3xl mx-auto text-lg">ثبت نبراس بسهولة على الشاشات وأجهزة أندرويد. للشاشات ننصح بطريقة Downloader لأنها الأسهل، ويوجد أيضًا تحميل مباشر للتطبيق.</p>
-        </div>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 relative z-10">
 
-        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
-            <div class="glass-card rounded-[2.5rem] p-8">
-                <div class="flex items-center gap-4 mb-5">
-                    <div class="w-16 h-16 rounded-2xl overflow-hidden bg-white flex items-center justify-center shadow-xl">
-                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/website/downloader-logo-v2.png?v=5" alt="أيقونة تطبيق Downloader" class="w-full h-full object-contain" onerror="this.style.display='none';this.parentElement.classList.add('downloader-fallback')">
-                    </div>
-                    <div>
-                        <h3 class="text-2xl font-black text-white">التثبيت عبر Downloader</h3>
-                        <p class="text-gray-500 text-sm">مناسب لـ Android TV و Google TV و Xiaomi TV Stick</p>
-                    </div>
-                </div>
-                <p class="text-gray-400 leading-relaxed">إذا كنت تثبت التطبيق على الشاشة، افتح تطبيق Downloader ثم أدخل رمز التحميل التالي لتنزيل نبراس مباشرة.</p>
+                <div class="flex flex-col items-center">
 
-                <div class="mt-6 bg-black/30 border border-white/10 rounded-3xl p-5 flex items-center justify-between gap-4">
-                    <div>
-                        <div class="text-xs text-gray-500 font-bold">رمز التحميل</div>
-                        <div id="downloader-code" class="text-3xl md:text-4xl font-mono font-black text-white tracking-widest">36300987</div>
-                    </div>
-                    <button type="button" onclick="navigator.clipboard?.writeText('36300987'); this.innerHTML='<i class=\'fa-solid fa-check\'></i> تم النسخ';" class="shrink-0 bg-white/10 hover:bg-white/15 border border-white/10 text-white px-5 py-3 rounded-full font-bold transition-all">
-                        <i class="fa-regular fa-copy"></i> انسخ الرمز
-                    </button>
+                    <div class="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-2xl font-black text-brandCyan mb-4">1</div>
+
+                    <h4 class="text-lg font-bold text-white mb-2">افتح تطبيق Downloader</h4>
+
+                    <p class="text-gray-500 text-sm font-light">قم بتحميله من متجر Google Play الخاص بشاشتك إذا لم يكن متوفراً.</p>
+
                 </div>
 
-                <div class="space-y-3 mt-6">
-                    <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
-                        <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">1</div>
-                        <div class="flex-1">
-                            <b class="text-white">حمّل تطبيق Downloader من Google Play</b>
-                            <p class="text-gray-500 text-sm mt-1">نزّل تطبيق Downloader by AFTVnews على جهازك أو شاشتك.</p>
-                            <a href="https://play.google.com/store/apps/details?id=com.esaba.downloader" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 mt-3 text-sm font-bold text-orange-300 hover:text-orange-200">
-                                <i class="fa-brands fa-google-play"></i>
-                                فتح Downloader في Google Play
-                            </a>
-                        </div>
-                    </div>
-                    <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
-                        <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">2</div>
-                        <div><b class="text-white">افتح Downloader وأدخل الكود 36300987</b><p class="text-gray-500 text-sm mt-1">سيظهر لك رابط تحميل نبراس مباشرة.</p></div>
-                    </div>
-                    <div class="flex gap-3 items-start bg-white/[.03] border border-white/[.06] rounded-2xl p-4">
-                        <div class="w-8 h-8 shrink-0 rounded-xl bg-brandAccent/15 text-brandAccent flex items-center justify-center font-black">3</div>
-                        <div><b class="text-white">حمّل نبراس وثبّته</b><p class="text-gray-500 text-sm mt-1">بعد اكتمال التنزيل افتح الملف، وافق على التثبيت، ثم افتح نبراس.</p></div>
-                    </div>
+                <div class="flex flex-col items-center">
+
+                    <div class="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-2xl font-black text-brandAccent mb-4">2</div>
+
+                    <h4 class="text-lg font-bold text-white mb-2">أدخل كود نبراس</h4>
+
+                    <p class="text-gray-500 text-sm font-light">في مربع البحث، اكتب الكود <span class="text-white font-mono font-bold bg-white/10 px-2 rounded">74920</span> واضغط Go.</p>
+
                 </div>
+
+                <div class="flex flex-col items-center">
+
+                    <div class="w-16 h-16 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-2xl font-black text-brandPurple mb-4">3</div>
+
+                    <h4 class="text-lg font-bold text-white mb-2">ثبّت واستمتع</h4>
+
+                    <p class="text-gray-500 text-sm font-light">سيتم تحميل ملف التثبيت فوراً. وافق على التثبيت وابدأ الرحلة!</p>
+
+                </div>
+
             </div>
 
-            <div class="glass-card rounded-[2.5rem] p-8 flex flex-col">
-                <div class="w-16 h-16 rounded-2xl bg-emerald-500/15 text-emerald-300 flex items-center justify-center text-3xl mb-5"><i class="fa-brands fa-android"></i></div>
-                <h3 class="text-2xl font-black text-white mb-3">تحميل مباشر للتطبيق</h3>
-                <p class="text-gray-400 leading-relaxed">للأجهزة اللوحية وأجهزة أندرويد أو إذا كنت تفضل التحميل المباشر، استخدم الزر أدناه.</p>
-
-                <div class="flex flex-wrap gap-2 my-6">
-                    <span class="bg-white/[.05] border border-white/[.08] rounded-full px-4 py-2 text-sm text-gray-300">📺 مناسب للشاشات</span>
-                    <span class="bg-white/[.05] border border-white/[.08] rounded-full px-4 py-2 text-sm text-gray-300">📦 مناسب لقطع شاومي</span>
-                    <span class="bg-white/[.05] border border-white/[.08] rounded-full px-4 py-2 text-sm text-gray-300">📱 مناسب لأجهزة أندرويد</span>
-                    <span class="bg-white/[.05] border border-white/[.08] rounded-full px-4 py-2 text-sm text-gray-300">🤖 مناسب للتابلت</span>
-                </div>
-
-                <div class="mt-auto">
-                    <a href="/download" data-nibras-download class="w-full bg-brandAccent text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 btn-glow">
-                        <i class="fa-brands fa-android text-2xl"></i>
-                        <span>حمّل من هنا مباشرة</span>
-                    </a>
-                    <p class="text-gray-500 text-xs mt-4 text-center">يتم تنزيل أحدث إصدار منشور من نبراس تلقائيًا، لذلك يبقى زر التحميل نفسه مع كل تحديث جديد.</p>
-                </div>
-            </div>
         </div>
-    </section>
 
-    <!-- FAQ restored -->
-    <section id="faq" class="relative z-10 w-full max-w-5xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="text-center mb-10">
-            <h2 class="text-4xl font-black text-white">أسئلة شائعة</h2>
-        </div>
-        <div class="space-y-3">
-            <details class="glass-card rounded-2xl p-5 group">
-                <summary class="text-white font-black cursor-pointer">على أي أجهزة يعمل نبراس؟</summary>
-                <p class="text-gray-400 mt-3">Android TV وGoogle TV، بالإضافة إلى أجهزة أندرويد اللوحية وقطع شاومي وأجهزة أندرويد المتوافقة.</p>
-            </details>
-            <details class="glass-card rounded-2xl p-5 group">
-                <summary class="text-white font-black cursor-pointer">هل يوجد بحث مفتوح؟</summary>
-                <p class="text-gray-400 mt-3">لا. تجربة الطفل تبقى داخل المحتوى والأقسام المختارة في نبراس.</p>
-            </details>
-            <details class="glass-card rounded-2xl p-5 group">
-                <summary class="text-white font-black cursor-pointer">هل توجد Shorts؟</summary>
-                <p class="text-gray-400 mt-3">لا. نبراس مصمم بدون مسار Shorts داخل تجربة المشاهدة.</p>
-            </details>
-            <details class="glass-card rounded-2xl p-5 group">
-                <summary class="text-white font-black cursor-pointer">هل أقدر أنظم وقت المشاهدة؟</summary>
-                <p class="text-gray-400 mt-3">نعم، توجد مساحة للوالدين تتضمن إعدادات للحد اليومي ووقت المشاهدة.</p>
-            </details>
-        </div>
-    </section>
-
-    <!-- Final CTA + Salla checkout wording restored -->
-    <section class="relative z-10 w-full max-w-7xl mx-auto px-6 py-16 border-t border-white/5">
-        <div class="glass-card rounded-[2.5rem] p-8 md:p-12 text-center">
-            <h2 class="text-4xl font-black text-white mb-4">جاهز تخلي مشاهدة طفلك أهدأ وأوضح؟</h2>
-            <p class="text-gray-400 text-lg mb-8">ابدأ التجربة المجانية، وإذا ناسبك نبراس استمر بالاشتراك السنوي.</p>
-            <a href="https://nmboxes.com/payment/p1354192263" target="_blank" rel="noopener noreferrer" class="bg-brandAccent text-brandDark font-black text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 btn-glow">
-                <i class="fa-solid fa-gift"></i> جرّبه مجانًا
-            </a>
-        </div>
-    </section>
-
-    <section id="checkout" class="relative z-10 w-full max-w-5xl mx-auto px-6 py-16 border-t border-white/5">
-        <div class="glass-card rounded-[2.5rem] p-8 md:p-12 text-center">
-            <img src="https://cdn.simpleicons.org/salla/FFFFFF" alt="شعار سلة" class="w-12 h-12 mx-auto mb-5">
-            <h2 class="text-3xl md:text-4xl font-black text-white mb-3">اشترك أو جدّد اشتراكك</h2>
-            <p class="text-gray-400 mb-2">لإتمام الاشتراك أو التجديد، انتقل مباشرة إلى صفحة الدفع الآمنة عبر سلة.</p>
-            <p class="text-brandAccent font-black mb-7">7 أيام مجانية — وبعدها 99 ريال سنويًا</p>
-            <a href="https://nmboxes.com/payment/p1354192263" target="_blank" rel="noopener noreferrer" class="bg-[#004956] hover:bg-[#075964] text-white font-black text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 transition-all">
-                <img src="https://cdn.simpleicons.org/salla/FFFFFF" alt="" class="w-7 h-7">
-                <span>الاشتراك عبر سلة</span>
-            </a>
-            <p class="text-gray-500 text-sm mt-5">سيتم فتح صفحة الدفع في سلة لإكمال العملية.</p>
-        </div>
-    </section>
-
-    <!-- OLD_LANDING_DATA_END -->
-
-    <!-- Subscription / Salla -->
-    <section id="subscribe" class="relative z-10 w-full max-w-7xl mx-auto px-6 py-20 border-t border-white/5">
-        <div class="glass-card rounded-[2.5rem] p-8 md:p-12 relative overflow-hidden text-center">
-            <div class="absolute inset-x-0 -top-24 mx-auto w-80 h-80 bg-brandAccent/10 rounded-full blur-[100px] pointer-events-none"></div>
-            <div class="relative z-10 max-w-3xl mx-auto">
-                <span class="inline-flex items-center gap-2 bg-brandAccent/10 border border-brandAccent/20 text-brandAccent font-bold px-4 py-2 rounded-full text-sm mb-5">
-                    <i class="fa-solid fa-gift"></i> جرّب نبراس 7 أيام مجانًا
-                </span>
-                <h2 class="text-4xl md:text-5xl font-black text-white mb-4">99 ريال سنويًا بعد التجربة</h2>
-                <p class="text-gray-400 text-lg leading-relaxed mb-8">ابدأ التجربة، وإذا ناسبكم نبراس أكمل الاشتراك السنوي عبر صفحة الدفع.</p>
-                <div class="flex flex-col sm:flex-row justify-center gap-3">
-                    <a href="https://nmboxes.com/payment/p1354192263" class="bg-brandAccent hover:bg-opacity-90 text-brandDark font-black text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 transition-all btn-glow">
-                        <i class="fa-solid fa-cart-shopping"></i>
-                        <span>الاشتراك عبر سلة</span>
-                    </a>
-                    <a href="/download" data-nibras-download class="bg-white/10 hover:bg-white/15 border border-white/10 text-white font-bold text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 transition-all">
-                        <i class="fa-brands fa-android"></i>
-                        <span>تحميل التطبيق</span>
-                    </a>
-                </div>
-            </div>
-        </div>
     </section>
 
 
-    <!-- Footer -->
 
-    <footer class="w-full border-t border-white/10 mt-12 bg-black/40">
+    <footer class="w-full border-t border-white/5 mt-10 bg-appDark">
 
-        <div class="max-w-7xl mx-auto px-6 py-10 flex flex-col md:flex-row items-center justify-between gap-6">
+        <div class="max-w-7xl mx-auto px-6 py-8 flex flex-col md:flex-row items-center justify-between gap-4 text-sm">
 
-            <div class="flex items-center gap-2 opacity-50 hover:opacity-100 transition-opacity">
+            <div class="flex items-center gap-2">
 
-                <img src="./images/nibras-logo-symbol.png?v=4" alt="نبراس" class="w-8 h-8 object-contain">
-                <span class="font-bold text-white">نبراس</span>
+                <i class="fa-solid fa-play text-brandAccent"></i>
+
+                <span class="font-black text-white text-lg tracking-wide">نبراس</span>
 
             </div>
 
-            <p class="text-gray-500 text-sm">جميع الحقوق محفوظة © 2026 تطبيق نبراس للأطفال.</p>
+            <p class="text-gray-500 font-light">جميع الحقوق محفوظة © 2026. عالم آمن لأطفالك.</p>
 
             <div class="flex gap-4">
 
-                <a href="https://x.com/nibras_kids" target="_blank" rel="noopener" aria-label="نبراس على X" class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-colors">
-                    <i class="fa-brands fa-x-twitter"></i>
+                <a href="#" class="text-gray-500 hover:text-white transition-colors"><i class="fa-brands fa-x-twitter text-lg"></i></a>
 
-                </a>
-
-                <a href="#" class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-colors">
-
-                    <i class="fa-brands fa-tiktok"></i>
-
-                </a>
-
-                <a href="#" class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-colors">
-
-                    <i class="fa-brands fa-instagram"></i>
-
-                </a>
+                <a href="#" class="text-gray-500 hover:text-white transition-colors"><i class="fa-brands fa-tiktok text-lg"></i></a>
 
             </div>
 
@@ -1023,65 +576,6 @@
 
 
 
-
-<script>
-(() => {
-  const SUPABASE_URL = 'https://gsjciapiyhvjsofqlhvt.supabase.co';
-  const SUPABASE_KEY = 'sb_publishable_S-0_xzsOitwJCx59DcAcsg_YVT3E0-p';
-  const uuid = () => (crypto.randomUUID ? crypto.randomUUID() : 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, ch => {
-    const r = Math.random() * 16 | 0, v = ch === 'x' ? r : (r & 3 | 8);
-    return v.toString(16);
-  }));
-  let visitorId = localStorage.getItem('nibras_visitor_id');
-  if (!visitorId) {
-    visitorId = uuid();
-    localStorage.setItem('nibras_visitor_id', visitorId);
-  }
-  let sessionId = sessionStorage.getItem('nibras_session_id');
-  if (!sessionId) {
-    sessionId = uuid();
-    sessionStorage.setItem('nibras_session_id', sessionId);
-  }
-  const q = new URLSearchParams(location.search);
-  const payload = {
-    visitor_id: visitorId,
-    session_id: sessionId,
-    path: location.pathname + location.search,
-    referrer: document.referrer || null,
-    utm_source: q.get('utm_source'),
-    utm_medium: q.get('utm_medium'),
-    utm_campaign: q.get('utm_campaign'),
-    utm_content: q.get('utm_content'),
-    utm_term: q.get('utm_term')
-  };
-  fetch(SUPABASE_URL + '/rest/v1/nibras_page_visits', {
-    method: 'POST',
-    keepalive: true,
-    headers: {
-      apikey: SUPABASE_KEY,
-      Authorization: 'Bearer ' + SUPABASE_KEY,
-      'Content-Type': 'application/json',
-      Prefer: 'return=minimal'
-    },
-    body: JSON.stringify(payload)
-  }).catch(() => {});
-})();
-</script>
-<script>
-  (() => {
-    const NIBRAS_UPDATE_META_URL =
-      'https://raw.githubusercontent.com/sloom059-svg/TV_KIDS/islamic-nibras/updates/nibras.json';
-    fetch(NIBRAS_UPDATE_META_URL, { cache: 'no-store' })
-      .then(r => r.ok ? r.json() : Promise.reject())
-      .then(meta => {
-        if (!meta || !meta.apk_url) return;
-        document.querySelectorAll('[data-nibras-download]').forEach(link => {
-          link.href = meta.apk_url;
-        });
-      })
-      .catch(() => {});
-  })();
-  </script>
 </body>
 
 </html>
