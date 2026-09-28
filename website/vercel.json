@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/download",
-      "destination": "https://github.com/sloom059-svg/TV_KIDS/releases/download/nibras-10006/Nibras-1.0.6.apk",
-      "permanent": false
+      "destination": "/api/download"
     }
   ],
   "headers": [
@@ -30,6 +29,15 @@
         {
           "key": "Cache-Control",
           "value": "no-cache, no-store, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/api/download",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-store, no-cache, must-revalidate"
         }
       ]
     }
