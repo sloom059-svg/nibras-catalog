@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "provider": "dailymotion",
+  "examples": {
+    "singleVideo": {
+      "source": "dailymotion",
+      "videoId": "x9itz54",
+      "contentId": "grizzy_example",
+      "title": "مثال جرايزي",
+      "audioProfile": "mapped",
+      "audioKey": "grizzy_example",
+      "audioOffsetMs": 0
+    },
+    "manualSeries": {
+      "source": "dailymotion",
+      "title": "مثال مسلسل",
+      "audioProfile": "mapped",
+      "manualVideos": [
+        {
+          "id": "x000001",
+          "contentId": "show_s01e01",
+          "title": "الحلقة 1",
+          "audioKey": "show_s01e01",
+          "audioOffsetMs": 0
+        },
+        {
+          "id": "x000002",
+          "contentId": "show_s01e02",
+          "title": "الحلقة 2",
+          "audioKey": "show_s01e02",
+          "audioOffsetMs": 0
+        }
+      ]
+    },
+    "craftVideo": {
+      "source": "dailymotion",
+      "videoId": "x000003",
+      "contentId": "craft_example_01",
+      "title": "مثال أعمال فنية",
+      "audioProfile": "craft",
+      "audioKey": "craft_example_01",
+      "audioOffsetMs": 0
+    }
+  }
+}
