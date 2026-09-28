@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "rules": [
     {
       "matchType": "query",
@@ -16,7 +16,7 @@
     },
     {
       "matchType": "query",
-      "match": "nibras:manual:mansour-archive-v1",
+      "match": "PLrEO7bVLqAMuA-edJU88wiqFyT0BZQCVB",
       "title": "منصور",
       "startAtMs": 46000
     },
