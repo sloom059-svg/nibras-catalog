@@ -1926,6 +1926,15 @@
             "deQgAQ51RxY",
             "wVX8XEeA2j0"
           ]
+        },
+        {
+          "emoji": "🌊",
+          "title": "سراج",
+          "subtitle": "حلقات تعليمية مختارة",
+          "query": "nibras:manual:siraj-archive-v1",
+          "source": "archive",
+          "contentId": "episode-7-sea-world",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
