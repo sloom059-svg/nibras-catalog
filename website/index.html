@@ -168,7 +168,14 @@
 
         }
 
-    </style>
+    
+html,body,button,input,select,textarea{font-family:'Cairo',sans-serif!important}
+.hero-title{font-size:clamp(2.1rem,4vw,4.1rem)!important;line-height:1.18!important}
+.hero-desc{font-size:clamp(.95rem,1.3vw,1.08rem)!important;line-height:1.9!important}
+.benefit-chip{background:rgba(255,255,255,.045);border:1px solid rgba(255,255,255,.08);border-radius:999px;padding:.52rem .8rem;display:inline-flex;align-items:center;gap:.48rem}
+.benefit-check{width:1.42rem;height:1.42rem;border-radius:999px;display:inline-flex;align-items:center;justify-content:center;font-size:.72rem;font-weight:900;flex:0 0 auto}
+@media(max-width:768px){.hero-title{font-size:2.2rem!important;line-height:1.25!important}.hero-desc{font-size:.95rem!important}.tv-3d-content{transform:none!important}.tv-3d-wrapper{height:310px!important}}
+</style>
 
 </head>
 
@@ -180,21 +187,11 @@
 
         <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
 
-            <div class="flex items-center gap-3">
+            <div class="flex items-center gap-3"><img src="./images/nibras-logo-full.png?v=8" alt="نبراس" class="h-12 md:h-14 w-auto object-contain"></div>
 
-                <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-brandAccent to-orange-500 flex items-center justify-center shadow-lg">
+            <a href="#subscribe" class="bg-white text-appDark px-6 py-2 rounded-full font-bold text-sm hover:bg-gray-200 transition-colors shadow-[0_0_15px_rgba(255,255,255,0.3)]">
 
-                    <i class="fa-solid fa-play text-white text-sm ml-1"></i>
-
-                </div>
-
-                <h1 class="text-2xl font-black tracking-wide text-white">نبراس</h1>
-
-            </div>
-
-            <a href="#download-section" class="bg-white text-appDark px-6 py-2 rounded-full font-bold text-sm hover:bg-gray-200 transition-colors shadow-[0_0_15px_rgba(255,255,255,0.3)]">
-
-                حمل التطبيق الآن
+                جرّب 7 أيام مجانًا
 
             </a>
 
@@ -212,31 +209,16 @@
 
             <div class="flex flex-col items-center lg:items-start text-center lg:text-right relative z-10">
 
-                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brandCyan/10 border border-brandCyan/20 text-brandCyan font-bold text-xs mb-6">
-
-                    <span class="w-2 h-2 rounded-full bg-brandCyan animate-pulse"></span>
-
-                    التحديث الجديد متاح الآن
-
-                </div>
-
-                <h2 class="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight mb-6">
-
-                    محتوى آمن لطفلك، <br>
-
-                    <span class="bg-gradient-to-l from-brandAccent to-brandPurple text-gradient">وراحة بال لا تُقدر بثمن.</span>
-
-                </h2>
-
-                <p class="text-gray-400 text-base md:text-lg mb-10 max-w-xl leading-relaxed font-light">
-
-                    حوّل شاشتك الذكية إلى منصة ترفيهية وتعليمية خالية من الإعلانات والمفاجآت المزعجة، مع أدوات تحكم أبوية هي الأقوى من نوعها.
-
-                </p>
-
-
-
-                <!-- أزرار التحميل السريعة -->
+                <div class="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-brandCyan/10 border border-brandCyan/20 text-brandCyan font-bold text-xs mb-5"><span class="w-2 h-2 rounded-full bg-brandCyan"></span>مشاهدة أهدأ، ومحتوى مرتب لطفلك</div>
+<h2 class="hero-title font-black text-white mb-5">كل اللي يحبه طفلك، <br><span class="bg-gradient-to-l from-brandAccent to-brandPurple text-gradient">بدون فوضى يوتيوب.</span></h2>
+<p class="hero-desc text-gray-400 mb-5 max-w-xl">نبراس يجمع لطفلك المحتوى المختار في مكان واحد.</p>
+<div class="flex flex-wrap gap-2.5 justify-center lg:justify-start mb-8 max-w-2xl">
+<div class="benefit-chip"><span class="benefit-check bg-emerald-500/20 text-emerald-400">✓</span><span class="text-white text-sm font-semibold">بدون إعلانات</span></div>
+<div class="benefit-chip"><span class="benefit-check bg-orange-500/20 text-orange-300">✓</span><span class="text-white text-sm font-semibold">بدون Shorts</span></div>
+<div class="benefit-chip"><span class="benefit-check bg-sky-500/20 text-sky-300">✓</span><span class="text-white text-sm font-semibold">بدون اقتراحات عشوائية</span></div>
+<div class="benefit-chip"><span class="benefit-check bg-violet-500/20 text-violet-300">✓</span><span class="text-white text-sm font-semibold">تحكم أبوي واضح</span></div>
+<div class="benefit-chip"><span class="benefit-check bg-pink-500/20 text-pink-300">✓</span><span class="text-white text-sm font-semibold">بدون موسيقى صاخبة</span></div>
+</div><!-- أزرار التحميل السريعة -->
 
                 <div class="flex flex-col sm:flex-row gap-5 w-full max-w-md lg:max-w-none">
 
