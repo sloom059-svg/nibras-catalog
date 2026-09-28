@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "rules": [
     {
       "matchType": "query",
@@ -37,6 +37,12 @@
       "match": "PLajav__4AGmhGOqBT_m9lLU593z2MKenV",
       "title": "Minuscule - مغامرات الحشرات",
       "startAtMs": 24000
+    },
+    {
+      "matchType": "query",
+      "match": "nibras:manual:grizzy-clean-v1",
+      "title": "Grizzy & the Lemmings",
+      "startAtMs": 25000
     }
   ]
 }
