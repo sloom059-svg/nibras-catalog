@@ -1479,6 +1479,16 @@
           "subtitle": "كرتون زمان",
           "query": "PLMZjhCc1QBkxK26Up0t-OpvVAj0yux0RE",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "⭐",
+          "title": "ستيفن",
+          "subtitle": "حلقات ستيفن",
+          "query": "nibras:manual:steven-archive-v1",
+          "source": "archive",
+          "contentId": "fhd_20251010_202510",
+          "audioProfile": "mapped",
+          "minDurationMs": 0
         }
       ]
     },
