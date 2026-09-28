@@ -20,7 +20,7 @@
 
     <!-- Google Fonts: Cairo -->
 
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Alexandria:wght@400;500;600;700;800;900&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
 
     <script>
 
@@ -32,7 +32,7 @@
 
                     fontFamily: { 
 
-                        sans: ['Cairo', 'sans-serif'],
+                        sans: ['Alexandria', 'sans-serif'],
 
                         mono: ['Space Mono', 'monospace']
 
@@ -144,7 +144,14 @@
 
         }
 
-    </style>
+    
+      /* NIBRAS_FONT_OVERRIDE */
+      html, body, button, input, select, textarea { font-family: 'Alexandria', sans-serif !important; }
+      body { letter-spacing: -0.01em; }
+  
+      .downloader-fallback{background:linear-gradient(135deg,#FF8C00,#FF4500)!important;position:relative}
+      .downloader-fallback::after{content:'↓';color:#fff;font-weight:900;font-size:1.35rem;line-height:1}
+  </style>
 
     <meta name="description" content="نبراس: محتوى أطفال مختار بعناية، بدون إعلانات وبدون Shorts وبدون اقتراحات غير مرغوبة، مع تجربة مجانية 7 أيام.">
 </head>
@@ -197,21 +204,20 @@
 
             <div class="inline-block bg-brandAccent/10 border border-brandAccent/20 text-brandAccent font-bold px-4 py-1.5 rounded-full text-sm mb-6 animate-pulse">
 
-                🚀 التطبيق الأول للأطفال على شاشات التلفزيون والأجهزة اللوحية
+                ✨ مشاهدة مرتبة للطفل، وراحة بال لك
 
             </div>
 
             <h2 class="text-5xl lg:text-7xl font-black text-white leading-[1.2] mb-6 drop-shadow-lg">
 
-                عالم من المرح، <br>
-
-                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brandAccent to-orange-400">تحت إشرافك التام.</span>
+                كل اللي يحبه طفلك، <br>
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brandAccent to-orange-400">بدون فوضى يوتيوب.</span>
 
             </h2>
 
             <p class="text-lg lg:text-xl text-gray-400 mb-10 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
 
-                نبراس يحول شاشة تلفزيونك إلى بيئة تعليمية وترفيهية آمنة 100٪. خالية من الإعلانات، ومزودة بأدوات رقابة أبوية تمنحك راحة البال التي تستحقها.
+                نبراس يجمع لطفلك المحتوى المختار في مكان واحد: بدون إعلانات، بدون Shorts، وبدون اقتراحات عشوائية — مع تحكم أبوي واضح وتجربة مشاهدة أهدأ.
 
             </p>
 
@@ -238,7 +244,7 @@
                 <div class="w-full sm:w-auto px-6 py-3 flex items-center justify-center gap-4 bg-black/30 rounded-full border border-white/5">
 
                     <div class="w-10 h-10 rounded-lg overflow-hidden bg-white flex items-center justify-center shadow-lg">
-                        <img src="./downloader-logo-v2.png?v=4" alt="Downloader" class="w-full h-full object-contain">
+                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/website/downloader-logo-v2.png?v=5" alt="Downloader" class="w-full h-full object-contain" onerror="this.style.display='none';this.parentElement.classList.add('downloader-fallback')">
                     </div>
 
                     <div class="flex flex-col text-right">
@@ -799,7 +805,7 @@
             <div class="glass-card rounded-[2.5rem] p-8">
                 <div class="flex items-center gap-4 mb-5">
                     <div class="w-16 h-16 rounded-2xl overflow-hidden bg-white flex items-center justify-center shadow-xl">
-                        <img src="./downloader-logo-v2.png?v=4" alt="أيقونة تطبيق Downloader" class="w-full h-full object-contain">
+                        <img src="https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/website/downloader-logo-v2.png?v=5" alt="أيقونة تطبيق Downloader" class="w-full h-full object-contain" onerror="this.style.display='none';this.parentElement.classList.add('downloader-fallback')">
                     </div>
                     <div>
                         <h3 class="text-2xl font-black text-white">التثبيت عبر Downloader</h3>
