@@ -263,7 +263,7 @@
 
                 <!-- زر التحميل المباشر -->
 
-                <a href="/download" class="w-full sm:w-auto flex-1 bg-brandAccent hover:bg-opacity-90 text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 transition-all btn-glow">
+                <a href="/download" data-nibras-download class="w-full sm:w-auto flex-1 bg-brandAccent hover:bg-opacity-90 text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 transition-all btn-glow">
 
                     <i class="fa-brands fa-android text-2xl"></i>
 
@@ -894,7 +894,7 @@
                 </div>
 
                 <div class="mt-auto">
-                    <a href="/download" class="w-full bg-brandAccent text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 btn-glow">
+                    <a href="/download" data-nibras-download class="w-full bg-brandAccent text-brandDark font-black text-lg px-8 py-4 rounded-full flex items-center justify-center gap-3 btn-glow">
                         <i class="fa-brands fa-android text-2xl"></i>
                         <span>حمّل من هنا مباشرة</span>
                     </a>
@@ -971,7 +971,7 @@
                         <i class="fa-solid fa-cart-shopping"></i>
                         <span>الاشتراك عبر سلة</span>
                     </a>
-                    <a href="/download" class="bg-white/10 hover:bg-white/15 border border-white/10 text-white font-bold text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 transition-all">
+                    <a href="/download" data-nibras-download class="bg-white/10 hover:bg-white/15 border border-white/10 text-white font-bold text-lg px-9 py-4 rounded-full inline-flex items-center justify-center gap-3 transition-all">
                         <i class="fa-brands fa-android"></i>
                         <span>تحميل التطبيق</span>
                     </a>
@@ -1067,6 +1067,21 @@
   }).catch(() => {});
 })();
 </script>
+<script>
+  (() => {
+    const NIBRAS_UPDATE_META_URL =
+      'https://raw.githubusercontent.com/sloom059-svg/TV_KIDS/islamic-nibras/updates/nibras.json';
+    fetch(NIBRAS_UPDATE_META_URL, { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : Promise.reject())
+      .then(meta => {
+        if (!meta || !meta.apk_url) return;
+        document.querySelectorAll('[data-nibras-download]').forEach(link => {
+          link.href = meta.apk_url;
+        });
+      })
+      .catch(() => {});
+  })();
+  </script>
 </body>
 
 </html>
