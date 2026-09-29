@@ -5,7 +5,9 @@ export default async function handler(req, res) {
     if (!response.ok) throw new Error('metadata_http_' + response.status);
     const meta = await response.json();
     const apkUrl = typeof meta?.apk_url === 'string' ? meta.apk_url.trim() : '';
-    if (!/^https:\/\/github\.com\/sloom059-svg\/TV_KIDS\/releases\/download\/nibras-\d+\/Nibras-[0-9A-Za-z._-]+\.apk$/.test(apkUrl)) {
+    const allowed =
+      /^https:\/\/f005\.backblazeb2\.com\/file\/Nibras-audio\/app-releases\/Nibras-[0-9A-Za-z._-]+\.apk$/.test(apkUrl);
+    if (!allowed) {
       throw new Error('invalid_apk_url');
     }
     res.setHeader('Cache-Control', 'no-store, no-cache, must-revalidate');
