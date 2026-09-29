@@ -1,11 +1,11 @@
 {
   "enabled": true,
-  "required": false,
+  "required": true,
   "package": "com.nibras.kids",
-  "version_code": 10008,
-  "version_name": "1.0.8",
+  "version_code": 10009,
+  "version_name": "1.0.9",
   "min_sdk": 17,
-  "apk_url": "https://f005.backblazeb2.com/file/Nibras-audio/app-releases/Nibras-1.0.8.apk",
-  "sha256": "4c2f8e7478c107e8281a097cabdd9555500786523bbe72474bc6612099284069",
-  "notes": "إصدار نبراس الرسمي."
+  "apk_url": "https://f005.backblazeb2.com/file/Nibras-audio/app-releases/Nibras-1.0.9.apk",
+  "sha256": "fbedcbf46d90799e11ea46715350a1d2a9e19f8b870101c3868c7c5ac0285bd7",
+  "notes": "إصدار نبراس مع دعم التحديثات من داخل التطبيق."
 }
