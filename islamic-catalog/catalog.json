@@ -1451,7 +1451,8 @@
           "source": "archive",
           "contentId": "naqeeb-khalfan-123",
           "minDurationMs": 0,
-          "maxItems": 26
+          "maxItems": 26,
+          "audioProfile": "mapped"
         }
       ]
     },
