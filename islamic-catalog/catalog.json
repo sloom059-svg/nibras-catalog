@@ -1413,7 +1413,261 @@
           "playlistId": "x4osj8",
           "minDurationMs": 0,
           "maxItems": 28,
-          "audioProfile": "mapped"
+          "audioProfile": "mapped",
+          "manualVideos": [
+            {
+              "id": "x4teb6l",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 1",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4teb6l",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4teb6l"
+            },
+            {
+              "id": "x4teb6u",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 2",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4teb6u",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4teb6u"
+            },
+            {
+              "id": "x4teb73",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 3",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4teb73",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4teb73"
+            },
+            {
+              "id": "x4tezwb",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 4",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4tezwb",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4tezwb"
+            },
+            {
+              "id": "x4tjxce",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 5",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4tjxce",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4tjxce"
+            },
+            {
+              "id": "x4tjxch",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 6",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4tjxch",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4tjxch"
+            },
+            {
+              "id": "x4ujhln",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 7",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4ujhln",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4ujhln"
+            },
+            {
+              "id": "x4umou4",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 8",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4umou4",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4umou4"
+            },
+            {
+              "id": "x4umou9",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 9",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4umou9",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4umou9"
+            },
+            {
+              "id": "x4umouf",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 10",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4umouf",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4umouf"
+            },
+            {
+              "id": "x4uzx95",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 11",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4uzx95",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4uzx95"
+            },
+            {
+              "id": "x4uzx9g",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 12",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4uzx9g",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4uzx9g"
+            },
+            {
+              "id": "x4uzy2y",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 13",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4uzy2y",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4uzy2y"
+            },
+            {
+              "id": "x4v61x5",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 14",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4v61x5",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4v61x5"
+            },
+            {
+              "id": "x4v61xu",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 15",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4v61xu",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4v61xu"
+            },
+            {
+              "id": "x4v632s",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 16",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4v632s",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4v632s"
+            },
+            {
+              "id": "x4v6qi4",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 17",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4v6qi4",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4v6qi4"
+            },
+            {
+              "id": "x4vcp4n",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 18",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vcp4n",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vcp4n"
+            },
+            {
+              "id": "x4vcpap",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 19",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vcpap",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vcpap"
+            },
+            {
+              "id": "x4vctmu",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 20",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vctmu",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vctmu"
+            },
+            {
+              "id": "x4vd3e6",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 21",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vd3e6",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vd3e6"
+            },
+            {
+              "id": "x4vd6ch",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 22",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vd6ch",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vd6ch"
+            },
+            {
+              "id": "x4vddtk",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 23",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vddtk",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vddtk"
+            },
+            {
+              "id": "x4vddtq",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 24",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vddtq",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vddtq"
+            },
+            {
+              "id": "x4vdewr",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 25",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vdewr",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vdewr"
+            },
+            {
+              "id": "x4vid9a",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 26",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vid9a",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vid9a"
+            },
+            {
+              "id": "x4vidic",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 27",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vidic",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vidic"
+            },
+            {
+              "id": "x4vxzde",
+              "source": "dailymotion",
+              "title": "Oggy - الحلقة 28",
+              "image": "https://www.dailymotion.com/thumbnail/video/x4vxzde",
+              "author": "Dailymotion",
+              "audioProfile": "mapped",
+              "audioKey": "x4vxzde"
+            }
+          ]
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
