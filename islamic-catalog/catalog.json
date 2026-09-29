@@ -683,12 +683,12 @@
         {
           "emoji": "🐧",
           "title": "مدغشقر - الموسم الأول",
-          "subtitle": "الموسم الأول — 26 حلقة",
+          "subtitle": "الموسم الأول — 25 حلقة",
           "query": "nibras:manual:madagascar-archive-s1",
           "source": "archive",
           "contentId": "madagascar-s-1-2-3",
           "minDurationMs": 0,
-          "maxItems": 26,
+          "maxItems": 25,
           "videoIds": [
             "S01E01.mkv",
             "S01E02.mkv",
