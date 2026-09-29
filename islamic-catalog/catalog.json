@@ -679,6 +679,44 @@
             "Zq3t2KBqW1A"
           ],
           "maxItems": 21
+        },
+        {
+          "emoji": "🐧",
+          "title": "مدغشقر - الموسم الأول",
+          "subtitle": "الموسم الأول — 26 حلقة",
+          "query": "nibras:manual:madagascar-archive-s1",
+          "source": "archive",
+          "contentId": "madagascar-s-1-2-3",
+          "minDurationMs": 0,
+          "maxItems": 26,
+          "videoIds": [
+            "S01E01.mkv",
+            "S01E02.mkv",
+            "S01E03.mkv",
+            "S01E04.mkv",
+            "S01E05.mkv",
+            "S01E06.mkv",
+            "S01E07.mkv",
+            "S01E08.mkv",
+            "S01E09.mkv",
+            "S01E10.mkv",
+            "S01E11.mkv",
+            "S01E12.mkv",
+            "S01E13.mkv",
+            "S01E14.mkv",
+            "S01E15.mkv",
+            "S01E16.mkv",
+            "S01E17.mkv",
+            "S01E18.mkv",
+            "S01E19.mkv",
+            "S01E20.mkv",
+            "S01E21.mkv",
+            "S01E22.mkv",
+            "S01E23.mkv",
+            "S01E24.mkv",
+            "S01E25.mkv",
+            "S01E26.mkv"
+          ]
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
