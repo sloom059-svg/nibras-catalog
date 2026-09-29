@@ -745,6 +745,16 @@
           ]
         },
         {
+          "emoji": "🐭",
+          "title": "توم وجيري — الأرشيف",
+          "subtitle": "الحلقات من Archive — بالصوت المنقّى",
+          "query": "nibras:manual:tom-jerry-archive-v1",
+          "source": "archive",
+          "contentId": "01_20260301_20260301_1946",
+          "audioProfile": "mapped",
+          "minDurationMs": 0
+        },
+        {
           "emoji": "⚓",
           "title": "باباي",
           "subtitle": "الحلقات العربية",
