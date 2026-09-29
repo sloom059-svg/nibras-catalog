@@ -699,7 +699,6 @@
             "S01E07.mkv",
             "S01E08.mkv",
             "S01E09.mkv",
-            "S01E10.mkv",
             "S01E11.mkv",
             "S01E12.mkv",
             "S01E13.mkv",
@@ -717,7 +716,6 @@
             "S01E25.mkv",
             "S01E26.mkv"
           ],
-          "audioProfile": "mapped",
           "audioKeys": {
             "S01E01.mkv": "ia_a7fb26297aa1962bce57",
             "S01E02.mkv": "ia_8f536383054db9f64731",
