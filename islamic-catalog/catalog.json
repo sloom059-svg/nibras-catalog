@@ -1045,13 +1045,6 @@
           ]
         },
         {
-          "emoji": "🐱",
-          "title": "OGGY",
-          "subtitle": "أوغي والصراصير",
-          "query": "PLt5Mqfjjl4A78f3iVtm-Fy22EvrlBq6ir",
-          "minDurationMs": 0
-        },
-        {
           "emoji": "🐞",
           "title": "Minuscule",
           "subtitle": "مغامرات الحشرات",
@@ -1387,11 +1380,12 @@
         {
           "emoji": "🐱",
           "title": "Oggy",
-          "subtitle": "حلقات كرتونية",
-          "query": "nibras:manual:oggy-archive-v1",
-          "source": "archive",
-          "contentId": "078-a-night-at-the-opera",
-          "minDurationMs": 0
+          "subtitle": "أوغي والصراصير",
+          "query": "nibras:manual:oggy-dailymotion-x4osj8",
+          "source": "dailymotion",
+          "playlistId": "x4osj8",
+          "minDurationMs": 0,
+          "maxItems": 28
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
