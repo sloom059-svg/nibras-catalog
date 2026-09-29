@@ -1,6 +1,6 @@
 export default async function handler(req, res) {
   try {
-    const metaUrl = 'https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/website/nibras-update.json';
+    const metaUrl = 'https://f005.backblazeb2.com/file/Nibras-audio/app-releases/nibras-update.json';
     const response = await fetch(metaUrl, { headers: { 'Cache-Control': 'no-cache' } });
     if (!response.ok) throw new Error('metadata_http_' + response.status);
     const meta = await response.json();
