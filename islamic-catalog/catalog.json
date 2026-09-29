@@ -1407,12 +1407,13 @@
         {
           "emoji": "🐱",
           "title": "Oggy",
-          "subtitle": "أوغي والصراصير",
+          "subtitle": "28 حلقة بالصوت المنقّى",
           "query": "nibras:manual:oggy-dailymotion-x4osj8",
           "source": "dailymotion",
           "playlistId": "x4osj8",
           "minDurationMs": 0,
-          "maxItems": 28
+          "maxItems": 28,
+          "audioProfile": "mapped"
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
