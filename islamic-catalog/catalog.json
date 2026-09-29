@@ -716,7 +716,35 @@
             "S01E24.mkv",
             "S01E25.mkv",
             "S01E26.mkv"
-          ]
+          ],
+          "audioProfile": "mapped",
+          "audioKeys": {
+            "S01E01.mkv": "ia_a7fb26297aa1962bce57",
+            "S01E02.mkv": "ia_8f536383054db9f64731",
+            "S01E03.mkv": "ia_7ad6b07ac0788e4bbf3e",
+            "S01E04.mkv": "ia_7dab998f31b5be5c1941",
+            "S01E05.mkv": "ia_3662eeee570d3ebae259",
+            "S01E06.mkv": "ia_c5082beb671989f4999b",
+            "S01E07.mkv": "ia_d01348bbd48922576fd4",
+            "S01E08.mkv": "ia_faa54b8d9610f434a844",
+            "S01E09.mkv": "ia_9d6a0600966e5dbcd72b",
+            "S01E11.mkv": "ia_7827b9fe1109e8bc4c1e",
+            "S01E12.mkv": "ia_b697f4f902aeddd0f83e",
+            "S01E13.mkv": "ia_cc7d592f23557331e18d",
+            "S01E14.mkv": "ia_e7618a93592548602c9b",
+            "S01E15.mkv": "ia_ea75c84353fef5588ef8",
+            "S01E16.mkv": "ia_9a8e4ee2537195ea9726",
+            "S01E17.mkv": "ia_23fec645fab549bd7966",
+            "S01E18.mkv": "ia_5a5339e846d004f9ecff",
+            "S01E19.mkv": "ia_4bdffbf236cc5fcff84a",
+            "S01E20.mkv": "ia_ed2e1ad60ebdd33617ee",
+            "S01E21.mkv": "ia_24b5dfab1d697450a106",
+            "S01E22.mkv": "ia_d8efb4a7e1a4afe7abf2",
+            "S01E23.mkv": "ia_d4b1f91062a2e532154c",
+            "S01E24.mkv": "ia_9d95cbaef4642e55f6f8",
+            "S01E25.mkv": "ia_7065b06ec94cd67d5360",
+            "S01E26.mkv": "ia_d898e667e357a6cd7dd8"
+          }
         }
       ],
       "image": "https://wallpaperaccess.com/full/7426975.jpg"
