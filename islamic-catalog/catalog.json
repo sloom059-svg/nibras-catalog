@@ -1494,6 +1494,16 @@
           "contentId": "fhd_20251010_202510",
           "audioProfile": "mapped",
           "minDurationMs": 0
+        },
+        {
+          "emoji": "🕵️",
+          "title": "النقيب خلفان",
+          "subtitle": "الموسم الأول — 26 حلقة",
+          "query": "nibras:manual:naqeeb-khalfan-archive-s1",
+          "source": "archive",
+          "contentId": "naqeeb-khalfan-123",
+          "minDurationMs": 0,
+          "maxItems": 26
         }
       ]
     },
