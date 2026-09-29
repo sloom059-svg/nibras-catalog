@@ -1383,6 +1383,15 @@
               "audioKey": "x99txms"
             }
           ]
+        },
+        {
+          "emoji": "🐱",
+          "title": "Oggy",
+          "subtitle": "حلقات كرتونية",
+          "query": "nibras:manual:oggy-archive-v1",
+          "source": "archive",
+          "contentId": "078-a-night-at-the-opera",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
