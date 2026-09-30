@@ -1,5 +1,5 @@
 {
-  "version": 156,
+  "version": 157,
   "providers": {
     "dailymotion": {
       "playerId": ""
@@ -944,6 +944,15 @@
               "author": "Oscar’s Oasis"
             }
           ]
+        },
+        {
+          "emoji": "🏜️",
+          "title": "Oscar’s Oasis — Dailymotion",
+          "subtitle": "قائمة Dailymotion",
+          "query": "nibras:manual:oscar-oasis-dailymotion-x9c5e6",
+          "source": "dailymotion",
+          "playlistId": "x9c5e6",
+          "minDurationMs": 0
         },
         {
           "emoji": "🐻",
