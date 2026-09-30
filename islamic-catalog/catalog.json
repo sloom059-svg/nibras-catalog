@@ -1,5 +1,5 @@
 {
-  "version": 154,
+  "version": 155,
   "providers": {
     "dailymotion": {
       "playerId": ""
@@ -1601,7 +1601,9 @@
             "S01E24.mkv",
             "S01E25.mkv",
             "S01E26.mkv"
-          ]
+          ],
+          "audioProfile": "mapped",
+          "audioFolder": "nageebkhalfan"
         }
       ]
     },
