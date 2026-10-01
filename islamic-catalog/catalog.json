@@ -1,5 +1,5 @@
 {
-  "version": 157,
+  "version": 158,
   "providers": {
     "dailymotion": {
       "playerId": ""
@@ -948,11 +948,157 @@
         {
           "emoji": "🏜️",
           "title": "Oscar’s Oasis — Dailymotion",
-          "subtitle": "قائمة Dailymotion",
+          "subtitle": "14 حلقة بالصوت المنقّى",
           "query": "nibras:manual:oscar-oasis-dailymotion-x9c5e6",
           "source": "dailymotion",
           "playlistId": "x9c5e6",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "audioProfile": "mapped",
+          "maxItems": 14,
+          "videoIds": [
+            "x9en7ym",
+            "x9eh8uc",
+            "x9ehd8g",
+            "x9f9mc0",
+            "x9fjrbi",
+            "x9ek75g",
+            "x9facqa",
+            "x9bvrly",
+            "x9fw15c",
+            "x9ehd8e",
+            "x9fgvz0",
+            "x9f9mc2",
+            "x9fjrbe",
+            "x9facq4"
+          ],
+          "manualVideos": [
+            {
+              "id": "x9en7ym",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 1",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9en7ym",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9en7ym"
+            },
+            {
+              "id": "x9eh8uc",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 2",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9eh8uc",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9eh8uc"
+            },
+            {
+              "id": "x9ehd8g",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 3",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9ehd8g",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9ehd8g"
+            },
+            {
+              "id": "x9f9mc0",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 4",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9f9mc0",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9f9mc0"
+            },
+            {
+              "id": "x9fjrbi",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 5",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9fjrbi",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9fjrbi"
+            },
+            {
+              "id": "x9ek75g",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 6",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9ek75g",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9ek75g"
+            },
+            {
+              "id": "x9facqa",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 7",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9facqa",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9facqa"
+            },
+            {
+              "id": "x9bvrly",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 8",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9bvrly",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9bvrly"
+            },
+            {
+              "id": "x9fw15c",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 9",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9fw15c",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9fw15c"
+            },
+            {
+              "id": "x9ehd8e",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 10",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9ehd8e",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9ehd8e"
+            },
+            {
+              "id": "x9fgvz0",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 11",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9fgvz0",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9fgvz0"
+            },
+            {
+              "id": "x9f9mc2",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 12",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9f9mc2",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9f9mc2"
+            },
+            {
+              "id": "x9fjrbe",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 13",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9fjrbe",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9fjrbe"
+            },
+            {
+              "id": "x9facq4",
+              "source": "dailymotion",
+              "title": "Oscar’s Oasis — 14",
+              "image": "https://www.dailymotion.com/thumbnail/video/x9facq4",
+              "author": "Oscar’s Oasis",
+              "audioProfile": "mapped",
+              "audioKey": "x9facq4"
+            }
+          ]
         },
         {
           "emoji": "🐻",
