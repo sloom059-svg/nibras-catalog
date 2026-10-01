@@ -1,5 +1,5 @@
 {
-  "version": 158,
+  "version": 159,
   "providers": {
     "dailymotion": {
       "playerId": ""
@@ -1622,6 +1622,15 @@
               "audioKey": "x99txms"
             }
           ]
+        },
+        {
+          "emoji": "🎬",
+          "title": "كرتون Archive",
+          "subtitle": "حلقات من Archive.org",
+          "query": "nibras:manual:archive:01_20251021_20251021_1302",
+          "source": "archive",
+          "contentId": "01_20251021_20251021_1302",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
