@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "edition": "google-play-initial",
   "subscription": {
     "enabled": false,
@@ -16,11 +16,11 @@
   "sections": [
     {
       "group": "creativity",
-      "groupTitle": "القيم والإبداع",
+      "groupTitle": "القيم والتعلّم",
       "id": "islamic",
       "emoji": "🌙",
       "title": "القيم والإسلام",
-      "description": "قصص وقيم وتعليم إسلامي للأطفال",
+      "description": "قصص وقيم إسلامية مبسطة للأطفال",
       "palette": "emerald",
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/values_islam_family_1536x1024.jpg",
       "items": [
@@ -29,149 +29,72 @@
           "title": "سعود وسارة",
           "subtitle": "قيم وقصص للأطفال",
           "query": "PLCa3xxvQs8SQBaYJHpfLbK8CvniXhtDIL",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "💬",
-          "title": "أحاديث للحفظ",
-          "subtitle": "أحاديث وقيم للأطفال",
-          "query": "PLSZiCGLBS2fOPXBOZSXBsYDSVZmVRrz4v",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "maxItems": 6
         },
         {
           "emoji": "🕋",
           "title": "أركان الإسلام للأطفال",
           "subtitle": "تعليم مبسط",
           "query": "PL3AbfN3XjccBaDo4tauubGkR44osqr2Q5",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "▶️",
-          "title": "السيرة النبوية للصغار",
-          "subtitle": "",
-          "query": "PLjeQMbdx9OGFYGCvplUsqCyIwUQIwTF5r",
           "minDurationMs": 0,
-          "audioProfile": "original"
+          "maxItems": 6
         }
       ]
     },
     {
       "group": "creativity",
-      "groupTitle": "القيم والإبداع",
+      "groupTitle": "القيم والتعلّم",
       "id": "quran",
       "emoji": "📖",
       "title": "تعليم القرآن",
-      "description": "تلاوات وحفظ وتعليم القرآن الكريم",
+      "description": "حفظ وتلاوة وتعليم مبسط",
       "palette": "emerald",
       "image": "https://images.unsplash.com/photo-1710367446064-0815d9a9f9c6?q=82&w=2200&auto=format&fit=crop",
       "items": [
-        {
-          "emoji": "📖",
-          "title": "تعلم القرآن مع داوود",
-          "subtitle": "قرآن وتعليم للأطفال - القناة كاملة",
-          "query": "UUlzEuix0DYhYTAgb1_kONpQ",
-          "minDurationMs": 0
-        },
         {
           "emoji": "1️⃣",
           "title": "القاعدة النورانية 1",
           "subtitle": "تعلم القراءة والقرآن",
           "query": "PLG382nHLz8XECod_qEZ37NTlZQg4jNTkC",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "📗",
-          "title": "جزء عم - المنشاوي",
-          "subtitle": "تلاوة وحفظ",
-          "query": "PLE3e2NriMDYQ2sR2bWn6IR_IhJ476oZ-a",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "maxItems": 6
         },
         {
           "emoji": "🧒",
           "title": "القرآن للأطفال",
           "subtitle": "حفظ وتلاوة للصغار",
           "query": "PLkCl7h8FSnn2uWDc7XR1WWN2XhOVvuhmo",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "maxItems": 6
         }
       ]
     },
     {
       "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
+      "groupTitle": "اكتشف وتعلّم",
       "id": "learning",
       "emoji": "🔬",
       "title": "اكتشف وتعلم",
-      "description": "علوم وتجارب وابتكارات",
+      "description": "تعلم وعلوم مبسطة للأطفال",
       "palette": "cyan",
+      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg",
       "items": [
-        {
-          "emoji": "🧪",
-          "title": "تجارب منزلية",
-          "subtitle": "تجارب ممتعة يمكن تنفيذها في المنزل",
-          "query": "PL62NrlTMUAgVNAY9NH9hja0TXlkpTuJAT",
-          "minDurationMs": 0
-        },
         {
           "emoji": "🔡",
           "title": "تعلم مع نور - حروف الهجاء",
           "subtitle": "تعلم الحروف العربية",
           "query": "PLOMi1w7HEoaRpQrPoAkmqr9gLoCs0xAJu",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "maxItems": 6
         },
         {
           "emoji": "🔬",
           "title": "سلسلة العلوم",
           "subtitle": "علوم مبسطة للأطفال",
           "query": "PLOMi1w7HEoaR57zcKjrNqUUhHcTouFGib",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "⚛️",
-          "title": "علوم الفيزياء",
-          "subtitle": "فيزياء مبسطة للأطفال",
-          "query": "PLx2PxsXIUlccxsItcIdr3k_cQQf_qWGGV",
-          "minDurationMs": 0
-        }
-      ],
-      "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/images/rapport-climatique-2025-2026--06-15.jpeg"
-    },
-    {
-      "group": "discovery",
-      "groupTitle": "رحلات الاستكشاف",
-      "id": "make",
-      "emoji": "🎨",
-      "title": "ارسم واصنع",
-      "description": "رسم وأعمال يدوية وإبداع",
-      "palette": "teal",
-      "image": "https://plus.unsplash.com/premium_photo-1723649902695-f499154adddb?q=82&w=2200&auto=format&fit=crop",
-      "items": [
-        {
-          "emoji": "✂",
-          "title": "أعمال فنية للأطفال",
-          "subtitle": "أعمال يدوية وإبداع",
-          "query": "PL0NF_K0u-0KnbxvB-_J4-1CX6pfR1SnV8",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "✂️",
-          "title": "أنشطة يدوية للأطفال",
-          "subtitle": "أعمال يدوية وأنشطة إبداعية",
-          "query": "PLO6SNzlJxq_7XPWQpCEMlRuWA0M6345iA",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "🪁",
-          "title": "طائرات ورقية",
-          "subtitle": "أفكار وصناعة طائرات ورقية",
-          "query": "PLu7jW6DS0kK6evzvAkTxtf_lbDWYS4qVC",
-          "minDurationMs": 0
-        },
-        {
-          "emoji": "♻️",
-          "title": "فن إعادة التدوير",
-          "subtitle": "أفكار فنية من مواد معاد تدويرها",
-          "query": "PLkNLAWO-JpHK6FYvVro_9Ou6viJP-PX5y",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "maxItems": 6
         }
       ]
     }
