@@ -1783,6 +1783,15 @@
             "ia:MDFfMjAyNTEwMjFfMjAyNTEwMjFfMTMwMgrYrtix2KjYtNin2Kog2KfZhNit2YTZgtipIDE4Lm1wNAppYWZfYTVhZGVkNDdlYWRkOTI5Y2U3ZmU"
           ],
           "maxItems": 17
+        },
+        {
+          "emoji": "👴",
+          "title": "العم جدو",
+          "subtitle": "حلقات كرتونية",
+          "query": "nibras:manual:archive:20260304_20260304_1344",
+          "source": "archive",
+          "contentId": "20260304_20260304_1344",
+          "minDurationMs": 0
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
