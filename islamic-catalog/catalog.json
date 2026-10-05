@@ -1780,11 +1780,14 @@
         {
           "emoji": "👴",
           "title": "العم جدو",
-          "subtitle": "حلقات كرتونية",
+          "subtitle": "17 حلقة بالصوت المنقّى",
           "query": "nibras:manual:archive:20260304_20260304_1344",
           "source": "archive",
           "contentId": "20260304_20260304_1344",
-          "minDurationMs": 0
+          "minDurationMs": 0,
+          "audioProfile": "mapped",
+          "audioFolder": "am_jeddo",
+          "maxItems": 17
         }
       ],
       "image": "https://raw.githubusercontent.com/sloom059-svg/nibras-catalog/main/artwork/movies.jpg"
