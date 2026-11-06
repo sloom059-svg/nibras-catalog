@@ -1,5 +1,5 @@
 {
-  "version": 161,
+  "version": 162,
   "providers": {
     "dailymotion": {
       "playerId": ""
@@ -1951,6 +1951,14 @@
           ],
           "audioProfile": "mapped",
           "audioFolder": "nageebkhalfan"
+        },
+        {
+          "emoji": "▶️",
+          "title": "بيني وبينك",
+          "subtitle": "",
+          "query": "PLn-NdhInrwuFx1kO1tLfng10I8KFl-fo0",
+          "minDurationMs": 0,
+          "audioProfile": "original"
         }
       ]
     },
